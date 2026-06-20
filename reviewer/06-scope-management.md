@@ -125,6 +125,14 @@ flowchart TD
     E --> E2["1.5.2 Go-live"]
 ```
 
+<!-- mobile-diagram:06-scope-management-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/06-scope-management-1.png" alt="06-scope-management diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *A WBS tree: the project branches into deliverables, then into work packages at the lowest level.*
 
 ### The 100% rule
@@ -160,6 +168,14 @@ flowchart LR
     D --> E["Measure performance & control change against this"]
 ```
 
+<!-- mobile-diagram:06-scope-management-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/06-scope-management-2.png" alt="06-scope-management diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *The scope baseline is the approved trio you defend; changes to it go through formal change control.*
 
 The load-bearing word here is **approved**. Once it's baselined, scope only changes through **integrated change control** — you don't quietly slip in an edit at midnight and hope nobody notices. That little bit of formality is exactly what stops the slow, silent bleed of scope creep.
@@ -194,6 +210,14 @@ flowchart TD
     G --> H
 ```
 
+<!-- mobile-diagram:06-scope-management-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/06-scope-management-3.png" alt="06-scope-management diagram 3" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *Integrated change control: nothing touches the baseline until impact is assessed and a decision is on the record.*
 
 And here's the quiet magic — it was never really about the bureaucracy. It's that **every "yes" now comes with a visible price tag**. Funny how the requests dry up the moment someone can see the schedule slip stapled to their bright idea.
@@ -221,6 +245,14 @@ flowchart TD
     Q3 -->|Yes| C["Could have: first to drop under pressure"]
     Q3 -->|No| W["Won't have this time: documented exclusion"]
 ```
+
+<!-- mobile-diagram:06-scope-management-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/06-scope-management-4.png" alt="06-scope-management diagram 4" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *A MoSCoW decision flow: each requirement lands in exactly one bucket. The high-value blockers become Must-haves; the explicit "Won't have" bucket keeps deferred work from sneaking back in.*
 
@@ -264,6 +296,14 @@ flowchart LR
     D -->|No| CR["Change request / defect repair"]
     CR --> CC["Control Scope -> Integrated Change Control"]
 ```
+
+<!-- mobile-diagram:06-scope-management-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/06-scope-management-5.png" alt="06-scope-management diagram 5" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *Note the order: a deliverable gets verified for quality first, then validated for acceptance by the customer.*
 

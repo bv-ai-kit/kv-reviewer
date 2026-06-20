@@ -93,6 +93,14 @@ flowchart LR
 ```
 *The five process groups with their feedback loops — Monitoring & Controlling (the dotted line) keeps an eye on everything, and a variance sends you back into Planning rather than straight to Closing.*
 
+<!-- mobile-diagram:03-lifecycle-and-process-groups-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/03-lifecycle-and-process-groups-1.png" alt="The five process groups with their feedback loops — Monitoring & Controlling (the dotted line) keeps an eye on everythin" />
+
+</details>
+<!-- /mobile-diagram -->
+
 > 🔁 **Sales → PM bridge:** You never planned an entire quarter of selling before picking up the phone once. You planned the next move, acted, read the response, and re-planned on the fly. That "plan a little, act, adjust, plan again" rhythm *is* the overlapping process-group cycle. Rolling-wave planning is just your disciplined sales hustle — now with a paper trail and a nicer name.
 
 ## The ten knowledge areas (and where this reviewer covers each)
@@ -151,6 +159,14 @@ mindmap
       Engage
 ```
 *The ten knowledge areas at a glance — these are the "subjects" of project management, and each one gets its own later module to shine in.*
+
+<!-- mobile-diagram:03-lifecycle-and-process-groups-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/03-lifecycle-and-process-groups-2.png" alt="The ten knowledge areas at a glance — these are the 'subjects' of project management, and each one gets its own later mo" />
+
+</details>
+<!-- /mobile-diagram -->
 
 ## PMBOK 7: from a process grid to performance domains
 
@@ -217,6 +233,14 @@ stateDiagram-v2
     Closeout --> [*]
 ```
 *Project phases moving through gates — each gate is a go / no-go / recycle decision, and "no-go" is a perfectly healthy, legitimate ending.*
+
+<!-- mobile-diagram:03-lifecycle-and-process-groups-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/03-lifecycle-and-process-groups-3.png" alt="Project phases moving through gates — each gate is a go / no-go / recycle decision, and 'no-go' is a perfectly healthy, " />
+
+</details>
+<!-- /mobile-diagram -->
 
 > 🔁 **Sales → PM bridge:** Plot twist — you already run gates. They're your **qualification checkpoints**. Before you'll write a proposal, you check budget, authority, need, and timeline (BANT). If a lead flunks qualification, you don't bulldoze toward "close" anyway — you disqualify and walk, with your dignity and your calendar intact. That's a no-go decision protecting your time. A phase gate is that exact discipline, scaled up to a whole project.
 

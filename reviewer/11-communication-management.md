@@ -76,6 +76,14 @@ flowchart TD
     WHY --> WHY2["Engagement level"]
 ```
 
+<!-- mobile-diagram:11-communication-management-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/11-communication-management-1.png" alt="11-communication-management diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *A communications management plan answers who, what, how, when, and why for every stakeholder.*
 
 ## 🔢 The communication channels formula
@@ -109,6 +117,14 @@ flowchart LR
     C --> D["15 people = 105 channels"]
     D --> E["20 people = 190 channels"]
 ```
+
+<!-- mobile-diagram:11-communication-management-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/11-communication-management-2.png" alt="11-communication-management diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *Each added person multiplies the lines of communication — coordination cost grows quadratically, not linearly.*
 
@@ -176,6 +192,14 @@ sequenceDiagram
     Note over PM,T: End on time
 ```
 
+<!-- mobile-diagram:11-communication-management-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/11-communication-management-3.png" alt="11-communication-management diagram 3" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *A clean status meeting: agenda first, decisions and owners captured live, minutes out fast.*
 
 ## 👂 The sender–receiver model, noise & barriers
@@ -197,6 +221,14 @@ flowchart LR
     R --> F["Feedback confirms meaning"]
     F -.-> S
 ```
+
+<!-- mobile-diagram:11-communication-management-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/11-communication-management-4.png" alt="11-communication-management diagram 4" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *The sender–receiver model: meaning only transfers when feedback confirms it survived the noise.*
 

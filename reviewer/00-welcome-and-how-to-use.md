@@ -104,6 +104,14 @@ flowchart LR
 ```
 *A bird's-eye map of the whole journey — six parts, building from foundations to a job-ready you.*
 
+<!-- mobile-diagram:00-welcome-and-how-to-use-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/00-welcome-and-how-to-use-1.png" alt="A bird's-eye map of the whole journey — six parts, building from foundations to a job-ready you." />
+
+</details>
+<!-- /mobile-diagram -->
+
 ### The parts in words
 
 - **Foundations** — what a project is, the life cycle, and who's involved. This is where your mental model gets built. *(You are here.)*
@@ -142,6 +150,14 @@ flowchart TD
     Advance --> Finish([Job-ready])
 ```
 *The recommended loop for each module — read, recall, teach, try, rest, space, advance.*
+
+<!-- mobile-diagram:00-welcome-and-how-to-use-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/00-welcome-and-how-to-use-2.png" alt="The recommended loop for each module — read, recall, teach, try, rest, space, advance." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ## ✅ How to track progress
 

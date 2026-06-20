@@ -52,6 +52,14 @@ flowchart LR
     E --> F["Approved cost baseline"]
 ```
 
+<!-- mobile-diagram:08-cost-and-budget-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/08-cost-and-budget-1.png" alt="08-cost-and-budget diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *Estimates narrow as you learn more — the cone of uncertainty closing in on an approved baseline.*
 
 ---
@@ -83,6 +91,14 @@ flowchart TD
     CB --> MR["+ Management reserve (unknown unknowns)"]
     MR --> TB["= Total project budget"]
 ```
+
+<!-- mobile-diagram:08-cost-and-budget-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/08-cost-and-budget-2.png" alt="08-cost-and-budget diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *The budget is built in layers — contingency lives inside the baseline, management reserve sits just outside it.*
 
@@ -160,6 +176,14 @@ flowchart TD
     EAC --> ETC["ETC = EAC - AC"]
 ```
 
+<!-- mobile-diagram:08-cost-and-budget-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/08-cost-and-budget-3.png" alt="08-cost-and-budget diagram 3" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *The three measured values (PV, EV, AC) quietly feed every variance, index, and forecast in EVM.*
 
 ---
@@ -202,6 +226,14 @@ quadrantChart
     "Cost trouble": [0.70, 0.25]
 ```
 
+<!-- mobile-diagram:08-cost-and-budget-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/08-cost-and-budget-4.png" alt="08-cost-and-budget diagram 4" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *Plotting SPI (horizontal) against CPI (vertical) — the bottom-left quadrant is where projects go to get quietly cancelled.*
 
 ---
@@ -218,6 +250,14 @@ pie title Sample project budget breakdown
     "Contingency reserve" : 10
     "Travel and other" : 5
 ```
+
+<!-- mobile-diagram:08-cost-and-budget-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/08-cost-and-budget-5.png" alt="08-cost-and-budget diagram 5" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *A representative cost baseline — labor usually steals the show, with a visible slice carved out for contingency.*
 

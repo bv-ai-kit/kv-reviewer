@@ -49,6 +49,14 @@ flowchart LR
 ```
 *From a sales win to a PM-ready bullet in five moves — the glow-up in slow motion.*
 
+<!-- mobile-diagram:20-landing-the-pm-job-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/20-landing-the-pm-job-1.png" alt="From a sales win to a PM-ready bullet in five moves — the glow-up in slow motion." />
+
+</details>
+<!-- /mobile-diagram -->
+
 ### The resume skeleton
 
 - **Top summary (3 lines):** State your target role plainly — no coy mystery here. "Aspiring/Associate Project Manager with X years coordinating cross-functional sales pursuits, now focused on delivery." Don't make them guess.
@@ -89,6 +97,14 @@ flowchart TD
     M --> SR["Senior PM / Program Manager"]
 ```
 *The realistic ladder — start on an on-ramp, climb deliberately.*
+
+<!-- mobile-diagram:20-landing-the-pm-job-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/20-landing-the-pm-job-2.png" alt="The realistic ladder — start on an on-ramp, climb deliberately." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ---
 
@@ -137,6 +153,14 @@ flowchart TD
     D --> D2["1.4.2 Hypercare"]
 ```
 *A WBS breaks a deliverable into bite-sized, assignable pieces — like prepping a big dinner party one dish at a time.*
+
+<!-- mobile-diagram:20-landing-the-pm-job-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/20-landing-the-pm-job-3.png" alt="A WBS breaks a deliverable into bite-sized, assignable pieces — like prepping a big dinner party one dish at a time." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ### Sample status report
 
@@ -205,6 +229,14 @@ flowchart LR
 ```
 *STAR keeps a behavioral answer tight, specific, and outcome-focused.*
 
+<!-- mobile-diagram:20-landing-the-pm-job-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/20-landing-the-pm-job-4.png" alt="STAR keeps a behavioral answer tight, specific, and outcome-focused." />
+
+</details>
+<!-- /mobile-diagram -->
+
 Spend most of your words on **Action** (it's about *you*, not the team) and always land the plane on a **quantified Result**. Here's it in motion, answering "managed competing priorities":
 
 > **S:** I carried 40 enterprise accounts during our busiest quarter. **T:** Three deals needed attention the same week with overlapping deadlines. **A:** I mapped each by deal size and close-date risk, batched the renewal paperwork, delegated the smallest to a junior rep, and renegotiated one timeline with the client. **R:** All three closed that month — $400K combined — with no slipped commitments.
@@ -241,6 +273,14 @@ journey
 ```
 *Treat interview prep as a journey with stages, not a single panicked cram session.*
 
+<!-- mobile-diagram:20-landing-the-pm-job-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/20-landing-the-pm-job-5.png" alt="Treat interview prep as a journey with stages, not a single panicked cram session." />
+
+</details>
+<!-- /mobile-diagram -->
+
 ---
 
 ## 6. A 30-60-90 day plan for your first PM role
@@ -261,6 +301,14 @@ timeline
     Days 61-90 : Lead a workstream : Propose an improvement : Be the trusted go-to
 ```
 *Ramp deliberately: listen first, contribute next, lead last.*
+
+<!-- mobile-diagram:20-landing-the-pm-job-6 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/20-landing-the-pm-job-6.png" alt="Ramp deliberately: listen first, contribute next, lead last." />
+
+</details>
+<!-- /mobile-diagram -->
 
 The classic rookie mistake is trying to lead on day three. But you'd never try to close on the first cold call — you'd qualify and build rapport first. Same energy here: the first 30 days are pure discovery, and that's not falling behind, that's doing it right.
 

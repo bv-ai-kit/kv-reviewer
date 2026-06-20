@@ -95,6 +95,14 @@ flowchart TD
     E --> E2["Market"]
 ```
 
+<!-- mobile-diagram:12-risk-management-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/12-risk-management-1.png" alt="12-risk-management diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *A Risk Breakdown Structure organizes risk sources into categories so identification is systematic, not just whatever pops into your head first.*
 
 ## Identifying risks
@@ -133,6 +141,14 @@ quadrantChart
     Minor UI rework: [0.3, 0.6]
     Office wifi outage: [0.2, 0.25]
 ```
+
+<!-- mobile-diagram:12-risk-management-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/12-risk-management-2.png" alt="12-risk-management diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *Risks in the high-probability / high-impact corner get your attention first; the low/low ones can usually be accepted with a shrug.*
 
@@ -175,6 +191,14 @@ flowchart LR
     O2 --> R1["Build EMV = -100k + 0.2 x -60k = -112k"]
     O4 --> R2["Buy EMV = -70k + 0.4 x -80k = -102k"]
 ```
+
+<!-- mobile-diagram:12-risk-management-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/12-risk-management-3.png" alt="12-risk-management diagram 3" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *Each path's expected value combines its known cost with the EMV of its uncertain outcome; here "Buy" (−102k) edges out "Build" (−112k).*
 
@@ -230,6 +254,14 @@ flowchart TD
     Mon --> Done["Risk Closed"]
 ```
 
+<!-- mobile-diagram:12-risk-management-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/12-risk-management-4.png" alt="12-risk-management diagram 4" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *The risk process is a loop, not a one-and-done — you keep re-identifying and re-assessing as the project evolves.*
 
 ## Reserves, secondary and residual risk
@@ -258,6 +290,14 @@ flowchart LR
     RP --> SR["Secondary risk: vendor may be unreliable"]
     RP --> RR["Residual risk: minor schedule slack still at risk"]
 ```
+
+<!-- mobile-diagram:12-risk-management-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/12-risk-management-5.png" alt="12-risk-management diagram 5" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *A response rarely makes risk vanish — it can spawn a new (secondary) risk and usually leaves a (residual) remainder behind.*
 

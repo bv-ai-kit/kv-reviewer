@@ -51,6 +51,14 @@ flowchart TD
     Start --> P1 --> P2 --> P3 --> P4 --> P5 --> P6
 ```
 
+<!-- mobile-diagram:readme-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="reviewer/diagrams/readme-1.png" alt="readme diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *The whole arc: lay the foundation, learn to deliver, master the people, get fluent in agile and tooling, then walk into the job. Reference is always a click away when you need it.*
 
 ---
@@ -152,6 +160,14 @@ flowchart LR
     F --> C
     E --> G["Pause whenever — your story holds the page"]
 ```
+
+<!-- mobile-diagram:readme-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="reviewer/diagrams/readme-2.png" alt="readme diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *The rhythm of every chapter: read, try, check, and only then move on.*
 

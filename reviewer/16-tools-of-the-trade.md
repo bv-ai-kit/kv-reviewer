@@ -46,6 +46,14 @@ flowchart TD
 ```
 *The five tool families you'll meet on almost any project, with the headline products in each.*
 
+<!-- mobile-diagram:16-tools-of-the-trade-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/16-tools-of-the-trade-1.png" alt="The five tool families you'll meet on almost any project, with the headline products in each." />
+
+</details>
+<!-- /mobile-diagram -->
+
 ### Work / PM management (the core)
 
 This is where most of your day will happen — your home base, your favorite booth at the café. These tools track discrete **work items** — tasks, stories, bugs, tickets — as they move through stages toward "done."
@@ -124,6 +132,14 @@ flowchart LR
 ```
 *A sample board workflow: cards flow left to right, can bounce back from Review to In Progress, and only reach Done after passing review.*
 
+<!-- mobile-diagram:16-tools-of-the-trade-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/16-tools-of-the-trade-2.png" alt="A sample board workflow: cards flow left to right, can bounce back from Review to In Progress, and only reach Done after" />
+
+</details>
+<!-- /mobile-diagram -->
+
 > 🔁 **Sales → PM bridge:** A **WIP limit** is the same discipline your best sales managers already preached — "stop adding new opportunities until you advance the ones you have." Capping In Progress is that exact anti-thrash rule applied to tasks. Finishing beats starting. (It's the will-they-won't-they tension of project work: stop flirting with new cards and *close* the one in front of you.)
 
 ## 🎯 Picking a tool without over-tooling
@@ -149,6 +165,14 @@ flowchart TD
     Q3 -->|No| Monday["Monday or ClickUp"]
 ```
 *A quick decision tree — start from team size and process, not from the flashiest brand.*
+
+<!-- mobile-diagram:16-tools-of-the-trade-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/16-tools-of-the-trade-3.png" alt="A quick decision tree — start from team size and process, not from the flashiest brand." />
+
+</details>
+<!-- /mobile-diagram -->
 
 **The danger of over-tooling.** It's tempting to buy the powerful tool and configure fifteen custom fields, four automations, and three integrations before a single task ships. Don't. That's the classic too-much-too-soon mistake, and it has real costs:
 

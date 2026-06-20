@@ -75,6 +75,14 @@ flowchart TD
     A --> Better["Better product and process"]
 ```
 
+<!-- mobile-diagram:15-agile-and-scrum-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/15-agile-and-scrum-1.png" alt="15-agile-and-scrum diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *The values fuel the pillars, and the pillars turn in a loop — inspect, adapt, repeat.*
 
 ---
@@ -148,6 +156,14 @@ flowchart LR
     Retro --> PB
 ```
 
+<!-- mobile-diagram:15-agile-and-scrum-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/15-agile-and-scrum-2.png" alt="15-agile-and-scrum diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *The Scrum framework loop: the backlog feeds planning, the Sprint runs with daily check-ins, then review and retro feed learning back into the backlog.*
 
 ```mermaid
@@ -166,6 +182,14 @@ sequenceDiagram
     St->>PO: Feedback reshapes Product Backlog
     Dev->>SM: Retrospective - agree on one improvement
 ```
+
+<!-- mobile-diagram:15-agile-and-scrum-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/15-agile-and-scrum-3.png" alt="15-agile-and-scrum diagram 3" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *One Sprint, start to finish: who talks to whom, and when.*
 
@@ -242,6 +266,14 @@ flowchart LR
     Discuss --> Pick
 ```
 
+<!-- mobile-diagram:15-agile-and-scrum-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/15-agile-and-scrum-4.png" alt="15-agile-and-scrum diagram 4" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *Planning poker: private picks, simultaneous reveal, discuss the outliers, converge.*
 
 ---
@@ -272,6 +304,14 @@ flowchart TD
     end
 ```
 
+<!-- mobile-diagram:15-agile-and-scrum-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/15-agile-and-scrum-5.png" alt="15-agile-and-scrum diagram 5" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *Burndown tracks what's left; burnup tracks what's done against a visible scope line.*
 
 ---
@@ -296,6 +336,14 @@ flowchart LR
     Dev --> Review["Review (limit 2)"]
     Review --> Done[Done]
 ```
+
+<!-- mobile-diagram:15-agile-and-scrum-6 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/15-agile-and-scrum-6.png" alt="15-agile-and-scrum diagram 6" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *A Kanban board with WIP-limited columns — work is pulled left to right, and a full column means finish before you start.*
 

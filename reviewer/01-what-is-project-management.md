@@ -79,6 +79,14 @@ flowchart TD
 ```
 *A portfolio holds programs and projects; programs group related projects toward a shared outcome.*
 
+<!-- mobile-diagram:01-what-is-project-management-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/01-what-is-project-management-1.png" alt="A portfolio holds programs and projects; programs group related projects toward a shared outcome." />
+
+</details>
+<!-- /mobile-diagram -->
+
 The distinctions, plainly:
 
 | Level | What it is | Managed for |
@@ -123,6 +131,14 @@ sequenceDiagram
 ```
 *A day in the life: mostly communicating, unblocking, and integrating — not "doing the build."*
 
+<!-- mobile-diagram:01-what-is-project-management-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/01-what-is-project-management-2.png" alt="A day in the life: mostly communicating, unblocking, and integrating — not 'doing the build.'" />
+
+</details>
+<!-- /mobile-diagram -->
+
 What that actually breaks down into:
 
 - **Communicating** — studies and PMI both put this at roughly *80–90% of a PM's time*. Status, expectations, and bad news delivered early (always early).
@@ -152,6 +168,14 @@ flowchart TD
     C --- S
 ```
 *The triple constraint: move one side and the others must flex. Quality lives in the middle.*
+
+<!-- mobile-diagram:01-what-is-project-management-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/01-what-is-project-management-3.png" alt="The triple constraint: move one side and the others must flex. Quality lives in the middle." />
+
+</details>
+<!-- /mobile-diagram -->
 
 Here's the rule that makes it powerful: **you cannot fix all three independently.** Tug on one and at least one other has to give.
 
@@ -266,6 +290,14 @@ flowchart LR
     DO --> DO6
 ```
 *PMBOK 7 at a glance — principles guide behavior, domains guide focus, both serve value.*
+
+<!-- mobile-diagram:01-what-is-project-management-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/01-what-is-project-management-4.png" alt="PMBOK 7 at a glance — principles guide behavior, domains guide focus, both serve value." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ---
 

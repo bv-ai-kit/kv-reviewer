@@ -244,6 +244,14 @@ flowchart TD
     PEOPLE --> PPL3["Communication channels"]
 ```
 
+<!-- mobile-diagram:21-glossary-and-cheatsheets-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/21-glossary-and-cheatsheets-1.png" alt="21-glossary-and-cheatsheets diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *The whole reviewer at a glance — use it to spot which branches still feel a little shaky and deserve a second date.*
 
 ```mermaid
@@ -265,6 +273,14 @@ flowchart TD
     EAC --> VAC["VAC = BAC - EAC"]
     BAC --> VAC
 ```
+
+<!-- mobile-diagram:21-glossary-and-cheatsheets-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/21-glossary-and-cheatsheets-2.png" alt="21-glossary-and-cheatsheets diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *How the EVM inputs flow into variances, indexes, and forecasts — follow any line backward like a detective and it lands on PV, EV, AC, or BAC.*
 

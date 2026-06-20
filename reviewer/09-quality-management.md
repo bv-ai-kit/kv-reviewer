@@ -75,6 +75,14 @@ flowchart LR
 ```
 *Plan sets the bar, QA shapes the process that builds it, QC inspects what came out — and every failure loops back to make the process smarter.*
 
+<!-- mobile-diagram:09-quality-management-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/09-quality-management-1.png" alt="Plan sets the bar, QA shapes the process that builds it, QC inspects what came out — and every failure loops back to mak" />
+
+</details>
+<!-- /mobile-diagram -->
+
 > 🔁 **Sales → PM bridge:** QA is like building a **repeatable sales playbook** — a tested discovery script, a qualification checklist, a demo flow — so *every* rep produces good calls by default. QC is like **listening to a recorded call afterward** to check whether it cleared the bar. The playbook (QA, prevention) scales gorgeously; reviewing every single call one by one (QC, inspection) does not. Smart teams pour their love into the playbook.
 
 ---
@@ -109,6 +117,14 @@ flowchart LR
     B -.->|avoids| F
 ```
 *Every dollar you spend on the left (conformance) quietly buys down many dollars on the right (failure).*
+
+<!-- mobile-diagram:09-quality-management-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/09-quality-management-2.png" alt="Every dollar you spend on the left (conformance) quietly buys down many dollars on the right (failure)." />
+
+</details>
+<!-- /mobile-diagram -->
 
 > 🔁 **Sales → PM bridge:** You already know **external failure cost** in your bones — it's the **churned customer**, the **chargeback**, the **furious one-star review**, the **referral you'll now never get**. Spending one honest hour up front qualifying a deal properly (prevention) is pocket change next to the months you'll burn babysitting and then losing a bad-fit account (external failure). CoQ just slaps a number on the instinct you already trust.
 
@@ -146,6 +162,14 @@ flowchart LR
 ```
 *A fishbone view: the spine points at the problem; each "bone" is a category of suspect worth interrogating.*
 
+<!-- mobile-diagram:09-quality-management-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/09-quality-management-3.png" alt="A fishbone view: the spine points at the problem; each 'bone' is a category of suspect worth interrogating." />
+
+</details>
+<!-- /mobile-diagram -->
+
 ### Pareto — focus where it counts
 
 The **Pareto principle** says roughly **80% of effects come from 20% of causes**. A Pareto chart ranks defect types from most to least frequent so you go after the vital few instead of scattering your energy across the trivial many.
@@ -160,6 +184,14 @@ pie showData
     "Other" : 8
 ```
 *The top two causes account for ~69% of defects — fix those first for the biggest payoff.*
+
+<!-- mobile-diagram:09-quality-management-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/09-quality-management-4.png" alt="The top two causes account for ~69% of defects — fix those first for the biggest payoff." />
+
+</details>
+<!-- /mobile-diagram -->
 
 > 🔁 **Sales → PM bridge:** Pareto is just your pipeline instinct dressed up in a chart: a small slice of accounts drives most of your revenue, and a handful of objections kill most of your deals. You already chase the **vital few** instead of spreading yourself thin across everything — that's exactly how a PM decides which defects deserve the attention.
 
@@ -189,6 +221,14 @@ stateDiagram-v2
     Act --> Plan: standardize and repeat
 ```
 *PDCA never really "ends" — each Act feeds the next Plan, so improvement quietly compounds.*
+
+<!-- mobile-diagram:09-quality-management-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/09-quality-management-5.png" alt="PDCA never really 'ends' — each Act feeds the next Plan, so improvement quietly compounds." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ### Kaizen, Lean, and Six Sigma
 

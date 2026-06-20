@@ -65,6 +65,14 @@ flowchart LR
 ```
 *A predictive project is a one-way phased timeline — value lands near the end, after the waterfall completes.*
 
+<!-- mobile-diagram:04-predictive-agile-hybrid-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/04-predictive-agile-hybrid-1.png" alt="A predictive project is a one-way phased timeline — value lands near the end, after the waterfall completes." />
+
+</details>
+<!-- /mobile-diagram -->
+
 ---
 
 ## 2. Agile
@@ -133,6 +141,14 @@ flowchart LR
 ```
 *Agile is a loop that repeats — every cycle ships a usable increment and feeds the next plan.*
 
+<!-- mobile-diagram:04-predictive-agile-hybrid-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/04-predictive-agile-hybrid-2.png" alt="Agile is a loop that repeats — every cycle ships a usable increment and feeds the next plan." />
+
+</details>
+<!-- /mobile-diagram -->
+
 ---
 
 ## 3. Scrum vs Kanban (a quick orientation)
@@ -176,6 +192,14 @@ flowchart TD
     style R fill:#dcfce7
 ```
 *Hybrid: a predictive backbone sets the guardrails while agile sprints deliver the work inside them.*
+
+<!-- mobile-diagram:04-predictive-agile-hybrid-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/04-predictive-agile-hybrid-3.png" alt="Hybrid: a predictive backbone sets the guardrails while agile sprints deliver the work inside them." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ---
 
@@ -231,6 +255,14 @@ flowchart TD
 ```
 *Place the work by how much change and uncertainty it carries — the pairing suggests the approach.*
 
+<!-- mobile-diagram:04-predictive-agile-hybrid-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/04-predictive-agile-hybrid-4.png" alt="Place the work by how much change and uncertainty it carries — the pairing suggests the approach." />
+
+</details>
+<!-- /mobile-diagram -->
+
 And now a decision tree you can actually run in a real meeting without breaking a sweat:
 
 ```mermaid
@@ -249,6 +281,14 @@ flowchart TD
     style Hyb fill:#e9d5ff
 ```
 *A quick decision tree — answer four questions and land on predictive, agile, or hybrid.*
+
+<!-- mobile-diagram:04-predictive-agile-hybrid-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/04-predictive-agile-hybrid-5.png" alt="A quick decision tree — answer four questions and land on predictive, agile, or hybrid." />
+
+</details>
+<!-- /mobile-diagram -->
 
 > 🔁 **Sales → PM bridge:** You already qualify deals before choosing a motion — budget, authority, need, timeline. Choosing a delivery approach is the same discovery instinct: qualify the *project* (stability, change, risk, regulation, team) before committing to how you'll run it. Pick the play that fits the buyer in front of you.
 

@@ -111,6 +111,14 @@ stateDiagram-v2
 ```
 *The team lifecycle — and notice teams can slip back a stage when membership or scope changes.*
 
+<!-- mobile-diagram:10-resources-teams-leadership-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/10-resources-teams-leadership-1.png" alt="The team lifecycle — and notice teams can slip back a stage when membership or scope changes." />
+
+</details>
+<!-- /mobile-diagram -->
+
 | Stage | What it feels like | What the PM does |
 |-------|--------------------|------------------|
 | **Forming** | Polite, cautious, unsure of roles | Provide clear direction, set goals, introduce people, establish ground rules |
@@ -159,6 +167,14 @@ flowchart TD
 ```
 *Match your style to where each person sits — directing, coaching, supporting, or delegating as their competence and commitment shift.*
 
+<!-- mobile-diagram:10-resources-teams-leadership-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/10-resources-teams-leadership-2.png" alt="Match your style to where each person sits — directing, coaching, supporting, or delegating as their competence and comm" />
+
+</details>
+<!-- /mobile-diagram -->
+
 ### Other styles worth knowing
 
 | Style | One-liner | Good for |
@@ -189,6 +205,14 @@ flowchart TD
     D --> E["Self-Actualization (growth, mastery)"]
 ```
 *Climb only happens from the bottom up — meet the lower need before reaching for the higher one.*
+
+<!-- mobile-diagram:10-resources-teams-leadership-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/10-resources-teams-leadership-3.png" alt="Climb only happens from the bottom up — meet the lower need before reaching for the higher one." />
+
+</details>
+<!-- /mobile-diagram -->
 
 **Practical move:** If a teammate seems checked out, play detective — ask *which level is unmet*. Fear of layoffs (Safety)? Feeling excluded (Belonging)? No recognition (Esteem)? Treat the actual gap, not the symptom.
 
@@ -291,6 +315,14 @@ flowchart TD
 ```
 *The four EQ domains — start with self-awareness; the rest builds on it.*
 
+<!-- mobile-diagram:10-resources-teams-leadership-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/10-resources-teams-leadership-4.png" alt="The four EQ domains — start with self-awareness; the rest builds on it." />
+
+</details>
+<!-- /mobile-diagram -->
+
 > 🔁 **Sales → PM bridge:** Reading the room is **social awareness**. Staying composed when a prospect went ice-cold is **self-management**. Knowing when to push and when to just listen is **relationship management**. You've been training your EQ on every single call for years — honestly, it might already be your strongest PM asset.
 
 ---
@@ -310,6 +342,14 @@ flowchart TD
     DEV --> SME["SMEs on demand"]
 ```
 *A simple cross-functional team — solid lines are reporting flow; the dotted line is influence, not authority.*
+
+<!-- mobile-diagram:10-resources-teams-leadership-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/10-resources-teams-leadership-5.png" alt="A simple cross-functional team — solid lines are reporting flow; the dotted line is influence, not authority." />
+
+</details>
+<!-- /mobile-diagram -->
 
 In a **matrix organization** (very common), team members report to *both* you and their functional manager — which is exactly why your negotiation and influence skills matter so much. You'll often lead people you don't formally own. Welcome to project management; sound familiar from herding a deal team across three departments who all answered to someone else?
 

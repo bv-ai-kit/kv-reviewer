@@ -54,6 +54,14 @@ gantt
 ```
 *Each bar is one week; the final week (Integration & Capstone) is the critical one — the part of the plan you don't let slip.*
 
+<!-- mobile-diagram:22-study-plan-and-self-assessment-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/22-study-plan-and-self-assessment-1.png" alt="Each bar is one week; the final week (Integration & Capstone) is the critical one — the part of the plan you don't let s" />
+
+</details>
+<!-- /mobile-diagram -->
+
 ### Weekly cadence
 
 Pick a repeatable shape for each week — something you can run on autopilot when you're tired. Here's one that works:
@@ -95,6 +103,14 @@ flowchart LR
     Leech --> R2
 ```
 *Anything you keep missing loops back into frequent review instead of getting a premature "done" stamp.*
+
+<!-- mobile-diagram:22-study-plan-and-self-assessment-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/22-study-plan-and-self-assessment-2.png" alt="Anything you keep missing loops back into frequent review instead of getting a premature 'done' stamp." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ## ⚡ The 2-week "interview crunch" variant
 
@@ -145,6 +161,14 @@ flowchart TD
     Stake --> Status
 ```
 *The artifacts feed each other like a good ensemble cast: the charter anchors everything, and the status report rolls it all up.*
+
+<!-- mobile-diagram:22-study-plan-and-self-assessment-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/22-study-plan-and-self-assessment-3.png" alt="The artifacts feed each other like a good ensemble cast: the charter anchors everything, and the status report rolls it " />
+
+</details>
+<!-- /mobile-diagram -->
 
 **Mini-WBS to get you started:**
 
@@ -239,6 +263,14 @@ flowchart TD
     Q3 -- Yes --> Go([Apply with confidence])
 ```
 *Walk the gates in order; loop back until each one is a clear, unhesitating "yes."*
+
+<!-- mobile-diagram:22-study-plan-and-self-assessment-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/22-study-plan-and-self-assessment-4.png" alt="Walk the gates in order; loop back until each one is a clear, unhesitating 'yes.'" />
+
+</details>
+<!-- /mobile-diagram -->
 
 ## 🧪 Final mixed-topic quiz
 

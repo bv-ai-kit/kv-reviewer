@@ -64,6 +64,14 @@ flowchart TD
 ```
 *The three salience attributes overlap; the stakeholder holding all three is "definitive" and earns your immediate focus.*
 
+<!-- mobile-diagram:13-stakeholder-engagement-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/13-stakeholder-engagement-1.png" alt="The three salience attributes overlap; the stakeholder holding all three is 'definitive' and earns your immediate focus." />
+
+</details>
+<!-- /mobile-diagram -->
+
 Use salience as a fast gut-check. For day-to-day planning, though, most PMs reach for the simpler grid below — it's the one you'll actually keep open.
 
 ---
@@ -101,6 +109,14 @@ quadrantChart
     Adjacent Team PM: [0.3, 0.35]
 ```
 *Each dot is a real stakeholder; their quadrant tells you how much effort and what kind of contact to invest.*
+
+<!-- mobile-diagram:13-stakeholder-engagement-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/13-stakeholder-engagement-2.png" alt="Each dot is a real stakeholder; their quadrant tells you how much effort and what kind of contact to invest." />
+
+</details>
+<!-- /mobile-diagram -->
 
 **A concrete read of that chart:** the Sponsor VP sits top-right (Manage Closely — your leading love interest, the relationship you protect above all). The CFO is top-left (Keep Satisfied — powerful, not deeply engaged, so keep them comfortable without drowning them in detail). The End User Rep is lower-right (Keep Informed — low formal power but high interest, your natural advocate). The Adjacent Team PM is bottom-left (Monitor — light touch for now).
 
@@ -144,6 +160,14 @@ stateDiagram-v2
     Leading --> [*]
 ```
 *Engagement usually moves one step at a time — a Resistant stakeholder rarely leaps straight to Leading, so target the next realistic step.*
+
+<!-- mobile-diagram:13-stakeholder-engagement-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/13-stakeholder-engagement-3.png" alt="Engagement usually moves one step at a time — a Resistant stakeholder rarely leaps straight to Leading, so target the ne" />
+
+</details>
+<!-- /mobile-diagram -->
 
 > ⚠️ Don't over-engineer. Not everyone needs to be **Leading** — that's the relationship equivalent of expecting every acquaintance to be your best friend. A "Monitor" stakeholder being **Neutral** is perfectly fine. Spend your energy where the **gap × importance** is largest.
 
@@ -206,6 +230,14 @@ sequenceDiagram
 ```
 *Resistance is handled like an objection in a sales call: surface it, validate it, address the underlying cost, then follow through.*
 
+<!-- mobile-diagram:13-stakeholder-engagement-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/13-stakeholder-engagement-4.png" alt="Resistance is handled like an objection in a sales call: surface it, validate it, address the underlying cost, then foll" />
+
+</details>
+<!-- /mobile-diagram -->
+
 Practical tactics:
 
 - **Find the why.** Is it loss of control, extra workload, a past failed project, or a turf threat? The remedy differs for each — diagnose before you prescribe.
@@ -228,6 +260,14 @@ flowchart LR
     E["Surprise them with a miss"] --> F["Trust drops fast"]
 ```
 *Trust compounds slowly through reliability and honesty, but a single hidden bad-news surprise can drain the account fast.*
+
+<!-- mobile-diagram:13-stakeholder-engagement-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/13-stakeholder-engagement-5.png" alt="Trust compounds slowly through reliability and honesty, but a single hidden bad-news surprise can drain the account fast" />
+
+</details>
+<!-- /mobile-diagram -->
 
 The habits that build trust:
 
@@ -263,6 +303,14 @@ mindmap
       Re-plot at milestones
 ```
 *The four ongoing moves of stakeholder engagement: identify, analyze, engage, and sustain — looping for the whole project.*
+
+<!-- mobile-diagram:13-stakeholder-engagement-6 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/13-stakeholder-engagement-6.png" alt="The four ongoing moves of stakeholder engagement: identify, analyze, engage, and sustain — looping for the whole project" />
+
+</details>
+<!-- /mobile-diagram -->
 
 ---
 

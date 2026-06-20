@@ -60,6 +60,14 @@ flowchart TD
     Q3 -- Yes --> A["Actionable KPI — put it on the dashboard"]
 ```
 
+<!-- mobile-diagram:17-metrics-and-reporting-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/17-metrics-and-reporting-1.png" alt="17-metrics-and-reporting diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *The bouncer at the dashboard door: run every proposed number through this gate before it gets in.*
 
 ---
@@ -129,6 +137,14 @@ flowchart LR
     C -. "horizontal gap to top = lead time" .-> T["Estimate delivery time"]
 ```
 
+<!-- mobile-diagram:17-metrics-and-reporting-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/17-metrics-and-reporting-2.png" alt="17-metrics-and-reporting diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *Concept view of a cumulative flow diagram: a fat, growing middle band is your early warning that work is stuck — the suspicious bulge that says "investigate me."*
 
 > 🔁 **Sales → PM bridge:** Cycle time is your **days-to-close**, and a CFD is your **pipeline-by-stage report**. When deals bunch up in "Proposal Sent," you know exactly which stage to go unstick. Same move here: when the "In Progress" band starts to bulge, you've just spotted the stage strangling your delivery. Follow the clue.
@@ -175,6 +191,14 @@ flowchart TD
     Q2 -- No --> Red
 ```
 
+<!-- mobile-diagram:17-metrics-and-reporting-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/17-metrics-and-reporting-3.png" alt="17-metrics-and-reporting diagram 3" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *A RAG decision flow: color is earned by tolerance and mitigation, never by gut feel or wishful thinking.*
 
 ### Dashboards and tailoring to the audience
@@ -195,6 +219,14 @@ flowchart TD
     D --> Team["Team board<br/>burndown, blockers, cycle time"]
     D --> Stake["Stakeholder view<br/>milestones, plain-language status"]
 ```
+
+<!-- mobile-diagram:17-metrics-and-reporting-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/17-metrics-and-reporting-4.png" alt="17-metrics-and-reporting diagram 4" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *One source of truth, three tailored views — same numbers, audience-fit packaging.*
 

@@ -101,6 +101,14 @@ flowchart TD
     Later --> PMP
 ```
 
+<!-- mobile-diagram:19-certifications-roadmap-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/19-certifications-roadmap-1.png" alt="19-certifications-roadmap diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *Figure 1 — "Which cert first?" Most sales switchers land on the bottom paths first, then slow-burn their way toward PMP.*
 
 The logic in plain English, no flowchart required:
@@ -125,6 +133,14 @@ flowchart TD
     M1 --> M2 --> M3 --> M4 --> M5
 ```
 
+<!-- mobile-diagram:19-certifications-roadmap-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/19-certifications-roadmap-2.png" alt="19-certifications-roadmap diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *Figure 2 — A roadmap, not a rulebook. The slow part isn't the studying — it's accumulating the documented leadership hours PMP requires.*
 
 If you'd rather see it as overlapping blocks of effort:
@@ -142,6 +158,14 @@ gantt
     PMP prep - 35 contact hrs  :c1, 2027-06-01, 60d
     PMP application and exam    :c2, 2027-08-01, 45d
 ```
+
+<!-- mobile-diagram:19-certifications-roadmap-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/19-certifications-roadmap-3.png" alt="19-certifications-roadmap diagram 3" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *Figure 3 — The same plan as a Gantt. Notice the experience block is the long pole holding up the whole tent; the certs just bookend it.*
 

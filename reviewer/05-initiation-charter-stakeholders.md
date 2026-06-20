@@ -77,6 +77,14 @@ flowchart TD
     I --> J["Planning begins"]
 ```
 
+<!-- mobile-diagram:05-initiation-charter-stakeholders-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/05-initiation-charter-stakeholders-1.png" alt="05-initiation-charter-stakeholders diagram 1" />
+
+</details>
+<!-- /mobile-diagram -->
+
 *From a vague idea to an authorized project: each gate quietly filters out the work that isn't worth doing.*
 
 ---
@@ -139,6 +147,14 @@ flowchart TD
     WHO --> WHO3["Key stakeholders"]
     WHO --> WHO4["PM authority level"]
 ```
+
+<!-- mobile-diagram:05-initiation-charter-stakeholders-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/05-initiation-charter-stakeholders-2.png" alt="05-initiation-charter-stakeholders diagram 2" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *Four questions every charter answers: why, what, how much / how limited, and who.*
 
@@ -210,6 +226,14 @@ sequenceDiagram
     PM->>St: Invite to kickoff meeting
     St-->>PM: Confirm attendance and commitment
 ```
+
+<!-- mobile-diagram:05-initiation-charter-stakeholders-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/05-initiation-charter-stakeholders-3.png" alt="05-initiation-charter-stakeholders diagram 3" />
+
+</details>
+<!-- /mobile-diagram -->
 
 *Charter approval is a conversation, not a rubber stamp — the PM drafts, the sponsor authorizes, stakeholders buy in.*
 

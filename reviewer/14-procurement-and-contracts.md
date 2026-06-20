@@ -61,6 +61,14 @@ flowchart TD
 ```
 *A make-vs-buy decision flow — capability and capacity gate the choice before cost even gets a word in.*
 
+<!-- mobile-diagram:14-procurement-and-contracts-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/14-procurement-and-contracts-1.png" alt="A make-vs-buy decision flow — capability and capacity gate the choice before cost even gets a word in." />
+
+</details>
+<!-- /mobile-diagram -->
+
 > 🔁 **Sales → PM bridge:** Make-or-buy is just **qualifying a lead in reverse**. In sales you asked "is this prospect worth my time, or do I disqualify?" Here you ask "is this work worth a vendor, or do we keep it?" Same disciplined filter — you're protecting your time and money instead of chasing every shiny thing that winks at you.
 
 ---
@@ -114,6 +122,14 @@ flowchart LR
 ```
 *Cost risk slides from the buyer (cost-reimbursable, left) to the seller (firm fixed price, right). The clearer your scope, the further right you can safely sit.*
 
+<!-- mobile-diagram:14-procurement-and-contracts-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/14-procurement-and-contracts-2.png" alt="Cost risk slides from the buyer (cost-reimbursable, left) to the seller (firm fixed price, right). The clearer your scop" />
+
+</details>
+<!-- /mobile-diagram -->
+
 **Rule of thumb:** the **better defined the scope, the more fixed (right) you should go**. Vague scope + fixed price = a vendor who cuts corners or fights you on every change like it's a custody battle. Vague scope is exactly where cost-reimbursable earns its keep.
 
 ---
@@ -129,6 +145,14 @@ flowchart LR
     C --> D["Contract closed"]
 ```
 *The procurement spine: decide what to buy, run the selection, then administer and close out.*
+
+<!-- mobile-diagram:14-procurement-and-contracts-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/14-procurement-and-contracts-3.png" alt="The procurement spine: decide what to buy, run the selection, then administer and close out." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ### 1. Plan Procurement Management
 
@@ -169,6 +193,14 @@ sequenceDiagram
     B->>S: Formal closeout and final payment
 ```
 *The buyer–seller handshake across the full lifecycle, from first hello to clean closeout.*
+
+<!-- mobile-diagram:14-procurement-and-contracts-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/14-procurement-and-contracts-4.png" alt="The buyer–seller handshake across the full lifecycle, from first hello to clean closeout." />
+
+</details>
+<!-- /mobile-diagram -->
 
 ---
 
@@ -265,6 +297,14 @@ stateDiagram-v2
     Closeout --> [*]: Contract closed
 ```
 *A contract's life: changes loop back into the active state once signed; unresolved disagreements detour through dispute resolution.*
+
+<!-- mobile-diagram:14-procurement-and-contracts-5 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/14-procurement-and-contracts-5.png" alt="A contract's life: changes loop back into the active state once signed; unresolved disagreements detour through dispute " />
+
+</details>
+<!-- /mobile-diagram -->
 
 **Closing out cleanly** matters as much as starting well — a graceful exit is its own kind of class. Verify all deliverables meet acceptance criteria, release any retainage or final payment, get a signed acceptance, capture lessons learned, and archive the records. An un-closed contract is a loose end that lingers — and loose ends have a way of coming back in the sequel.
 

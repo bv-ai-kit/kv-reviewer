@@ -55,6 +55,14 @@ quadrantChart
 ```
 *Assertiveness rises up the vertical axis; cooperativeness rises across — compromising sits dead center, the diplomatic meet-in-the-middle.*
 
+<!-- mobile-diagram:18-negotiation-conflict-softskills-1 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/18-negotiation-conflict-softskills-1.png" alt="Assertiveness rises up the vertical axis; cooperativeness rises across — compromising sits dead center, the diplomatic m" />
+
+</details>
+<!-- /mobile-diagram -->
+
 Here's when each one actually fits:
 
 | Mode | Assertive? | Cooperative? | Use it when… | Watch out for… |
@@ -102,6 +110,14 @@ flowchart TD
 ```
 *A negotiation is really just checking whether a ZOPA exists, then trading inside it until the offer beats your BATNA.*
 
+<!-- mobile-diagram:18-negotiation-conflict-softskills-2 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/18-negotiation-conflict-softskills-2.png" alt="A negotiation is really just checking whether a ZOPA exists, then trading inside it until the offer beats your BATNA." />
+
+</details>
+<!-- /mobile-diagram -->
+
 A quick worked example. You want a feature delivered by **June 1**; you'd grudgingly accept **June 15**. The vendor can't go earlier than **June 10** but would happily take **July 1**. Your acceptable range (June 1–15) overlaps theirs (June 10 onward) between **June 10 and June 15** — *that's* the ZOPA. The deal lives there. Everything outside it is wishful thinking.
 
 ### Principled negotiation
@@ -139,6 +155,14 @@ flowchart LR
 ```
 *With no org-chart power, a PM earns yes through credibility, reciprocity, and shared goals.*
 
+<!-- mobile-diagram:18-negotiation-conflict-softskills-3 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/18-negotiation-conflict-softskills-3.png" alt="With no org-chart power, a PM earns yes through credibility, reciprocity, and shared goals." />
+
+</details>
+<!-- /mobile-diagram -->
+
 Credibility is the slow burn — and the most important one. You build it by being almost boringly reliable: your status reports are accurate, your meetings start on time, your "I'll find out and get back to you by 3" lands at 2:55. Every kept promise is a tiny deposit. Then, when you eventually need a big favor, you make a withdrawal from an account that's actually full. (Slow burns always pay off in the last act.)
 
 > 🔁 **Sales → PM bridge:** You never had authority over your buyers either — you couldn't *make* anyone purchase. You closed by building trust, trading value, and tying the product to *their* goal. Influencing a cross-functional team is the exact same game, just with a longer relationship and no commission check at the end.
@@ -165,6 +189,14 @@ sequenceDiagram
     PM->>TM: Agree on a path forward together
 ```
 *SBI keeps feedback factual and specific, then hands the floor back so it stays a dialogue, not a monologue.*
+
+<!-- mobile-diagram:18-negotiation-conflict-softskills-4 -->
+<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+
+<img src="diagrams/18-negotiation-conflict-softskills-4.png" alt="SBI keeps feedback factual and specific, then hands the floor back so it stays a dialogue, not a monologue." />
+
+</details>
+<!-- /mobile-diagram -->
 
 Why it works: it strips out the two things that make feedback explode — **vague generalizations** ("you're always sloppy") and **mind-reading** ("you clearly didn't care"). You can argue with a label; you can't argue with "the API errored twice in the demo." SBI keeps you on observable facts, so the other person can actually *hear* you instead of bracing to defend themselves.
 
