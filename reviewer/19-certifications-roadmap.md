@@ -102,7 +102,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:19-certifications-roadmap-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/19-certifications-roadmap-1.png" alt="19-certifications-roadmap diagram 1" />
 
@@ -134,7 +134,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:19-certifications-roadmap-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/19-certifications-roadmap-2.png" alt="19-certifications-roadmap diagram 2" />
 
@@ -160,7 +160,7 @@ gantt
 ```
 
 <!-- mobile-diagram:19-certifications-roadmap-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/19-certifications-roadmap-3.png" alt="19-certifications-roadmap diagram 3" />
 

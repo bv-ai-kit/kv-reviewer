@@ -245,7 +245,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:21-glossary-and-cheatsheets-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/21-glossary-and-cheatsheets-1.png" alt="21-glossary-and-cheatsheets diagram 1" />
 
@@ -275,7 +275,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:21-glossary-and-cheatsheets-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/21-glossary-and-cheatsheets-2.png" alt="21-glossary-and-cheatsheets diagram 2" />
 

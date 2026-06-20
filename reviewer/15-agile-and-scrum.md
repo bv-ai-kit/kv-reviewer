@@ -76,7 +76,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:15-agile-and-scrum-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/15-agile-and-scrum-1.png" alt="15-agile-and-scrum diagram 1" />
 
@@ -157,7 +157,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:15-agile-and-scrum-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/15-agile-and-scrum-2.png" alt="15-agile-and-scrum diagram 2" />
 
@@ -184,7 +184,7 @@ sequenceDiagram
 ```
 
 <!-- mobile-diagram:15-agile-and-scrum-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/15-agile-and-scrum-3.png" alt="15-agile-and-scrum diagram 3" />
 
@@ -267,7 +267,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:15-agile-and-scrum-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/15-agile-and-scrum-4.png" alt="15-agile-and-scrum diagram 4" />
 
@@ -305,7 +305,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:15-agile-and-scrum-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/15-agile-and-scrum-5.png" alt="15-agile-and-scrum diagram 5" />
 
@@ -338,7 +338,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:15-agile-and-scrum-6 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/15-agile-and-scrum-6.png" alt="15-agile-and-scrum diagram 6" />
 

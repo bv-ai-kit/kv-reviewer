@@ -53,7 +53,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:08-cost-and-budget-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/08-cost-and-budget-1.png" alt="08-cost-and-budget diagram 1" />
 
@@ -93,7 +93,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:08-cost-and-budget-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/08-cost-and-budget-2.png" alt="08-cost-and-budget diagram 2" />
 
@@ -177,7 +177,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:08-cost-and-budget-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/08-cost-and-budget-3.png" alt="08-cost-and-budget diagram 3" />
 
@@ -227,7 +227,7 @@ quadrantChart
 ```
 
 <!-- mobile-diagram:08-cost-and-budget-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/08-cost-and-budget-4.png" alt="08-cost-and-budget diagram 4" />
 
@@ -252,7 +252,7 @@ pie title Sample project budget breakdown
 ```
 
 <!-- mobile-diagram:08-cost-and-budget-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/08-cost-and-budget-5.png" alt="08-cost-and-budget diagram 5" />
 

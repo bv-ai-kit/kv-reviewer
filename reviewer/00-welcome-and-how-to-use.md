@@ -105,7 +105,7 @@ flowchart LR
 *A bird's-eye map of the whole journey — six parts, building from foundations to a job-ready you.*
 
 <!-- mobile-diagram:00-welcome-and-how-to-use-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/00-welcome-and-how-to-use-1.png" alt="A bird's-eye map of the whole journey — six parts, building from foundations to a job-ready you." />
 
@@ -152,7 +152,7 @@ flowchart TD
 *The recommended loop for each module — read, recall, teach, try, rest, space, advance.*
 
 <!-- mobile-diagram:00-welcome-and-how-to-use-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/00-welcome-and-how-to-use-2.png" alt="The recommended loop for each module — read, recall, teach, try, rest, space, advance." />
 

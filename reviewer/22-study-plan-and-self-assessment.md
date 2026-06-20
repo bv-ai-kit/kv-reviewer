@@ -55,7 +55,7 @@ gantt
 *Each bar is one week; the final week (Integration & Capstone) is the critical one — the part of the plan you don't let slip.*
 
 <!-- mobile-diagram:22-study-plan-and-self-assessment-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/22-study-plan-and-self-assessment-1.png" alt="Each bar is one week; the final week (Integration & Capstone) is the critical one — the part of the plan you don't let s" />
 
@@ -105,7 +105,7 @@ flowchart LR
 *Anything you keep missing loops back into frequent review instead of getting a premature "done" stamp.*
 
 <!-- mobile-diagram:22-study-plan-and-self-assessment-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/22-study-plan-and-self-assessment-2.png" alt="Anything you keep missing loops back into frequent review instead of getting a premature 'done' stamp." />
 
@@ -163,7 +163,7 @@ flowchart TD
 *The artifacts feed each other like a good ensemble cast: the charter anchors everything, and the status report rolls it all up.*
 
 <!-- mobile-diagram:22-study-plan-and-self-assessment-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/22-study-plan-and-self-assessment-3.png" alt="The artifacts feed each other like a good ensemble cast: the charter anchors everything, and the status report rolls it " />
 
@@ -265,7 +265,7 @@ flowchart TD
 *Walk the gates in order; loop back until each one is a clear, unhesitating "yes."*
 
 <!-- mobile-diagram:22-study-plan-and-self-assessment-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/22-study-plan-and-self-assessment-4.png" alt="Walk the gates in order; loop back until each one is a clear, unhesitating 'yes.'" />
 

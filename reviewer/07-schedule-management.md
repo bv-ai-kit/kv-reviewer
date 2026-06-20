@@ -39,7 +39,7 @@ flowchart TD
 *The scheduling process, step by step — each one feeds the next, and you can't sequence what you haven't defined yet.*
 
 <!-- mobile-diagram:07-schedule-management-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/07-schedule-management-1.png" alt="The scheduling process, step by step — each one feeds the next, and you can't sequence what you haven't defined yet." />
 
@@ -104,7 +104,7 @@ flowchart LR
 *A small network. The highlighted path A → B → D → E is the critical path (3+5+2+3 = 13 days). The path through C is shorter, so C gets some breathing room (float).*
 
 <!-- mobile-diagram:07-schedule-management-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/07-schedule-management-2.png" alt="A small network. The highlighted path A → B → D → E is the critical path (3+5+2+3 = 13 days). The path through C is shor" />
 
@@ -193,7 +193,7 @@ gantt
 *A Gantt view of the very same project. Bars show duration on the calendar; the diamonds (milestones) mark zero-duration events like approvals and go-live.*
 
 <!-- mobile-diagram:07-schedule-management-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/07-schedule-management-3.png" alt="A Gantt view of the very same project. Bars show duration on the calendar; the diamonds (milestones) mark zero-duration " />
 
@@ -222,7 +222,7 @@ flowchart TD
 *Choosing a compression technique: money buys crashing, tolerance for risk buys fast-tracking, and neither one means it's time for a grown-up scope/date conversation.*
 
 <!-- mobile-diagram:07-schedule-management-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/07-schedule-management-4.png" alt="Choosing a compression technique: money buys crashing, tolerance for risk buys fast-tracking, and neither one means it's" />
 

@@ -80,7 +80,7 @@ flowchart TD
 *A portfolio holds programs and projects; programs group related projects toward a shared outcome.*
 
 <!-- mobile-diagram:01-what-is-project-management-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/01-what-is-project-management-1.png" alt="A portfolio holds programs and projects; programs group related projects toward a shared outcome." />
 
@@ -132,7 +132,7 @@ sequenceDiagram
 *A day in the life: mostly communicating, unblocking, and integrating — not "doing the build."*
 
 <!-- mobile-diagram:01-what-is-project-management-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/01-what-is-project-management-2.png" alt="A day in the life: mostly communicating, unblocking, and integrating — not 'doing the build.'" />
 
@@ -170,7 +170,7 @@ flowchart TD
 *The triple constraint: move one side and the others must flex. Quality lives in the middle.*
 
 <!-- mobile-diagram:01-what-is-project-management-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/01-what-is-project-management-3.png" alt="The triple constraint: move one side and the others must flex. Quality lives in the middle." />
 
@@ -292,7 +292,7 @@ flowchart LR
 *PMBOK 7 at a glance — principles guide behavior, domains guide focus, both serve value.*
 
 <!-- mobile-diagram:01-what-is-project-management-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/01-what-is-project-management-4.png" alt="PMBOK 7 at a glance — principles guide behavior, domains guide focus, both serve value." />
 

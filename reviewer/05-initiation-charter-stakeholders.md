@@ -78,7 +78,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:05-initiation-charter-stakeholders-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/05-initiation-charter-stakeholders-1.png" alt="05-initiation-charter-stakeholders diagram 1" />
 
@@ -149,7 +149,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:05-initiation-charter-stakeholders-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/05-initiation-charter-stakeholders-2.png" alt="05-initiation-charter-stakeholders diagram 2" />
 
@@ -228,7 +228,7 @@ sequenceDiagram
 ```
 
 <!-- mobile-diagram:05-initiation-charter-stakeholders-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/05-initiation-charter-stakeholders-3.png" alt="05-initiation-charter-stakeholders diagram 3" />
 

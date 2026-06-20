@@ -52,7 +52,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:readme-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="reviewer/diagrams/readme-1.png" alt="readme diagram 1" />
 
@@ -162,7 +162,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:readme-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="reviewer/diagrams/readme-2.png" alt="readme diagram 2" />
 
@@ -184,6 +184,8 @@ flowchart LR
 | 🧠 | A **check yourself** quiz — no grades, answers hidden till you peek |
 | 🧰 | A **try it** — one small thing to do with your hands |
 | 🔑 | **Key terms** for the chapter |
+
+> 📱 **Reading on the GitHub mobile app?** The app shows Mermaid diagrams as raw code instead of pictures. Under any diagram, tap **🖼️ Tap to view as an image (for the GitHub mobile app)** to see it rendered. (On the website the diagrams draw themselves live — no tapping needed.)
 
 ---
 

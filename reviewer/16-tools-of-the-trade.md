@@ -47,7 +47,7 @@ flowchart TD
 *The five tool families you'll meet on almost any project, with the headline products in each.*
 
 <!-- mobile-diagram:16-tools-of-the-trade-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/16-tools-of-the-trade-1.png" alt="The five tool families you'll meet on almost any project, with the headline products in each." />
 
@@ -133,7 +133,7 @@ flowchart LR
 *A sample board workflow: cards flow left to right, can bounce back from Review to In Progress, and only reach Done after passing review.*
 
 <!-- mobile-diagram:16-tools-of-the-trade-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/16-tools-of-the-trade-2.png" alt="A sample board workflow: cards flow left to right, can bounce back from Review to In Progress, and only reach Done after" />
 
@@ -167,7 +167,7 @@ flowchart TD
 *A quick decision tree — start from team size and process, not from the flashiest brand.*
 
 <!-- mobile-diagram:16-tools-of-the-trade-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/16-tools-of-the-trade-3.png" alt="A quick decision tree — start from team size and process, not from the flashiest brand." />
 

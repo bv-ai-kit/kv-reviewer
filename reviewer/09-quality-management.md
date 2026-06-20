@@ -76,7 +76,7 @@ flowchart LR
 *Plan sets the bar, QA shapes the process that builds it, QC inspects what came out — and every failure loops back to make the process smarter.*
 
 <!-- mobile-diagram:09-quality-management-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/09-quality-management-1.png" alt="Plan sets the bar, QA shapes the process that builds it, QC inspects what came out — and every failure loops back to mak" />
 
@@ -119,7 +119,7 @@ flowchart LR
 *Every dollar you spend on the left (conformance) quietly buys down many dollars on the right (failure).*
 
 <!-- mobile-diagram:09-quality-management-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/09-quality-management-2.png" alt="Every dollar you spend on the left (conformance) quietly buys down many dollars on the right (failure)." />
 
@@ -163,7 +163,7 @@ flowchart LR
 *A fishbone view: the spine points at the problem; each "bone" is a category of suspect worth interrogating.*
 
 <!-- mobile-diagram:09-quality-management-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/09-quality-management-3.png" alt="A fishbone view: the spine points at the problem; each 'bone' is a category of suspect worth interrogating." />
 
@@ -186,7 +186,7 @@ pie showData
 *The top two causes account for ~69% of defects — fix those first for the biggest payoff.*
 
 <!-- mobile-diagram:09-quality-management-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/09-quality-management-4.png" alt="The top two causes account for ~69% of defects — fix those first for the biggest payoff." />
 
@@ -223,7 +223,7 @@ stateDiagram-v2
 *PDCA never really "ends" — each Act feeds the next Plan, so improvement quietly compounds.*
 
 <!-- mobile-diagram:09-quality-management-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/09-quality-management-5.png" alt="PDCA never really 'ends' — each Act feeds the next Plan, so improvement quietly compounds." />
 

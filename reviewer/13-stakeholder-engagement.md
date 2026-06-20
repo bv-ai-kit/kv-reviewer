@@ -65,7 +65,7 @@ flowchart TD
 *The three salience attributes overlap; the stakeholder holding all three is "definitive" and earns your immediate focus.*
 
 <!-- mobile-diagram:13-stakeholder-engagement-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/13-stakeholder-engagement-1.png" alt="The three salience attributes overlap; the stakeholder holding all three is 'definitive' and earns your immediate focus." />
 
@@ -111,7 +111,7 @@ quadrantChart
 *Each dot is a real stakeholder; their quadrant tells you how much effort and what kind of contact to invest.*
 
 <!-- mobile-diagram:13-stakeholder-engagement-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/13-stakeholder-engagement-2.png" alt="Each dot is a real stakeholder; their quadrant tells you how much effort and what kind of contact to invest." />
 
@@ -162,7 +162,7 @@ stateDiagram-v2
 *Engagement usually moves one step at a time — a Resistant stakeholder rarely leaps straight to Leading, so target the next realistic step.*
 
 <!-- mobile-diagram:13-stakeholder-engagement-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/13-stakeholder-engagement-3.png" alt="Engagement usually moves one step at a time — a Resistant stakeholder rarely leaps straight to Leading, so target the ne" />
 
@@ -231,7 +231,7 @@ sequenceDiagram
 *Resistance is handled like an objection in a sales call: surface it, validate it, address the underlying cost, then follow through.*
 
 <!-- mobile-diagram:13-stakeholder-engagement-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/13-stakeholder-engagement-4.png" alt="Resistance is handled like an objection in a sales call: surface it, validate it, address the underlying cost, then foll" />
 
@@ -262,7 +262,7 @@ flowchart LR
 *Trust compounds slowly through reliability and honesty, but a single hidden bad-news surprise can drain the account fast.*
 
 <!-- mobile-diagram:13-stakeholder-engagement-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/13-stakeholder-engagement-5.png" alt="Trust compounds slowly through reliability and honesty, but a single hidden bad-news surprise can drain the account fast" />
 
@@ -305,7 +305,7 @@ mindmap
 *The four ongoing moves of stakeholder engagement: identify, analyze, engage, and sustain — looping for the whole project.*
 
 <!-- mobile-diagram:13-stakeholder-engagement-6 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/13-stakeholder-engagement-6.png" alt="The four ongoing moves of stakeholder engagement: identify, analyze, engage, and sustain — looping for the whole project" />
 

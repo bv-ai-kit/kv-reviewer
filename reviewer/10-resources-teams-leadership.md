@@ -112,7 +112,7 @@ stateDiagram-v2
 *The team lifecycle — and notice teams can slip back a stage when membership or scope changes.*
 
 <!-- mobile-diagram:10-resources-teams-leadership-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/10-resources-teams-leadership-1.png" alt="The team lifecycle — and notice teams can slip back a stage when membership or scope changes." />
 
@@ -168,7 +168,7 @@ flowchart TD
 *Match your style to where each person sits — directing, coaching, supporting, or delegating as their competence and commitment shift.*
 
 <!-- mobile-diagram:10-resources-teams-leadership-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/10-resources-teams-leadership-2.png" alt="Match your style to where each person sits — directing, coaching, supporting, or delegating as their competence and comm" />
 
@@ -207,7 +207,7 @@ flowchart TD
 *Climb only happens from the bottom up — meet the lower need before reaching for the higher one.*
 
 <!-- mobile-diagram:10-resources-teams-leadership-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/10-resources-teams-leadership-3.png" alt="Climb only happens from the bottom up — meet the lower need before reaching for the higher one." />
 
@@ -316,7 +316,7 @@ flowchart TD
 *The four EQ domains — start with self-awareness; the rest builds on it.*
 
 <!-- mobile-diagram:10-resources-teams-leadership-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/10-resources-teams-leadership-4.png" alt="The four EQ domains — start with self-awareness; the rest builds on it." />
 
@@ -344,7 +344,7 @@ flowchart TD
 *A simple cross-functional team — solid lines are reporting flow; the dotted line is influence, not authority.*
 
 <!-- mobile-diagram:10-resources-teams-leadership-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/10-resources-teams-leadership-5.png" alt="A simple cross-functional team — solid lines are reporting flow; the dotted line is influence, not authority." />
 

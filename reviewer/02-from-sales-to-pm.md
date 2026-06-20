@@ -94,7 +94,7 @@ flowchart LR
 *Your existing toolkit on the left maps almost one-to-one onto the PM toolkit on the right — like two people who finish each other's sentences.*
 
 <!-- mobile-diagram:02-from-sales-to-pm-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/02-from-sales-to-pm-1.png" alt="Your existing toolkit on the left maps almost one-to-one onto the PM toolkit on the right — like two people who finish e" />
 
@@ -148,7 +148,7 @@ mindmap
 *The strengths sales already built into you, grouped the way a PM would actually use them.*
 
 <!-- mobile-diagram:02-from-sales-to-pm-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/02-from-sales-to-pm-2.png" alt="The strengths sales already built into you, grouped the way a PM would actually use them." />
 
@@ -238,7 +238,7 @@ quadrantChart
 *Top-left is where to invest your energy now; the right side is the solid ground you already stand on.*
 
 <!-- mobile-diagram:02-from-sales-to-pm-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/02-from-sales-to-pm-3.png" alt="Top-left is where to invest your energy now; the right side is the solid ground you already stand on." />
 

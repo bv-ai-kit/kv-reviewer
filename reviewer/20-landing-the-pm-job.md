@@ -50,7 +50,7 @@ flowchart LR
 *From a sales win to a PM-ready bullet in five moves — the glow-up in slow motion.*
 
 <!-- mobile-diagram:20-landing-the-pm-job-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/20-landing-the-pm-job-1.png" alt="From a sales win to a PM-ready bullet in five moves — the glow-up in slow motion." />
 
@@ -99,7 +99,7 @@ flowchart TD
 *The realistic ladder — start on an on-ramp, climb deliberately.*
 
 <!-- mobile-diagram:20-landing-the-pm-job-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/20-landing-the-pm-job-2.png" alt="The realistic ladder — start on an on-ramp, climb deliberately." />
 
@@ -155,7 +155,7 @@ flowchart TD
 *A WBS breaks a deliverable into bite-sized, assignable pieces — like prepping a big dinner party one dish at a time.*
 
 <!-- mobile-diagram:20-landing-the-pm-job-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/20-landing-the-pm-job-3.png" alt="A WBS breaks a deliverable into bite-sized, assignable pieces — like prepping a big dinner party one dish at a time." />
 
@@ -230,7 +230,7 @@ flowchart LR
 *STAR keeps a behavioral answer tight, specific, and outcome-focused.*
 
 <!-- mobile-diagram:20-landing-the-pm-job-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/20-landing-the-pm-job-4.png" alt="STAR keeps a behavioral answer tight, specific, and outcome-focused." />
 
@@ -274,7 +274,7 @@ journey
 *Treat interview prep as a journey with stages, not a single panicked cram session.*
 
 <!-- mobile-diagram:20-landing-the-pm-job-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/20-landing-the-pm-job-5.png" alt="Treat interview prep as a journey with stages, not a single panicked cram session." />
 
@@ -303,7 +303,7 @@ timeline
 *Ramp deliberately: listen first, contribute next, lead last.*
 
 <!-- mobile-diagram:20-landing-the-pm-job-6 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/20-landing-the-pm-job-6.png" alt="Ramp deliberately: listen first, contribute next, lead last." />
 

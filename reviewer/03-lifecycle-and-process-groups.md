@@ -94,7 +94,7 @@ flowchart LR
 *The five process groups with their feedback loops — Monitoring & Controlling (the dotted line) keeps an eye on everything, and a variance sends you back into Planning rather than straight to Closing.*
 
 <!-- mobile-diagram:03-lifecycle-and-process-groups-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/03-lifecycle-and-process-groups-1.png" alt="The five process groups with their feedback loops — Monitoring & Controlling (the dotted line) keeps an eye on everythin" />
 
@@ -161,7 +161,7 @@ mindmap
 *The ten knowledge areas at a glance — these are the "subjects" of project management, and each one gets its own later module to shine in.*
 
 <!-- mobile-diagram:03-lifecycle-and-process-groups-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/03-lifecycle-and-process-groups-2.png" alt="The ten knowledge areas at a glance — these are the 'subjects' of project management, and each one gets its own later mo" />
 
@@ -235,7 +235,7 @@ stateDiagram-v2
 *Project phases moving through gates — each gate is a go / no-go / recycle decision, and "no-go" is a perfectly healthy, legitimate ending.*
 
 <!-- mobile-diagram:03-lifecycle-and-process-groups-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/03-lifecycle-and-process-groups-3.png" alt="Project phases moving through gates — each gate is a go / no-go / recycle decision, and 'no-go' is a perfectly healthy, " />
 

@@ -66,7 +66,7 @@ flowchart LR
 *A predictive project is a one-way phased timeline — value lands near the end, after the waterfall completes.*
 
 <!-- mobile-diagram:04-predictive-agile-hybrid-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/04-predictive-agile-hybrid-1.png" alt="A predictive project is a one-way phased timeline — value lands near the end, after the waterfall completes." />
 
@@ -142,7 +142,7 @@ flowchart LR
 *Agile is a loop that repeats — every cycle ships a usable increment and feeds the next plan.*
 
 <!-- mobile-diagram:04-predictive-agile-hybrid-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/04-predictive-agile-hybrid-2.png" alt="Agile is a loop that repeats — every cycle ships a usable increment and feeds the next plan." />
 
@@ -194,7 +194,7 @@ flowchart TD
 *Hybrid: a predictive backbone sets the guardrails while agile sprints deliver the work inside them.*
 
 <!-- mobile-diagram:04-predictive-agile-hybrid-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/04-predictive-agile-hybrid-3.png" alt="Hybrid: a predictive backbone sets the guardrails while agile sprints deliver the work inside them." />
 
@@ -256,7 +256,7 @@ flowchart TD
 *Place the work by how much change and uncertainty it carries — the pairing suggests the approach.*
 
 <!-- mobile-diagram:04-predictive-agile-hybrid-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/04-predictive-agile-hybrid-4.png" alt="Place the work by how much change and uncertainty it carries — the pairing suggests the approach." />
 
@@ -283,7 +283,7 @@ flowchart TD
 *A quick decision tree — answer four questions and land on predictive, agile, or hybrid.*
 
 <!-- mobile-diagram:04-predictive-agile-hybrid-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/04-predictive-agile-hybrid-5.png" alt="A quick decision tree — answer four questions and land on predictive, agile, or hybrid." />
 

@@ -61,7 +61,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:17-metrics-and-reporting-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/17-metrics-and-reporting-1.png" alt="17-metrics-and-reporting diagram 1" />
 
@@ -138,7 +138,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:17-metrics-and-reporting-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/17-metrics-and-reporting-2.png" alt="17-metrics-and-reporting diagram 2" />
 
@@ -192,7 +192,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:17-metrics-and-reporting-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/17-metrics-and-reporting-3.png" alt="17-metrics-and-reporting diagram 3" />
 
@@ -221,7 +221,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:17-metrics-and-reporting-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/17-metrics-and-reporting-4.png" alt="17-metrics-and-reporting diagram 4" />
 

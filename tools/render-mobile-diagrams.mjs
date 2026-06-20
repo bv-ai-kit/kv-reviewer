@@ -14,7 +14,7 @@ import path from 'node:path';
 const ROOT = path.resolve(path.join(import.meta.dirname, '..'));
 const REVIEWER = path.join(ROOT, 'reviewer');
 const DIAGRAMS = path.join(REVIEWER, 'diagrams');
-const SUMMARY = '🖼️ View as image (for the GitHub mobile app)';
+const SUMMARY = '🖼️ Tap to view as an image (for the GitHub mobile app)';
 const STRIP_RE = /\n?[ \t]*<!-- mobile-diagram:[\s\S]*?<!-- \/mobile-diagram -->\n?/g;
 
 await mkdir(DIAGRAMS, { recursive: true });

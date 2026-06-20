@@ -56,7 +56,7 @@ quadrantChart
 *Assertiveness rises up the vertical axis; cooperativeness rises across — compromising sits dead center, the diplomatic meet-in-the-middle.*
 
 <!-- mobile-diagram:18-negotiation-conflict-softskills-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/18-negotiation-conflict-softskills-1.png" alt="Assertiveness rises up the vertical axis; cooperativeness rises across — compromising sits dead center, the diplomatic m" />
 
@@ -111,7 +111,7 @@ flowchart TD
 *A negotiation is really just checking whether a ZOPA exists, then trading inside it until the offer beats your BATNA.*
 
 <!-- mobile-diagram:18-negotiation-conflict-softskills-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/18-negotiation-conflict-softskills-2.png" alt="A negotiation is really just checking whether a ZOPA exists, then trading inside it until the offer beats your BATNA." />
 
@@ -156,7 +156,7 @@ flowchart LR
 *With no org-chart power, a PM earns yes through credibility, reciprocity, and shared goals.*
 
 <!-- mobile-diagram:18-negotiation-conflict-softskills-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/18-negotiation-conflict-softskills-3.png" alt="With no org-chart power, a PM earns yes through credibility, reciprocity, and shared goals." />
 
@@ -191,7 +191,7 @@ sequenceDiagram
 *SBI keeps feedback factual and specific, then hands the floor back so it stays a dialogue, not a monologue.*
 
 <!-- mobile-diagram:18-negotiation-conflict-softskills-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/18-negotiation-conflict-softskills-4.png" alt="SBI keeps feedback factual and specific, then hands the floor back so it stays a dialogue, not a monologue." />
 

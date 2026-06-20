@@ -62,7 +62,7 @@ flowchart TD
 *A make-vs-buy decision flow — capability and capacity gate the choice before cost even gets a word in.*
 
 <!-- mobile-diagram:14-procurement-and-contracts-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/14-procurement-and-contracts-1.png" alt="A make-vs-buy decision flow — capability and capacity gate the choice before cost even gets a word in." />
 
@@ -123,7 +123,7 @@ flowchart LR
 *Cost risk slides from the buyer (cost-reimbursable, left) to the seller (firm fixed price, right). The clearer your scope, the further right you can safely sit.*
 
 <!-- mobile-diagram:14-procurement-and-contracts-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/14-procurement-and-contracts-2.png" alt="Cost risk slides from the buyer (cost-reimbursable, left) to the seller (firm fixed price, right). The clearer your scop" />
 
@@ -147,7 +147,7 @@ flowchart LR
 *The procurement spine: decide what to buy, run the selection, then administer and close out.*
 
 <!-- mobile-diagram:14-procurement-and-contracts-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/14-procurement-and-contracts-3.png" alt="The procurement spine: decide what to buy, run the selection, then administer and close out." />
 
@@ -195,7 +195,7 @@ sequenceDiagram
 *The buyer–seller handshake across the full lifecycle, from first hello to clean closeout.*
 
 <!-- mobile-diagram:14-procurement-and-contracts-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/14-procurement-and-contracts-4.png" alt="The buyer–seller handshake across the full lifecycle, from first hello to clean closeout." />
 
@@ -299,7 +299,7 @@ stateDiagram-v2
 *A contract's life: changes loop back into the active state once signed; unresolved disagreements detour through dispute resolution.*
 
 <!-- mobile-diagram:14-procurement-and-contracts-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/14-procurement-and-contracts-5.png" alt="A contract's life: changes loop back into the active state once signed; unresolved disagreements detour through dispute " />
 

@@ -77,7 +77,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:11-communication-management-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/11-communication-management-1.png" alt="11-communication-management diagram 1" />
 
@@ -119,7 +119,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:11-communication-management-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/11-communication-management-2.png" alt="11-communication-management diagram 2" />
 
@@ -193,7 +193,7 @@ sequenceDiagram
 ```
 
 <!-- mobile-diagram:11-communication-management-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/11-communication-management-3.png" alt="11-communication-management diagram 3" />
 
@@ -223,7 +223,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:11-communication-management-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/11-communication-management-4.png" alt="11-communication-management diagram 4" />
 

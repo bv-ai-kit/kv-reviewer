@@ -126,7 +126,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:06-scope-management-1 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/06-scope-management-1.png" alt="06-scope-management diagram 1" />
 
@@ -169,7 +169,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:06-scope-management-2 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/06-scope-management-2.png" alt="06-scope-management diagram 2" />
 
@@ -211,7 +211,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:06-scope-management-3 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/06-scope-management-3.png" alt="06-scope-management diagram 3" />
 
@@ -247,7 +247,7 @@ flowchart TD
 ```
 
 <!-- mobile-diagram:06-scope-management-4 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/06-scope-management-4.png" alt="06-scope-management diagram 4" />
 
@@ -298,7 +298,7 @@ flowchart LR
 ```
 
 <!-- mobile-diagram:06-scope-management-5 -->
-<details><summary>🖼️ View as image (for the GitHub mobile app)</summary>
+<details><summary>🖼️ Tap to view as an image (for the GitHub mobile app)</summary>
 
 <img src="diagrams/06-scope-management-5.png" alt="06-scope-management diagram 5" />
 
