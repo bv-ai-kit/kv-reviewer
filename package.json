@@ -1,0 +1,17 @@
+{
+  "name": "kv-reviewer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sales-to-Project-Management study reviewer + static progress-tracking website.",
+  "type": "module",
+  "scripts": {
+    "diagrams": "node tools/render-mobile-diagrams.mjs",
+    "diagrams:missing": "node tools/render-missing.mjs",
+    "build": "node tools/build-site.mjs",
+    "serve": "node tools/static-serve.mjs"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^18.0.5"
+  }
+}

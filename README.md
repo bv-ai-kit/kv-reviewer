@@ -2,6 +2,8 @@
 
 > A self-paced guide that turns your **sales career** into a confident leap into **project management** — written to read like a book you can't put down, not a textbook you have to survive. Cozy, witty, and built for short sittings. Pause anytime; your story holds the page.
 
+> ✨ **Prefer a website that remembers your place?** Read the **[interactive version](https://bv-ai-kit.github.io/kv-reviewer/)** — it mirrors every chapter, lets you tick modules off as you finish them, shows a progress dashboard with time estimates, and saves it all privately in your own browser (nothing leaves your device). *(Built from this repo's [`docs/`](docs) folder.)*
+
 Hi. 👋 Come in, get comfy. If you've spent your career in sales — chasing quotas, running discovery calls, reading a room, talking a flat "no" into a "let's talk" — then here's a secret the PM world won't tell you on day one: **you already own half the job.** This guide hands you the other half, in plain language, with a little drama, and a diagram on almost every page.
 
 It's **23 short modules**, roughly **14–16 hours** end to end — but please don't binge it like a deadline. Read one, let it settle, come back. Each module is a self-contained chapter with its own hook, its own visuals, a no-grades quiz, and one small thing to try. Think of it as a slow burn: by the last chapter, you and project management are *definitely* a couple.
