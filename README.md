@@ -2,7 +2,7 @@
 
 > A self-paced guide that turns your **sales career** into a confident leap into **project management** — written to read like a book you can't put down, not a textbook you have to survive. Cozy, witty, and built for short sittings. Pause anytime; your story holds the page.
 
-Hi. 👋 Come in, grab your coffee. If you've spent your career in sales — chasing quotas, running discovery calls, reading a room, talking a flat "no" into a "let's talk" — then here's a secret the PM world won't tell you on day one: **you already own half the job.** This guide hands you the other half, in plain language, with a little drama, and a diagram on almost every page.
+Hi. 👋 Come in, get comfy. If you've spent your career in sales — chasing quotas, running discovery calls, reading a room, talking a flat "no" into a "let's talk" — then here's a secret the PM world won't tell you on day one: **you already own half the job.** This guide hands you the other half, in plain language, with a little drama, and a diagram on almost every page.
 
 It's **23 short modules**, roughly **14–16 hours** end to end — but please don't binge it like a deadline. Read one, let it settle, come back. Each module is a self-contained chapter with its own hook, its own visuals, a no-grades quiz, and one small thing to try. Think of it as a slow burn: by the last chapter, you and project management are *definitely* a couple.
 
@@ -175,4 +175,4 @@ flowchart LR
 
 👉 **Turn to [Module 00 — Welcome & How to Use This Reviewer](reviewer/00-welcome-and-how-to-use.md).**
 
-You already did the bravest part — deciding to change your story. The rest is just good chapters and a little practice. Pour the coffee. Let's begin. ☕💪
+You already did the bravest part — deciding to change your story. The rest is just good chapters and a little practice. Settle in. Let's begin. 💪

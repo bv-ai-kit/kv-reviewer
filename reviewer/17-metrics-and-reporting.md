@@ -137,7 +137,7 @@ flowchart LR
 
 ## ⏸️ Pause & reflect
 
-Natural stopping point — close the laptop, top off the coffee, come back whenever. The concepts above are the foundation; reporting (below) is how you *communicate* them so they actually matter.
+Natural stopping point — close the laptop, take a real break, come back whenever. The concepts above are the foundation; reporting (below) is how you *communicate* them so they actually matter.
 
 Before you move on, sit with these two:
 

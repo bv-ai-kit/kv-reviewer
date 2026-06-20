@@ -162,7 +162,7 @@ No rush. Bookmark it here if you need to.
 
 ## Strategies to move stakeholders along
 
-Once you can see the gaps, you close them with deliberate tactics. The move depends entirely on **where they are now** — you don't open with a grand gesture when a coffee will do:
+Once you can see the gaps, you close them with deliberate tactics. The move depends entirely on **where they are now** — you don't open with a grand gesture when a quick chat will do:
 
 | Moving from → to | What tends to work |
 |---|---|

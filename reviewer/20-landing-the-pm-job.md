@@ -17,7 +17,7 @@
 
 Okay, real talk: a job hunt is just a sales campaign with a quota, a pipeline, and a close date. You've run that play a hundred times. The only thing that changed is the **product** you're selling — and this time, the product is you.
 
-You've spent years getting strangers to trust you, juggling a dozen moving parts at once, and hitting deadlines when the pressure was on. That is not "no PM experience." That's PM experience wearing a sales badge. This module is the makeover montage — we take the badge off and let the PM underneath step into the light. Grab your coffee. Let's go land it.
+You've spent years getting strangers to trust you, juggling a dozen moving parts at once, and hitting deadlines when the pressure was on. That is not "no PM experience." That's PM experience wearing a sales badge. This module is the makeover montage — we take the badge off and let the PM underneath step into the light. Settle in. Let's go land it.
 
 ---
 

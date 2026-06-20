@@ -151,7 +151,7 @@ A note on sequencing, because this is where people stall out: **certs are quick;
 
 ## ⏸️ Pause & reflect
 
-This is a perfectly safe place to close the laptop and come back later — your progress here is just thinking, and good thinking has earned itself a coffee break. Go on.
+This is a perfectly safe place to close the laptop and come back later — your progress here is just thinking, and good thinking has earned itself a real break. Go on.
 
 Before you move on, sit with these:
 

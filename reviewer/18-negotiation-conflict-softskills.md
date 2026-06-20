@@ -16,7 +16,7 @@
 
 Okay, real talk: here's the secret nobody hands you on day one. The "soft skills" in project management are actually the hardest, most valuable skills on the job — and you already have most of them. You've spent years reading the room, handling objections, and coaxing a "yes" out of someone who opened with a flat "no." That's negotiation. That's conflict resolution. That's influence. You've been doing this; we're just renaming it.
 
-The only thing that changes when you move into PM is the *goal*. In sales you aimed all that skill at **closing**. As a PM you aim it at **alignment** — getting a roomful of people who answer to different bosses to row in the same direction. Same muscles, new target. Pour the coffee; let's tune them.
+The only thing that changes when you move into PM is the *goal*. In sales you aimed all that skill at **closing**. As a PM you aim it at **alignment** — getting a roomful of people who answer to different bosses to row in the same direction. Same muscles, new target. Settle in; let's tune them.
 
 ## Conflict is normal — and often healthy
 

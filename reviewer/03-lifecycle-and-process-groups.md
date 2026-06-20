@@ -178,7 +178,7 @@ You'll choose between predictive, agile, and hybrid approaches in [Module 04](04
 
 ## ⏸️ Pause & reflect
 
-This is a genuinely good place to stop, stretch, refill the coffee, and let it settle. Come back later with fresh eyes — the rest builds on what's above, and nobody's holding a stopwatch.
+This is a genuinely good place to stop, stretch, take a real break, and let it settle. Come back later with fresh eyes — the rest builds on what's above, and nobody's holding a stopwatch.
 
 - In your own words, what's the difference between a **life cycle** and a **process group**? (Can't quite yet? Totally normal — re-skim that first table and it'll snap into focus.)
 - Which **knowledge area** sounds most like something you *already* do well from sales? (Hint: most sales-to-PM folks point straight at Communications or Stakeholder — and they're right.)
@@ -222,7 +222,7 @@ stateDiagram-v2
 
 ## Tailoring to project size and context
 
-**Tailoring** means deliberately choosing *how much* process a project actually needs. A two-person, two-week internal tool and a two-year, ten-vendor regulated platform should **not** wear the same outfit. Forcing heavyweight process onto a tiny project is a classic rookie move — it gums up the work and annoys everyone without adding a thing. (You wouldn't hire a wedding planner and a string quartet for a casual Tuesday coffee with a friend.)
+**Tailoring** means deliberately choosing *how much* process a project actually needs. A two-person, two-week internal tool and a two-year, ten-vendor regulated platform should **not** wear the same outfit. Forcing heavyweight process onto a tiny project is a classic rookie move — it gums up the work and annoys everyone without adding a thing. (You wouldn't hire a wedding planner and a string quartet for a casual Tuesday catch-up with a friend.)
 
 Factors that push you toward **more** process: large budget, many stakeholders, high risk, regulatory/compliance requirements, distributed teams, long duration, low tolerance for failure.
 

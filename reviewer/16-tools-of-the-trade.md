@@ -179,7 +179,7 @@ That one artifact turns "I'm learning PM" into "here's a board I built" — and 
 
 ## ⏸️ Pause & reflect
 
-This is a safe place to stop and come back later — dog-ear the page, go refill the coffee, no one's keeping score.
+This is a safe place to stop and come back later — dog-ear the page, go take a break, no one's keeping score.
 
 - Which tool **category** would your old sales team have benefited from most, and why?
 - Think of a CRM stage you knew cold. What "definition of done" gated a deal from one stage to the next? That's a **workflow rule** — congratulations, you've been designing these for years.

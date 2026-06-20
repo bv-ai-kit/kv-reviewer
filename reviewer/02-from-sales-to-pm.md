@@ -15,7 +15,7 @@
 
 ## 👋 From your mentor
 
-Okay, real talk: you know that 2 a.m. feeling where you stare at the ceiling and whisper *"who am I to do this?"* Let's deal with that right up front, over coffee, before it gets any bigger.
+Okay, real talk: you know that 2 a.m. feeling where you stare at the ceiling and whisper *"who am I to do this?"* Let's deal with that right up front, just the two of us, before it gets any bigger.
 
 Here's the thing nobody told you when you started fretting about this switch. Most of the hard part of project management isn't the templates — it's the *people*, the *pressure*, and the *follow-through*. And you, my friend, have been living in all three for years. That's not nothing. That's the whole plot.
 
@@ -159,7 +159,7 @@ Two honest notes, friend to friend:
 
 ## ⏸️ Pause & reflect
 
-This is a safe place to set the book down. Close the file, refill the coffee, come back tomorrow — your progress holds, nobody's timing you. But before you go, sit with one or two of these:
+This is a safe place to set the book down. Close the file, stretch your legs, come back tomorrow — your progress holds, nobody's timing you. But before you go, sit with one or two of these:
 
 - Which row in the skills-mapping table felt most *obviously, undeniably* true for you? Write down the specific memory it stirred up — that's your strongest interview story, hiding in plain sight.
 - Which of the four mindset shifts feels hardest to picture yourself making? Naming the discomfort now makes it smaller later. It always does.

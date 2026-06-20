@@ -221,7 +221,7 @@ Two opposite assumptions a manager can carry about people:
 
 ## ⏸️ Pause & reflect
 
-This is a natural breakpoint — a genuinely safe place to close the laptop, refill the coffee, and come back later. Your brain consolidates this stuff far better with a break than by white-knuckling through.
+This is a natural breakpoint — a genuinely safe place to close the laptop, stretch your legs, and come back later. Your brain consolidates this stuff far better with a break than by white-knuckling through.
 
 Before you wander off, sit with one or two of these:
 

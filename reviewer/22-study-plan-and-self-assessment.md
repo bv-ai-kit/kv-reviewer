@@ -158,7 +158,7 @@ Time-box the whole capstone to 2–3 hours. It's meant to be *good enough to tal
 
 ## ⏸️ Pause & reflect
 
-This is a safe place to stop. Bookmark the page, close the laptop, go pour the second coffee — the plan will still be right here when you get back. It's not going anywhere.
+This is a safe place to stop. Bookmark the page, close the laptop, go take a proper break — the plan will still be right here when you get back. It's not going anywhere.
 
 Before you go, sit with these for a minute:
 

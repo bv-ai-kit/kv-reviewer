@@ -22,7 +22,7 @@ Here's the thing nobody tells you up front: scope is where projects quietly fall
 
 ## 📋 Collecting requirements
 
-You can't manage scope until you know what people actually want — and "want" is a slippery little word, because people are *terrible* at saying it out loud. In sales you call this **discovery**. In PM we call it **Collect Requirements**. Same muscle, same coffee: ask good questions, listen harder than you talk, write it down, confirm.
+You can't manage scope until you know what people actually want — and "want" is a slippery little word, because people are *terrible* at saying it out loud. In sales you call this **discovery**. In PM we call it **Collect Requirements**. Same muscle, same move: ask good questions, listen harder than you talk, write it down, confirm.
 
 A **requirement** is a documented need or condition the project must satisfy. They fall into a few buckets you'll see referenced everywhere — think of them as the cast of characters:
 
@@ -230,7 +230,7 @@ The "**Won't have**" column is the unsung hero of the four. Writing down what yo
 
 ## ⏸️ Pause & reflect
 
-This is a perfectly good place to stop, stretch, refill the coffee, and come back later — the next part (validation vs control) is a genuinely distinct idea and it'll land cleaner with fresh eyes.
+This is a perfectly good place to stop, stretch, take a break, and come back later — the next part (validation vs control) is a genuinely distinct idea and it'll land cleaner with fresh eyes.
 
 Before you wander off, sit with these for a sec:
 

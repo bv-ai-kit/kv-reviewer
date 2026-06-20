@@ -90,7 +90,7 @@ flowchart TD
 
 ## ⏸️ Pause & reflect
 
-Take a breath — this is a lovely spot to dog-ear the page and come back later if you need to. Before you wander off for coffee, sit with these:
+Take a breath — this is a lovely spot to dog-ear the page and come back later if you need to. Before you wander off for a break, sit with these:
 
 - In your own words, what's the difference between **contingency reserve** and **management reserve**? Who controls each?
 - Why is it both dishonest *and* risky to hand someone a single-number ROM estimate and let them treat it as a commitment?
@@ -141,7 +141,7 @@ The indexes above describe *right now*. These next formulas are the part where y
 | **VAC = BAC − EAC** | Variance at Completion (projected overrun/underrun) | 10,000 − 14,925 | **≈ −\$4,925** |
 | **TCPI = (BAC − EV) / (BAC − AC)** | To-Complete Performance Index — efficiency needed on remaining work to still hit BAC | (10,000 − 4,000) / (10,000 − 6,000) | **1.50** |
 
-That **EAC of ~\$14,925** is the line that makes a sponsor put down their coffee: "At our current efficiency, this \$10k project finishes around \$15k." And **TCPI = 1.50** delivers the gut-punch: to *still* hit the original budget, the team would have to suddenly sprint at 150% efficiency for the entire rest of the project — which, let's be honest, is not happening. That's how you turn a row of numbers into an honest, grown-up conversation.
+That **EAC of ~\$14,925** is the line that makes a sponsor put down their pen: "At our current efficiency, this \$10k project finishes around \$15k." And **TCPI = 1.50** delivers the gut-punch: to *still* hit the original budget, the team would have to suddenly sprint at 150% efficiency for the entire rest of the project — which, let's be honest, is not happening. That's how you turn a row of numbers into an honest, grown-up conversation.
 
 > **Note on EAC:** `EAC = BAC / CPI` is the common, exam-default formula and assumes current cost performance keeps right on going. PMI defines other EAC variants too — e.g. when the original estimate is no longer valid, `EAC = AC + Bottom-up ETC`, or when both cost *and* schedule pressure persist, `EAC = AC + (BAC − EV) / (CPI × SPI)`. The formula you pick quietly encodes an *assumption* about how the rest of the story goes. Choose it on purpose.
 

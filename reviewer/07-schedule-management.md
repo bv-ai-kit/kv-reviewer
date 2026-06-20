@@ -19,7 +19,7 @@ Okay, real talk: you have been doing this your entire career. Every quarter, you
 
 The only thing that changes now is that you stop carrying the plan in your head and put it on paper, where a team of ten people can see the same map and actually trust it. That's it. That's the whole difference. This module hands you the vocabulary and the tools to turn that gut feel into something you can defend, calmly, in a status meeting full of people who want a date.
 
-Fair warning: this is the most "mathy" module so far, so pour the good coffee. But I promise every formula in here is just arithmetic with a story attached. Take it slow, and don't let the symbols intimidate you — they're on your side.
+Fair warning: this is the most "mathy" module so far, so settle in somewhere comfy. But I promise every formula in here is just arithmetic with a story attached. Take it slow, and don't let the symbols intimidate you — they're on your side.
 
 ## 🗺️ The big picture: from scope to a schedule
 

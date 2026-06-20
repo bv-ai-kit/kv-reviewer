@@ -219,7 +219,7 @@ sequenceDiagram
 
 ## ⏸️ Pause & reflect
 
-This is a natural place to put the book down — grab a coffee, come back later if you need to. Initiation is dense, and it's worth letting it settle before the next chapter.
+This is a natural place to put the book down — take a break, come back later if you need to. Initiation is dense, and it's worth letting it settle before the next chapter.
 
 Before you move on, sit with these:
 

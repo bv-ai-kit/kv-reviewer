@@ -15,7 +15,7 @@
 
 ## 👋 From your mentor
 
-Okay, real talk — pull up a chair, grab the coffee, I'm so glad you're here. You've spent years reading a room before you said a word, nursing a pipeline like it was a houseplant, and dragging deals across the line while the clock screamed at you. That is not a blank page. That, my friend, is one heck of a backstory. Project management is, at its heart, the discipline of getting a group of people to deliver something on time, on budget, and at the quality everyone agreed to — and you already do a version of that every single quarter.
+Okay, real talk — pull up a chair, get comfy, I'm so glad you're here. You've spent years reading a room before you said a word, nursing a pipeline like it was a houseplant, and dragging deals across the line while the clock screamed at you. That is not a blank page. That, my friend, is one heck of a backstory. Project management is, at its heart, the discipline of getting a group of people to deliver something on time, on budget, and at the quality everyone agreed to — and you already do a version of that every single quarter.
 
 So think of this reviewer as the slow-burn part of the story: the stretch where the unlikely-but-perfect match finally clicks into place. We'll translate what you already know into the language and frameworks hiring managers swoon over, and we'll fill the genuine gaps with concrete, mentor-style explanations. No jargon for its own sake, ever. And if you feel a little flicker of *"wait, can I actually do this?"* — good. That flutter means you care. Stick with me. Let's go.
 
@@ -39,7 +39,7 @@ Here's what that actually means for you: you don't study by *re-reading*, you st
 
 ### Why you must pause between modules
 
-Your brain consolidates learning during the *gaps* — the walk, the sleep, the second cup of coffee — not during the white-knuckle marathon session. Cramming six modules in one sitting feels heroic and produces mush. One or two modules, then a genuine break, beats a binge every time.
+Your brain consolidates learning during the *gaps* — the walk, the sleep, the quiet moment later — not during the white-knuckle marathon session. Cramming six modules in one sitting feels heroic and produces mush. One or two modules, then a genuine break, beats a binge every time.
 
 That's why most modules include a **⏸️ Pause & reflect** checkpoint. When you hit one, it's truly fine — encouraged, even — to close the laptop and come back tomorrow. Momentum comes from finishing *rested*, not from finishing wrecked.
 

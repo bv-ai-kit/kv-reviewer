@@ -128,7 +128,7 @@ The trap beginners fall straight into: treating **push as if it were interactive
 
 Two more dimensions matter:
 
-- **Formal vs. informal.** Formal = reports, presentations, contracts, the signed change request. Informal = the hallway chat, the quick Slack ping, the coffee catch-up. *Both* are essential. Formal creates the record; informal builds the relationships that make the formal stuff go down easy. (Sound familiar? It's the relationship-building dinner *plus* the signed contract — and you've always known you need both.)
+- **Formal vs. informal.** Formal = reports, presentations, contracts, the signed change request. Informal = the hallway chat, the quick Slack ping, the lunch-table catch-up. *Both* are essential. Formal creates the record; informal builds the relationships that make the formal stuff go down easy. (Sound familiar? It's the relationship-building dinner *plus* the signed contract — and you've always known you need both.)
 - **Verbal vs. written.** Verbal is fast and rich with tone; written is precise and durable. The rule that will save you a hundred times: **discuss verbally, decide in writing.** A decision that isn't written down didn't happen — it's a "we sort of agreed at the party" that nobody remembers the same way.
 
 | | Verbal | Written |

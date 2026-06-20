@@ -15,7 +15,7 @@
 
 ## 👋 From your mentor
 
-Hey, you. First real module. Pour the coffee, get comfy — this one's gentler than it looks.
+Hey, you. First real module. Settle in, get comfy — this one's gentler than it looks.
 
 Here's the secret I want to spill before we even start: you already manage projects. You just call them "closing the quarter" or "landing the enterprise account." Everything in this module is about giving proper names to instincts you've trusted for years. It's less *learning a new language* and more *finding out the thing you do has subtitles*.
 

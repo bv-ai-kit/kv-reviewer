@@ -324,7 +324,7 @@ You don't need to master these now — nobody's quizzing you. Just know the word
 
 ## ⏸️ Pause & reflect
 
-This is a perfectly good place to stop, breathe, and come back later if you need to — the Kanban and scaling sections will still be right here, and nothing below depends on you finishing in one sitting. Grab the coffee.
+This is a perfectly good place to stop, breathe, and come back later if you need to — the Kanban and scaling sections will still be right here, and nothing below depends on you finishing in one sitting. Take a breather.
 
 - Which of the five Scrum events maps most naturally to a meeting you already attend in sales? What's different about it?
 - Think of the last project (work or personal) where you wished you'd gotten feedback sooner. How would a 2-week Sprint have changed the ending?

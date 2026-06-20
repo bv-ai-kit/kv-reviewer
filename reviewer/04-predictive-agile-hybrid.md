@@ -19,7 +19,7 @@ Okay, real talk: you've already done the hardest part of this lesson — you jus
 
 Think back to your selling days. A six-figure enterprise deal with a formal RFP? You ran that one tight, by the book, every step documented. A scrappy self-serve SMB deal where the buyer changed their mind on every call? You improvised, read the room, adapted on the fly. You never confused the two. That instinct — *read the situation, then pick the play* — is the exact muscle great project managers flex here.
 
-Here's the lovely part: the PMBOK Guide 7th edition refuses to play favorites. It doesn't crown one approach "the right one." It lays them out on a **continuum** and asks you to match the approach to the work in front of you. So your job isn't to memorize dogma and pledge loyalty to a camp. It's to learn the trade-offs well enough to choose on purpose. Coffee's hot, let's go.
+Here's the lovely part: the PMBOK Guide 7th edition refuses to play favorites. It doesn't crown one approach "the right one." It lays them out on a **continuum** and asks you to match the approach to the work in front of you. So your job isn't to memorize dogma and pledge loyalty to a camp. It's to learn the trade-offs well enough to choose on purpose. Let's go.
 
 ---
 

@@ -184,7 +184,7 @@ For schedules and budgets with many interacting uncertainties, a **Monte Carlo s
 
 ## ⏸️ Pause & reflect
 
-This is a natural stopping point — **a safe place to slip the bookmark in and come back later.** Go refill the coffee. When you're ready, sit with these:
+This is a natural stopping point — **a safe place to slip the bookmark in and come back later.** Go stretch your legs. When you're ready, sit with these:
 
 - Think of a past sales deal that slipped through your fingers. Could you name the **cause → event → effect** of the risk you *felt* coming but never wrote down?
 - EMV vs. a gut call — which one would have helped you forecast that deal more honestly?
