@@ -2,6 +2,8 @@
 
 > **Estimated study time:** ~45 min · **Level:** Career · **Prerequisites:** [Module 02](02-from-sales-to-pm.md) · Part of the **Sales -> Project Management Reviewer.**
 
+*The slow burn is over — this is the chapter where you actually get the job.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Rewrite your sales resume into a PM resume that highlights planning, coordination, and stakeholder management with quantified outcomes.
@@ -13,17 +15,17 @@
 
 ## 👋 From your mentor
 
-Here's the truth that should calm your nerves: you already know how to run a campaign with a quota, a pipeline, and a close date — that's basically what a job hunt is. The only thing changing is the **product** you're selling, and that product is you.
+Okay, real talk: a job hunt is just a sales campaign with a quota, a pipeline, and a close date. You've run that play a hundred times. The only thing that changed is the **product** you're selling — and this time, the product is you.
 
-You've spent years getting strangers to trust you, coordinating moving parts, and hitting deadlines under pressure. That is not "no PM experience." That's PM experience wearing a sales badge. This module teaches you how to take the badge off and let the PM underneath show. Let's go land it.
+You've spent years getting strangers to trust you, juggling a dozen moving parts at once, and hitting deadlines when the pressure was on. That is not "no PM experience." That's PM experience wearing a sales badge. This module is the makeover montage — we take the badge off and let the PM underneath step into the light. Grab your coffee. Let's go land it.
 
 ---
 
 ## 1. Translating a SALES resume into a PM resume
 
-A hiring manager scanning your resume spends maybe 7 seconds before deciding "PM-shaped" or "not for us." Your job is to make the PM signal jump off the page. You don't lie about your past — you **re-language** it.
+Here's the unromantic truth: a hiring manager gives your resume maybe 7 seconds before deciding "PM-shaped" or "swipe left." Your job is to make the PM signal jump off the page before they lose interest. You don't lie about your past — you **re-language** it.
 
-Sales and PM share more DNA than you'd think. Watch how the same accomplishment reads in two dialects:
+Sales and PM share more DNA than you'd think — they're practically cousins who never met at the reunion. Watch how the same accomplishment reads in two different dialects:
 
 ### Before / after bullet rewrites
 
@@ -35,7 +37,7 @@ Sales and PM share more DNA than you'd think. Watch how the same accomplishment 
 | Ran weekly demos for prospects. | Facilitated weekly stakeholder sessions, captured requirements, and managed expectations through a 6-week evaluation. | Facilitation, requirements, expectation management |
 | Used Salesforce daily. | Maintained a single source of truth in CRM, building dashboards leadership used for forecasting decisions. | Reporting, status visibility, tooling |
 
-Notice the pattern: every PM bullet starts with a **strong verb of coordination** (Led, Coordinated, Planned, Facilitated, Tracked, Delivered), names the **stakeholders or moving parts**, and ends with a **quantified outcome**. That last part is your unfair advantage — sales taught you to count everything.
+Spot the pattern? Every PM bullet opens with a **strong verb of coordination** (Led, Coordinated, Planned, Facilitated, Tracked, Delivered), names the **stakeholders or moving parts**, and lands on a **quantified outcome**. That last bit is your unfair advantage — sales trained you to count everything, and numbers are the one thing recruiters can't argue with.
 
 ```mermaid
 flowchart LR
@@ -45,33 +47,33 @@ flowchart LR
     D --> E["Attach a quantified outcome"]
     E --> F["PM bullet that survives the 7-second scan"]
 ```
-*From a sales win to a PM-ready bullet in five moves.*
+*From a sales win to a PM-ready bullet in five moves — the glow-up in slow motion.*
 
 ### The resume skeleton
 
-- **Top summary (3 lines):** State your target role plainly. "Aspiring/Associate Project Manager with X years coordinating cross-functional sales pursuits, now focused on delivery." Don't make them guess.
+- **Top summary (3 lines):** State your target role plainly — no coy mystery here. "Aspiring/Associate Project Manager with X years coordinating cross-functional sales pursuits, now focused on delivery." Don't make them guess.
 - **Skills band:** Mix PM vocabulary you can defend (stakeholder management, scope, risk, status reporting, Agile/Scrum basics, RAID) with tools (Jira, Asana, MS Project, Smartsheet, Excel, CRM).
 - **Experience:** Rewritten bullets as above. Lead with outcomes, not duties.
 - **Projects / Portfolio:** A dedicated section pointing to your case studies (Section 3). This is where a career-changer wins.
 - **Certifications:** Whatever you've earned or are pursuing — see [Module 19](19-certifications-roadmap.md). "CAPM (in progress)" is legitimate and signals commitment.
 
-> 🔁 **Sales → PM bridge:** A resume bullet is a 30-second elevator pitch about a past win. You already know how to lead with the customer's outcome instead of your activity. Apply the exact same instinct: lead with the project's outcome ("delivered on time, 15% under budget"), not the busywork ("attended meetings").
+> 🔁 **Sales → PM bridge:** A resume bullet is a 30-second elevator pitch about a past win. You already know to lead with the customer's outcome instead of your activity. Same instinct, new target: lead with the project's outcome ("delivered on time, 15% under budget"), not the busywork ("attended meetings").
 
 ---
 
 ## 2. Realistic target roles for a career-changer
 
-Aiming straight for "Senior Project Manager" with no PM title yet is like cold-calling a CEO to close on the first dial — possible, but you're fighting the odds. Target the **on-ramp roles** instead. They get you the title, the tooling, and the stories you need for the next jump.
+Aiming straight for "Senior Project Manager" with no PM title yet is like cold-calling a CEO and expecting a close on the first dial — technically possible, but you're betting against the house. Target the **on-ramp roles** instead. They hand you the title, the tooling, and the stories you'll need for the next jump.
 
 | Role | What it really is | Why it fits a sales background |
 |---|---|---|
 | **Project Coordinator** | The PM's right hand — schedules, status, logistics, follow-ups. | You already chase action items and keep people accountable. |
 | **Associate / Junior PM** | A real PM role with a smaller scope and a mentor above you. | Entry point that still carries the PM title. |
-| **Scrum Master** | Servant-leader for an Agile team; removes blockers, facilitates ceremonies. | Facilitation + unblocking = your discovery-call and deal-desk muscles. See [Module 11](15-agile-and-scrum.md). |
+| **Scrum Master** | Servant-leader for an Agile team; removes blockers, facilitates ceremonies. | Facilitation + unblocking = your discovery-call and deal-desk muscles. See [Module 15](15-agile-and-scrum.md). |
 | **Program Coordinator** | Coordination across several related projects. | Managing a "book" of related things is your account-management life. |
 | **Implementation / Onboarding Manager** | Gets a new customer live after the sale closes. | **The sales-adjacent on-ramp.** You speak customer fluently and already live in that post-sale moment. |
 
-> The **Implementation / Onboarding Manager** path deserves a star. It sits right where sales ends and delivery begins, so your domain knowledge transfers almost untouched — you're managing a project (the rollout) for a customer you already know how to handle. Many career-changers slip into PM through exactly this door.
+> The **Implementation / Onboarding Manager** path deserves a little spotlight — it's the meet-cute of this whole list. It sits right where sales ends and delivery begins, so your domain knowledge walks in barely wrinkled: you're managing a project (the rollout) for a customer you already know how to charm. A lot of career-changers slip into PM through exactly this door.
 
 ```mermaid
 flowchart TD
@@ -92,15 +94,15 @@ flowchart TD
 
 ## 3. Building a portfolio with case studies
 
-A career-changer's secret weapon is a **portfolio**, because it shows instead of tells. You don't need to have shipped software. You need to prove you can think like a PM about real work — and your best raw material is the sales wins you already have.
+A career-changer's secret weapon is a **portfolio**, because it *shows* instead of *tells* — and in a story, showing always wins. You don't need to have shipped software. You need to prove you can think like a PM about real work, and your best raw material is sitting in your sales history right now.
 
 **Reframe a sales win as a project.** Take that 5-month, $250K pursuit and document it as if it were a delivery project: a goal, stakeholders, milestones, risks, and an outcome. Build 2-3 of these. Host them in a clean GitHub repo, a Notion page, or a tidy PDF, and link from your resume and LinkedIn.
 
-Each case study should include three artifacts. Here's the minimum viable version of each.
+Each case study should include three artifacts. Here's the minimum-viable version of each — no fluff, just the bones that make you look like you've done this before.
 
 ### Sample project charter
 
-A **charter** authorizes the project and states the essentials on one page (see [Module 04](05-initiation-charter-stakeholders.md)).
+A **charter** authorizes the project and states the essentials on one page (see [Module 05](05-initiation-charter-stakeholders.md)).
 
 | Field | Example |
 |---|---|
@@ -134,11 +136,11 @@ flowchart TD
     D --> D1["1.4.1 Cutover"]
     D --> D2["1.4.2 Hypercare"]
 ```
-*A WBS breaks a deliverable into bite-sized, assignable pieces.*
+*A WBS breaks a deliverable into bite-sized, assignable pieces — like prepping a big dinner party one dish at a time.*
 
 ### Sample status report
 
-A weekly **status report** is your single most-used PM artifact. Keep it scannable.
+A weekly **status report** is your single most-used PM artifact. Keep it scannable — nobody reads the novel-length version.
 
 | Section | Example content |
 |---|---|
@@ -149,17 +151,17 @@ A weekly **status report** is your single most-used PM artifact. Keep it scannab
 | **Risks / issues** | Acme IT contact on leave — escalation path confirmed with backup. |
 | **Decisions needed** | Approve go-live date of the 28th. |
 
-A **RAG status** (Red/Amber/Green) plus a one-line "why" is exactly what executives want. You learned to write tight forecast updates in sales; this is the same muscle.
+A **RAG status** (Red/Amber/Green) plus a one-line "why" is exactly what executives want — the headline, not the whole article. You already learned to write tight forecast updates in sales; this is the very same muscle, just flexing in a new room.
 
 ---
 
 ## 4. Networking & an optimized LinkedIn
 
-Most PM roles are filled through people, not portals. Treat networking as **top-of-funnel prospecting** — and you already know how to prospect.
+Here's a secret the job boards won't tell you: most PM roles get filled through people, not portals. So treat networking as **top-of-funnel prospecting** — which, lucky you, is your native tongue.
 
 ### LinkedIn optimization checklist
 
-- **Headline:** Don't leave it as "Sales Rep at Company." Try "Sales pro transitioning into Project Management | Stakeholder coordination · Delivery · Agile basics." Recruiters search keywords — feed them.
+- **Headline:** Don't leave it as "Sales Rep at Company." Try "Sales pro transitioning into Project Management | Stakeholder coordination · Delivery · Agile basics." Recruiters search by keyword — feed the algorithm what it's hunting for.
 - **About:** Tell the transition story in first person. One paragraph on what you did, one on why PM, one on what you're learning now (cert in progress counts).
 - **Featured:** Pin your portfolio / case studies.
 - **Skills:** Add and get endorsements for stakeholder management, project coordination, Agile, Scrum.
@@ -167,17 +169,17 @@ Most PM roles are filled through people, not portals. Treat networking as **top-
 
 ### Informational interviews
 
-These are **discovery calls** with no quota attached. You ask a working PM for 20 minutes to learn about their path — not for a job. The ask is low-pressure, so people say yes.
+These are **discovery calls** with zero quota attached — all of the rapport, none of the pressure. You ask a working PM for 20 minutes to learn about their path. Not for a job, just for the story. Because the ask is so low-stakes, people say yes more often than you'd expect.
 
-> 🔁 **Sales → PM bridge:** An informational interview is a discovery call. Same rhythm: research them first, ask open questions, listen more than you talk, capture what you learn, and follow up with a thank-you. You've run hundreds of these — the only difference is you're qualifying a *path*, not a *deal*.
+> 🔁 **Sales → PM bridge:** An informational interview is a discovery call in a slightly nicer outfit. Same rhythm: research them first, ask open questions, listen more than you talk, capture what you learn, and follow up with a thank-you. You've run hundreds of these — the only difference is you're qualifying a *path*, not a *deal*.
 
-A clean ask: *"I'm moving from sales into project management and admiring how you made a similar jump. Could I borrow 20 minutes to hear how you'd approach it? No agenda beyond learning."* Then end every one with: *"Who else would you suggest I talk to?"* — that's how a pipeline grows.
+A clean ask: *"I'm moving from sales into project management and admiring how you made a similar jump. Could I borrow 20 minutes to hear how you'd approach it? No agenda beyond learning."* Then close every single one with: *"Who else would you suggest I talk to?"* — that's the question that quietly grows a pipeline.
 
 ---
 
 ## 5. Interview prep
 
-PM interviews test three things: can you **structure ambiguity**, can you **work with people**, and have you **actually done the work**. Behavioral questions probe your past; scenario questions probe your thinking.
+A PM interview is really three auditions in one: can you **structure ambiguity**, can you **work with people**, and have you **actually done the work**? Behavioral questions interrogate your past; scenario questions interrogate your thinking. Both are gettable once you know the format.
 
 ### Common PM interview questions
 
@@ -188,12 +190,12 @@ PM interviews test three things: can you **structure ambiguity**, can you **work
 | Behavioral | "Walk me through a deadline you almost missed." |
 | Scenario | "A key team member quits mid-project. Your move?" |
 | Scenario | "Your sponsor wants to add scope but won't move the date. What now?" |
-| Knowledge | "Difference between Agile and Waterfall?" (see [Module 09](04-predictive-agile-hybrid.md)) |
+| Knowledge | "Difference between Agile and Waterfall?" (see [Module 04](04-predictive-agile-hybrid.md)) |
 | Knowledge | "How do you handle scope creep?" (see [Module 06](06-scope-management.md)) |
 
 ### The STAR method (for behavioral answers)
 
-Behavioral answers fall apart when you ramble. **STAR** gives you a rail to run on:
+Behavioral answers fall apart the moment you start rambling — and under interview nerves, everyone rambles. **STAR** is the rail that keeps you on the tracks:
 
 ```mermaid
 flowchart LR
@@ -203,19 +205,19 @@ flowchart LR
 ```
 *STAR keeps a behavioral answer tight, specific, and outcome-focused.*
 
-Spend the most words on **Action** (it's about *you*, not the team) and always land on a **quantified Result**. Example, answering "managed competing priorities":
+Spend most of your words on **Action** (it's about *you*, not the team) and always land the plane on a **quantified Result**. Here's it in motion, answering "managed competing priorities":
 
 > **S:** I carried 40 enterprise accounts during our busiest quarter. **T:** Three deals needed attention the same week with overlapping deadlines. **A:** I mapped each by deal size and close-date risk, batched the renewal paperwork, delegated the smallest to a junior rep, and renegotiated one timeline with the client. **R:** All three closed that month — $400K combined — with no slipped commitments.
 
-Notice that's a *sales* story told in *PM* language: prioritization, delegation, stakeholder negotiation, quantified result. Pre-write 5-6 STAR stories from your sales career and you can cover almost any behavioral question.
+Notice that's a *sales* story told in *PM* language: prioritization, delegation, stakeholder negotiation, quantified result. Pre-write 5-6 STAR stories from your sales career and you'll have an answer ready for almost any behavioral curveball they throw.
 
 ### Scenario / situational questions
 
-There's rarely one "right" answer — they want your **reasoning**. A safe structure: clarify the goal and constraints → identify the real problem → name your options and trade-offs → pick one → say how you'd communicate it. Showing you'd *talk to the stakeholder* before acting unilaterally is almost always the right instinct.
+There's rarely one "right" answer — they're watching your **reasoning**, like a detective showing their work. A safe structure: clarify the goal and constraints → identify the real problem → name your options and trade-offs → pick one → say how you'd communicate it. And here's the move that almost always reads right: show that you'd *talk to the stakeholder* before charging off and acting on your own.
 
 ### Smart questions to ask THEM
 
-Asking nothing reads as low interest. Have 3-4 ready:
+Asking nothing reads as zero interest — like a date who never asks you a single question back. Have 3-4 ready:
 
 - "What does a successful first 90 days look like in this role?"
 - "What methodology does the team actually use day to day — and how closely?"
@@ -237,13 +239,13 @@ journey
     section Close
       Send thank-you note: 5: You
 ```
-*Treat interview prep as a journey with stages, not a single cram session.*
+*Treat interview prep as a journey with stages, not a single panicked cram session.*
 
 ---
 
 ## 6. A 30-60-90 day plan for your first PM role
 
-Bringing a 30-60-90 plan to a final interview — or to week one — signals that you think like an owner. Here's the shape it should take.
+Bringing a 30-60-90 plan to a final interview — or to week one — quietly signals that you think like an owner, not a tourist. Here's the shape it should take.
 
 | Phase | Theme | Focus |
 |---|---|---|
@@ -260,19 +262,19 @@ timeline
 ```
 *Ramp deliberately: listen first, contribute next, lead last.*
 
-The mistake new PMs make is trying to lead on day three. You wouldn't try to close on the first cold call — you'd qualify and build rapport first. Same here: the first 30 days are pure discovery.
+The classic rookie mistake is trying to lead on day three. But you'd never try to close on the first cold call — you'd qualify and build rapport first. Same energy here: the first 30 days are pure discovery, and that's not falling behind, that's doing it right.
 
 ---
 
 ## ⏸️ Pause & reflect
 
-This is a safe place to stop, breathe, and come back later — the job hunt is a marathon, and so is this module. Before you move on, sit with these:
+This is a safe place to set the book down, breathe, and pick it back up later — the job hunt is a marathon, and so is this module. Before you turn the page, sit with these:
 
-- Which **on-ramp role** from Section 2 actually excites you, and which sales strength makes you a natural fit for it?
-- Pick one sales win right now. What's the *project* hiding inside it? Jot the objective, the stakeholders, and the outcome.
-- Where does the job hunt scare you most — the resume, the networking, or the interview? Name it; that's the part to over-prepare.
+- Which **on-ramp role** from Section 2 actually makes you a little excited, and which sales strength makes you a natural fit for it?
+- Pick one sales win right now. What's the *project* hiding inside it? Jot down the objective, the stakeholders, and the outcome.
+- Where does the job hunt scare you most — the resume, the networking, or the interview? Name it out loud. That's the part to over-prepare.
 
-No rush. When you're ready, the self-check is waiting.
+No rush at all. When you're ready, the self-check is waiting.
 
 ---
 
@@ -332,13 +334,13 @@ You are the product. It has a pipeline (leads → applications → interviews �
 
 **Reframe one sales win as a PM case study (30 minutes).**
 
-1. Choose your single best sales win — a big deal, a saved account, a tough renewal.
+1. Choose your single best sales win — a big deal, a saved account, a tough renewal. (You know the one. It still makes you a little proud.)
 2. Write a one-page **charter** for it using the table in Section 3 (objective, stakeholders, scope in/out, milestones, success criteria).
 3. Sketch a 2-level **WBS** of how that win actually got done (initiation, the main phases, close).
 4. Draft a final **status report** as if it were the last weekly update: RAG status, what got done, the risk you navigated, the outcome.
 5. Now turn the whole thing into **one resume bullet** and **one STAR story**.
 
-When you finish, you'll have a portfolio artifact, a resume line, and an interview answer — all from one win you already had. That's leverage.
+When you finish, you'll have a portfolio artifact, a resume line, and an interview answer — all squeezed out of one win you already had. That's leverage, and it cost you nothing but 30 minutes.
 
 ---
 

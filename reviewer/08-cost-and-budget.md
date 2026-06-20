@@ -2,6 +2,8 @@
 
 > **Estimated study time:** ~50 min · **Level:** Intermediate · **Prerequisites:** [Module 07 — Schedule Management](07-schedule-management.md) · Part of the **Sales -> Project Management Reviewer**.
 
+*The one where you finally get to be the person who saw the budget twist coming — at chapter 2, not chapter 12.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Pick the right cost-estimating method (analogous, parametric, bottom-up) and state how accurate it is.
@@ -12,15 +14,17 @@
 
 ## 👋 From your mentor
 
-Here's the good news: you already have the instinct for this. Every time you looked at your pipeline and asked *"am I on track to hit the number?"* you were doing the exact thing Earned Value Management does — just without the formulas.
+Okay, real talk: the word "budget" makes a lot of new PMs go a little pale, because they think it means math, and math means school, and school means that one teacher. Breathe. None of that lives here.
 
-Budgets scare a lot of new PMs because of the math. But the math is grade-school arithmetic (mostly division), and the *thinking* behind it is sales thinking. By the end of this module you'll be able to look at a project mid-flight and tell your sponsor, in one sentence, whether the money is on track — and what it'll cost to finish. That's a superpower. Let's build it.
+Here's the secret you already know in your bones. Every single time you stared at your pipeline and asked *"am I actually on track to hit the number?"* — you were doing the exact thing Earned Value Management does. You just did it without the formulas and without anyone calling it a "framework."
+
+The math in this module is grade-school arithmetic (mostly division, I promise), and the *thinking* behind it is pure sales thinking. By the last page you'll be able to glance at a project mid-flight and tell your sponsor, in one clean sentence, whether the money's on track and what it'll cost to finish. That's the kind of line that makes a room go quiet and then turn to look at you. Let's go earn it.
 
 ---
 
 ## 💸 Estimating costs: three methods, three trade-offs
 
-Before you can manage a budget you have to *estimate* one. The PMBOK Guide gives you three workhorse techniques. Think of them as the difference between a gut quote, a pricing model, and a line-item proposal.
+Before you can *manage* a budget, you have to *estimate* one — and estimating is basically a first date. You don't know everything yet, so how confident you sound should match how much you actually know. The PMBOK Guide gives you three workhorse techniques: a gut quote, a pricing model, and a line-item proposal.
 
 | Method | How it works | Speed | Accuracy | When to use it |
 |---|---|---|---|---|
@@ -28,16 +32,16 @@ Before you can manage a budget you have to *estimate* one. The PMBOK Guide gives
 | **Parametric** | Multiply a unit rate by a quantity: 1,200 sq ft × \$150/sq ft = \$180k. Statistical/per-unit. | Fast–medium | Medium–high (if the data is good) | When you have a reliable cost-per-unit. |
 | **Bottom-up** | Estimate every small work package, then roll the numbers up. | Slow | Highest | When you need a defensible, detailed number. |
 
-> 🔁 **Sales → PM bridge:** Analogous estimating is the "ballpark this for me" quote you give a prospect on a discovery call. Parametric is your **price-per-seat × number-of-seats** quote. Bottom-up is the full, itemized proposal your sales engineer builds when the deal is real. Same spectrum — fast-and-fuzzy to slow-and-precise.
+> 🔁 **Sales → PM bridge:** Analogous estimating is the "just ballpark it for me" number you toss out on a discovery call. Parametric is your **price-per-seat × number-of-seats** quote. Bottom-up is the full, itemized proposal your sales engineer builds once the deal gets real and the lawyers are circling. Same spectrum you already live on — fast-and-fuzzy to slow-and-precise.
 
 ### Accuracy ranges: ROM vs definitive
 
-An estimate is only honest if you state how rough it is. PMI describes two anchor points:
+An estimate is only honest if you say out loud how rough it is. (Confidence you can't back up is how thrillers start — and not the fun part.) PMI gives you two anchor points:
 
 - **Rough Order of Magnitude (ROM):** early, wide. A common range is **−25% to +75%**. ("Somewhere between \$75k and \$175k.")
 - **Definitive estimate:** late, tight. A common range is **−5% to +10%**. ("\$98k to \$113k.")
 
-As the project moves from idea to plan, your estimate **converges** — it gets narrower as the unknowns shrink. This is sometimes called the *cone of uncertainty*. Never give a single-number estimate early and let people treat it as a promise.
+As the project moves from idea to plan, your estimate **converges** — it narrows as the unknowns shrink. This slow tightening has a name: the *cone of uncertainty*. The cardinal sin is giving a single, breezy number early and letting everyone treat it like a vow.
 
 ```mermaid
 flowchart LR
@@ -48,13 +52,13 @@ flowchart LR
     E --> F["Approved cost baseline"]
 ```
 
-*Estimates narrow as knowledge grows — the cone of uncertainty closing toward an approved baseline.*
+*Estimates narrow as you learn more — the cone of uncertainty closing in on an approved baseline.*
 
 ---
 
 ## 🧱 From estimates to a budget: the cost baseline
 
-Individual estimates aren't a budget yet. You **aggregate** them and add reserves in layers. PMI is precise about what sits inside what — and this distinction shows up constantly on the PMP/CAPM exams, so lock it in.
+A pile of individual estimates isn't a budget yet — it's a guest list, not a dinner party. You **aggregate** them and then add reserves in layers, like setting the table before anyone arrives. PMI is fussy about exactly what nests inside what, and this distinction shows up *constantly* on the PMP/CAPM exams — so let's lock it in for good.
 
 | Layer | What it contains | Who can release it |
 |---|---|---|
@@ -66,10 +70,10 @@ Individual estimates aren't a budget yet. You **aggregate** them and add reserve
 
 Two ideas to burn into memory:
 
-- **Contingency reserve** is *inside* the cost baseline. It covers risks you already know about. You control it.
-- **Management reserve** is *outside* the cost baseline. It covers the truly unforeseen. You usually need sponsor approval to tap it, and using it often means re-baselining.
+- **Contingency reserve** lives *inside* the cost baseline. It covers risks you already know about — the rainy-day jar you packed on purpose. You control it.
+- **Management reserve** lives *outside* the cost baseline. It covers the truly out-of-nowhere stuff. You usually need sponsor approval to crack it open, and using it often means re-baselining.
 
-The **BAC (Budget at Completion)** is the total value of the cost baseline — the full planned budget for the work. You'll use BAC constantly in the EVM formulas below.
+The **BAC (Budget at Completion)** is the total value of the cost baseline — the full planned budget for the work. You'll lean on BAC constantly in the EVM formulas below, so keep it close.
 
 ```mermaid
 flowchart TD
@@ -80,28 +84,28 @@ flowchart TD
     MR --> TB["= Total project budget"]
 ```
 
-*The budget is built in layers — contingency lives inside the baseline, management reserve sits outside it.*
+*The budget is built in layers — contingency lives inside the baseline, management reserve sits just outside it.*
 
 ---
 
 ## ⏸️ Pause & reflect
 
-Take a breath — this is a natural place to stop and come back later if you need to. Before you walk away, sit with these:
+Take a breath — this is a lovely spot to dog-ear the page and come back later if you need to. Before you wander off for coffee, sit with these:
 
 - In your own words, what's the difference between **contingency reserve** and **management reserve**? Who controls each?
-- Why is it dishonest (and risky) to give a single-number ROM estimate and let a stakeholder treat it as a commitment?
+- Why is it both dishonest *and* risky to hand someone a single-number ROM estimate and let them treat it as a commitment?
 
-If those two are clear, the EVM section will click much faster. If they're fuzzy, re-skim the table above — it's worth it.
+If those two land cleanly, the EVM section is going to click fast. If they're still a little blurry, re-skim that layered table — honestly, it's worth the two minutes.
 
 ---
 
 ## 📊 Earned Value Management, from scratch
 
-EVM sounds intimidating. It isn't. It's three numbers and then everything else is arithmetic on top of them. Master the three numbers and you've won.
+EVM *sounds* like a closed door with a keypad. It's actually three numbers, and everything else is just arithmetic standing on their shoulders. Master the three numbers and the rest practically writes itself.
 
-Imagine a 4-week project. You planned to spend \$10,000 total, evenly: \$2,500 of *value* delivered per week.
+Picture a 4-week project. You planned to spend \$10,000 total, evenly — \$2,500 of *value* delivered each week.
 
-It's the **end of week 2**. Here are the three measurements:
+It's the **end of week 2**, and here's our crime scene, three clues laid out:
 
 | Term | Question it answers | In our example |
 |---|---|---|
@@ -109,13 +113,13 @@ It's the **end of week 2**. Here are the three measurements:
 | **EV — Earned Value** | How much work is *actually* done (valued at the plan)? | We've actually finished 40% → 40% × \$10,000 = **\$4,000** |
 | **AC — Actual Cost** | How much have we actually *spent*? | We've spent **\$6,000** |
 
-Read those three again. PV is the plan, EV is the progress, AC is the spend. Everything else is just comparing them.
+Read those three one more time, slowly. PV is the plan, EV is the progress, AC is the spend. Every other formula in this module is just two of these three side-eyeing each other.
 
-> 🔁 **Sales → PM bridge:** This is your quarterly number. **PV** is your quota pacing ("by week 8 I should have \$5k booked"). **EV** is what you've actually closed, valued at quota. **AC** is what you burned in time and spend to get there. CPI and SPI are just your attainment ratios with fancy names.
+> 🔁 **Sales → PM bridge:** This is your quarterly number wearing a different outfit. **PV** is your quota pacing ("by week 8 I should have \$5k booked"). **EV** is what you've actually closed, valued at quota. **AC** is what you burned — time and spend — to get there. CPI and SPI are just your attainment ratios with fancier names and better posture.
 
 ### The core formulas (with our worked example)
 
-Keep one mnemonic in your head: **for the *variances*, EV comes first and you subtract. For the *indexes*, EV is on top and you divide.**
+One mnemonic does all the heavy lifting: **for the *variances*, EV goes first and you subtract; for the *indexes*, EV goes on top and you divide.** That's it. That's the whole trick.
 
 | Formula | Meaning | Our numbers | Result | Read it as |
 |---|---|---|---|---|
@@ -124,11 +128,11 @@ Keep one mnemonic in your head: **for the *variances*, EV comes first and you su
 | **CPI = EV / AC** | Cost Performance Index | 4,000 / 6,000 | **0.67** | < 1 = over budget |
 | **SPI = EV / PV** | Schedule Performance Index | 4,000 / 5,000 | **0.80** | < 1 = behind schedule |
 
-So in plain English for this project: we've gotten \$0.67 of value for every \$1 spent (ugly), and we're moving at 80% of planned pace (behind). This project is in trouble — and we caught it at week 2 instead of week 4.
+So in plain human: we're getting \$0.67 of value for every \$1 we spend (ouch), and we're crawling along at 80% of planned pace (behind). This project is in trouble — but here's the plot twist that makes you the hero: we caught it at week 2 instead of finding the body at week 4.
 
 ### Forecasting: where will we land?
 
-The indexes above describe *now*. These next formulas project the *future*. (BAC here = \$10,000.)
+The indexes above describe *right now*. These next formulas are the part where you read ahead and predict the ending. (BAC here = \$10,000.)
 
 | Formula | Meaning | Our numbers | Result |
 |---|---|---|---|
@@ -137,9 +141,9 @@ The indexes above describe *now*. These next formulas project the *future*. (BAC
 | **VAC = BAC − EAC** | Variance at Completion (projected overrun/underrun) | 10,000 − 14,925 | **≈ −\$4,925** |
 | **TCPI = (BAC − EV) / (BAC − AC)** | To-Complete Performance Index — efficiency needed on remaining work to still hit BAC | (10,000 − 4,000) / (10,000 − 6,000) | **1.50** |
 
-That **EAC of ~\$14,925** is the line that gets a sponsor's attention: "At our current efficiency, this \$10k project finishes around \$15k." And **TCPI = 1.50** says: to *still* hit the original budget, the team would have to suddenly run at 150% efficiency for the rest of the project — almost certainly unrealistic. That's how you turn math into an honest conversation.
+That **EAC of ~\$14,925** is the line that makes a sponsor put down their coffee: "At our current efficiency, this \$10k project finishes around \$15k." And **TCPI = 1.50** delivers the gut-punch: to *still* hit the original budget, the team would have to suddenly sprint at 150% efficiency for the entire rest of the project — which, let's be honest, is not happening. That's how you turn a row of numbers into an honest, grown-up conversation.
 
-> **Note on EAC:** `EAC = BAC / CPI` is the common, exam-default formula and assumes current cost performance continues. PMI defines other EAC variants (e.g. when the original estimate is no longer valid, `EAC = AC + Bottom-up ETC`, or when both cost *and* schedule pressure persist, `EAC = AC + (BAC − EV) / (CPI × SPI)`). Know that the formula you choose encodes an *assumption* about the future.
+> **Note on EAC:** `EAC = BAC / CPI` is the common, exam-default formula and assumes current cost performance keeps right on going. PMI defines other EAC variants too — e.g. when the original estimate is no longer valid, `EAC = AC + Bottom-up ETC`, or when both cost *and* schedule pressure persist, `EAC = AC + (BAC − EV) / (CPI × SPI)`. The formula you pick quietly encodes an *assumption* about how the rest of the story goes. Choose it on purpose.
 
 ```mermaid
 flowchart TD
@@ -156,13 +160,13 @@ flowchart TD
     EAC --> ETC["ETC = EAC - AC"]
 ```
 
-*The three measured values (PV, EV, AC) feed every variance, index, and forecast in EVM.*
+*The three measured values (PV, EV, AC) quietly feed every variance, index, and forecast in EVM.*
 
 ---
 
 ## 🟢🔴 How to read EVM at a glance
 
-Here's the cheat sheet that makes you fluent. The trick: **1.0 is the line. Above is good, below is bad. Index is a ratio; variance is dollars.**
+Here's the cheat sheet that turns you fluent. The whole secret: **1.0 is the line. Above it you're winning, below it you've got work to do. An index is a ratio; a variance is dollars.**
 
 | Metric | Value | What it means | Sponsor-speak |
 |---|---|---|---|
@@ -174,15 +178,15 @@ Here's the cheat sheet that makes you fluent. The trick: **1.0 is the line. Abov
 | **CV / SV** | Positive | Good (under budget / ahead) | — |
 | **CV / SV** | Negative | Bad (over budget / behind) | — |
 
-A quick way to remember the indexes: **C for Cost, S for Schedule; over 1 you're a hero, under 1 you've got work to do.**
+Quick way to keep the indexes straight: **C is for Cost, S is for Schedule; over 1 you're the hero of the chapter, under 1 you've got a recovery arc to write.**
 
 ### Telling the story to a sponsor
 
-Sponsors don't want formulas — they want the verdict. Translate like this:
+Sponsors don't want your formulas — they want the verdict, the way you'd want the ending of a thriller without the 400 pages. Translate like this:
 
 > "We're at **CPI 0.85, SPI 0.92**. In plain terms: we're spending about 18% more than planned for the value we've delivered, and we're running a bit behind pace. At this rate the project finishes around **\$118k against a \$100k budget**. Here's my recovery plan…"
 
-That sentence — number, plain-English meaning, forecast, plan — is the whole job.
+That one sentence — number, plain-English meaning, forecast, plan — *is* the job. Nail it and you'll never sound like the panicked person in the meeting again.
 
 ```mermaid
 quadrantChart
@@ -198,13 +202,13 @@ quadrantChart
     "Cost trouble": [0.70, 0.25]
 ```
 
-*Plotting SPI (horizontal) against CPI (vertical) — the bottom-left quadrant is where projects go to get cancelled.*
+*Plotting SPI (horizontal) against CPI (vertical) — the bottom-left quadrant is where projects go to get quietly cancelled.*
 
 ---
 
 ## 🥧 A sample budget breakdown
 
-When you present a budget, show *where the money goes*, not just the total. A simple breakdown builds trust and surfaces debate early.
+When you present a budget, show *where the money actually goes*, not just the bottom-line total. A clear breakdown builds trust fast and brings the awkward debates forward, where they're cheap to have.
 
 ```mermaid
 pie title Sample project budget breakdown
@@ -215,9 +219,9 @@ pie title Sample project budget breakdown
     "Travel and other" : 5
 ```
 
-*A representative cost baseline — labor usually dominates, with a visible slice carved out for contingency.*
+*A representative cost baseline — labor usually steals the show, with a visible slice carved out for contingency.*
 
-Notice contingency is shown explicitly. Hiding reserves erodes trust; showing them says "I've planned for risk."
+Notice that contingency is right there in the open. Hiding your reserves erodes trust the second someone finds them; showing them says, calmly, "I've already planned for things going sideways."
 
 ---
 
@@ -277,14 +281,14 @@ To finish within the original budget (BAC), the team must perform the remaining 
 
 ## 🧰 Try it
 
-Take a small, real-ish project — say a **\$12,000, 6-week website rebuild**, planned to deliver \$2,000 of value per week.
+Grab a small, real-ish project — say a **\$12,000, 6-week website rebuild**, planned to deliver \$2,000 of value per week. (Pretend it's yours. Get a little attached.)
 
-1. It's the **end of week 3**. Decide three numbers: how much value *should* be done (**PV**), how much is *actually* done as a dollar value (**EV**), and how much you've *spent* (**AC**). Make EV and AC realistic but imperfect.
+1. It's the **end of week 3**. Decide three numbers: how much value *should* be done (**PV**), how much is *actually* done as a dollar value (**EV**), and how much you've *spent* (**AC**). Make EV and AC realistic but imperfect — life rarely lands on the plan.
 2. Calculate **CV, SV, CPI, SPI**.
 3. Forecast **EAC, ETC, and VAC** (BAC = \$12,000).
 4. Write **one sentence** you'd say to the sponsor: the number, the plain-English meaning, and the forecast.
 
-If you can do this in under ten minutes, you can do EVM on a live project. That's the whole skill — practiced once.
+If you can do all of that in under ten minutes, you can do EVM on a live project under real pressure. That's the entire skill — rehearsed once, in private, before opening night.
 
 ---
 
@@ -305,6 +309,8 @@ If you can do this in under ten minutes, you can do EVM on a live project. That'
 - **ETC (Estimate to Complete)** — forecast cost of the *remaining* work; `EAC − AC`.
 - **VAC (Variance at Completion)** — forecast over/under run; `BAC − EAC`.
 - **TCPI (To-Complete Performance Index)** — efficiency required on remaining work to hit a target; `(BAC − EV) / (BAC − AC)`.
+
+You can now look at a project mid-flight and call its financial ending before anyone else in the room. But money is only one way a project can quietly go off the rails — next up, we chase the suspect everyone *swears* they're already handling: quality.
 
 ---
 ⬅️ **Previous:** [Module 07 — Schedule Management](07-schedule-management.md) · 🏠 **[Reviewer Home](../README.md)** · ➡️ **Next:** [Module 09 — Quality Management](09-quality-management.md)

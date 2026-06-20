@@ -2,6 +2,8 @@
 
 > ⏱️ **Estimated study time:** ~50 min · 📈 **Level:** Intermediate · ✅ **Prerequisites:** [Module 06 — Scope Management](06-scope-management.md) · Part of the **Sales -> Project Management Reviewer**.
 
+*The one where you discover you've been doing the math in your head all along — you just never wrote it down.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Break work packages from the WBS down into **activities**, then sequence them with the right dependency types.
@@ -13,13 +15,15 @@
 
 ## 👋 From your mentor
 
-Here's the good news: you already think in deadlines. Every quarter you've worked backward from a close date, figuring out which deals *have* to move this week so the number lands by the 31st. That instinct — "what must happen, in what order, by when" — is the entire heart of schedule management.
+Okay, real talk: you have been doing this your entire career. Every quarter, you sat down and quietly worked backward from a close date — figuring out which deals *had* to move this week so the number landed by the 31st. That instinct, "what must happen, in what order, by when," is the entire beating heart of schedule management. You already own it.
 
-In sales you carried that math in your head. In project management we make it explicit, on paper, so a team of ten people can see the same plan and trust it. That's the only real difference. This module gives you the vocabulary and the tools to turn that gut feel into something you can defend in a status meeting. Take it slow — this is the most "mathy" module so far, but every formula here is just arithmetic with a story attached.
+The only thing that changes now is that you stop carrying the plan in your head and put it on paper, where a team of ten people can see the same map and actually trust it. That's it. That's the whole difference. This module hands you the vocabulary and the tools to turn that gut feel into something you can defend, calmly, in a status meeting full of people who want a date.
+
+Fair warning: this is the most "mathy" module so far, so pour the good coffee. But I promise every formula in here is just arithmetic with a story attached. Take it slow, and don't let the symbols intimidate you — they're on your side.
 
 ## 🗺️ The big picture: from scope to a schedule
 
-In Module 06 you decomposed the work into a **WBS** ending in **work packages** — the smallest chunks of deliverable work. Scheduling is what happens *after* that. You take each work package, break it into the verbs needed to produce it, line those verbs up in order, estimate how long each takes, and the calendar falls out the other end.
+In Module 06 you took the work apart into a **WBS** that ended in **work packages** — the smallest chunks of deliverable work. Scheduling is the chapter that comes *next*. You take each work package, break it into the verbs needed to produce it, line those verbs up in order, estimate how long each takes, and — like magic that isn't actually magic — the calendar falls out the other end.
 
 ```mermaid
 flowchart TD
@@ -32,17 +36,17 @@ flowchart TD
     G --> H["Compress if needed"]
     H --> I["Baseline and control"]
 ```
-*The scheduling process: each step feeds the next — you can't sequence what you haven't defined.*
+*The scheduling process, step by step — each one feeds the next, and you can't sequence what you haven't defined yet.*
 
-> 🔁 **Sales → PM bridge:** A work package is like an **account** in your pipeline. The *activities* are the touch-points needed to close it — discovery call, demo, proposal, redline, signature. You never closed an account in one undefined blob; you broke it into ordered steps with owners and dates. Scheduling is that, applied to deliverables instead of deals.
+> 🔁 **Sales → PM bridge:** A work package is like an **account** in your pipeline. The *activities* are the touch-points needed to close it — discovery call, demo, proposal, redline, signature. You never closed an account in one undefined blob and you know it; you broke it into ordered steps with owners and dates. Scheduling is exactly that, just pointed at deliverables instead of deals.
 
 ## 1) From work packages to activities
 
-A **work package** is a noun — a thing you'll deliver (e.g., "User login page"). An **activity** (PMI also says **schedule activity**) is a verb — the work you do to produce it (e.g., "Design login wireframe," "Build login API," "Write login tests").
+Here's the cleanest way to keep these straight: a **work package** is a noun — a thing you'll deliver (say, "User login page"). An **activity** (PMI also calls it a **schedule activity**) is a verb — the work you actually do to produce it ("Design login wireframe," "Build login API," "Write login tests").
 
 **Defining activities** = decomposing each work package into the actions required. **Sequencing activities** = deciding what order they run in and how they connect.
 
-The output of defining is your **activity list** plus **activity attributes** (owner, assumptions, constraints) and a **milestone list**. Keep activities small enough to estimate honestly — if you can't put a believable number of days on it, it's still too big.
+The output of defining is your **activity list**, plus **activity attributes** (owner, assumptions, constraints) and a **milestone list**. Keep activities small enough to estimate honestly — if you can't put a believable number of days on it, it's still too big and you're kidding yourself.
 
 | Term | What it is | Sales analogy |
 |---|---|---|
@@ -53,7 +57,7 @@ The output of defining is your **activity list** plus **activity attributes** (o
 
 ## 2) Dependency types and leads/lags
 
-When you sequence activities, you connect them with a **logical relationship**. There are four, and the names read literally — the first word is the *predecessor's* end, the second is the *successor's*.
+When you sequence activities, you connect them with a **logical relationship**. There are four of them, and — small mercy — the names read literally. The first word is the *predecessor's* end, the second is the *successor's*.
 
 | Dependency | Reads as | Plain meaning | Example |
 |---|---|---|---|
@@ -62,18 +66,18 @@ When you sequence activities, you connect them with a **logical relationship**. 
 | **Finish-to-Finish (FF)** | Finish A, then Finish B | B can't finish until A finishes | Finish writing code (A) → finish testing it (B). |
 | **Start-to-Finish (SF)** | Start A, then Finish B | B can't finish until A starts | Start new on-call shift (A) → finish old shift (B). *Rare.* |
 
-**Leads and lags** fine-tune those links:
+**Leads and lags** are the fine-tuning knobs on those links:
 
 - A **lead** *pulls the successor earlier* — overlap. "Start testing 2 days before coding finishes" is an FS link with a **2-day lead** (often written as FS − 2d).
-- A **lag** *pushes the successor later* — a waiting gap. "Apply second coat 24 hours after the first" is an FS link with a **1-day lag** (FS + 1d). Note: a lag is *imposed waiting time*, not slow work.
+- A **lag** *pushes the successor later* — a waiting gap. "Apply second coat 24 hours after the first" is an FS link with a **1-day lag** (FS + 1d). The catch worth remembering: a lag is *imposed waiting time*, not slow work.
 
-> 🔁 **Sales → PM bridge:** You already use lag without naming it. "Send the follow-up email **3 days after** the demo" is a Finish-to-Start link with a 3-day lag. And running discovery for two accounts *in parallel* is a Start-to-Start relationship. Sequencing logic isn't new to you — only the labels are.
+> 🔁 **Sales → PM bridge:** You've been using lag for years without naming it. "Send the follow-up email **3 days after** the demo" is a Finish-to-Start link with a 3-day lag. And running discovery for two accounts *at the same time*? That's a Start-to-Start relationship. The sequencing logic isn't new to you — only the labels are.
 
 ## 3) The network diagram and the Critical Path Method (CPM)
 
-A **network diagram** (precedence diagram) draws your activities as boxes and your dependencies as arrows. Once it's drawn, you can compute the **critical path**: the *longest* path of dependent activities through the network, which determines the *shortest possible* time to finish the project.
+A **network diagram** (precedence diagram) draws your activities as boxes and your dependencies as arrows. Once it's on the page, you can compute the **critical path**: the *longest* path of dependent activities through the network, which determines the *shortest possible* time to finish the project.
 
-That sounds backwards, so sit with it: the longest chain of must-happen-in-order work sets the floor on your duration. If that chain is 20 days, the project cannot finish in less than 20 days no matter how fast everything else goes.
+That sounds backwards the first time you hear it, so sit with it for a second — it's the plot twist of this whole module. The longest chain of must-happen-in-order work sets the *floor* on your duration. If that chain is 20 days, the project cannot finish in fewer than 20 days, no matter how fast everything else sprints.
 
 Here's a small network. Each node shows the activity and its duration in days.
 
@@ -89,16 +93,16 @@ flowchart LR
     classDef crit fill:#ffdddd,stroke:#cc0000,stroke-width:2px;
     class A,B,D,E crit
 ```
-*A small network. The highlighted path A → B → D → E is the critical path (3+5+2+3 = 13 days). The path through C is shorter, so C has float.*
+*A small network. The highlighted path A → B → D → E is the critical path (3+5+2+3 = 13 days). The path through C is shorter, so C gets some breathing room (float).*
 
 ### Forward pass, backward pass — in plain language
 
-Two passes give you four numbers per activity: **Early Start (ES), Early Finish (EF), Late Start (LS), Late Finish (LF)**.
+Two passes give you four numbers per activity: **Early Start (ES), Early Finish (EF), Late Start (LS), Late Finish (LF)**. Think of them as the earliest and latest a thing could politely happen.
 
 **Forward pass — "how soon can it happen?"** Walk left to right.
 - First activity's ES = 0 (or day 1, depending on convention; we'll use 0).
 - **EF = ES + duration.**
-- The next activity's ES = the **largest** EF of all its predecessors (you wait for the slowest input).
+- The next activity's ES = the **largest** EF of all its predecessors (you wait for the slowest input — same as always).
 
 **Backward pass — "how late can it slip without delaying the project?"** Walk right to left.
 - Last activity's LF = its EF (the project end).
@@ -107,10 +111,10 @@ Two passes give you four numbers per activity: **Early Start (ES), Early Finish 
 
 ### Float (slack) and why the critical path matters
 
-**Total float** = LS − ES (equivalently LF − EF). It's how much an activity can slip without pushing out the *project* end date.
+**Total float** = LS − ES (equivalently LF − EF). It's how much an activity can slip without pushing out the *project* end date — its margin for error.
 
-- **Critical path activities have zero float.** Slip one day, slip the whole project. These are the deals that *must* move this week.
-- **Non-critical activities have positive float** — wiggle room. Activity C above can take an extra day or two before it starts to matter.
+- **Critical path activities have zero float.** Slip one day, slip the whole project. These are the deals that *absolutely must* move this week.
+- **Non-critical activities have positive float** — wiggle room. Activity C above can take an extra day or two before anyone needs to worry.
 
 Run the numbers on the diagram (project length = 13 days):
 
@@ -122,13 +126,13 @@ Run the numbers on the diagram (project length = 13 days):
 | D | 2 | 8 | 10 | 8 | 10 | 0 | ✅ |
 | E | 3 | 10 | 13 | 10 | 13 | 0 | ✅ |
 
-Why it matters: the critical path tells you **where to spend your attention**. If you can only watch a few things, watch the zero-float activities. And if you want to finish faster, you *must* shorten the critical path — speeding up C does nothing for the end date.
+Why this matters: the critical path tells you **where to spend your attention** when you can't watch everything (and you never can). Watch the zero-float activities like a hawk. And here's the part people forget under deadline pressure — if you want to finish faster, you *must* shorten the critical path. Speeding up C does absolutely nothing for the end date. Pour your energy there and you've burned effort for zero reward.
 
-> 🔁 **Sales → PM bridge:** Working backward from a quarter-end close date to figure out which deals *must* move this week — that is literally a backward pass. The deals with no room to slip are your critical path. The ones you could push to next month without missing the number have float. You've been doing CPM in your head for years.
+> 🔁 **Sales → PM bridge:** Working backward from a quarter-end close date to figure out which deals *must* move this week — that, my friend, is literally a backward pass. The deals with no room to slip are your critical path. The ones you could push to next month without missing the number have float. You've been running CPM in your head for years; you just never drew the boxes.
 
 ## 4) Estimating durations
 
-You need a number of days for each activity. There are three respectable ways to get one — pick by how much data you have.
+You need a number of days for each activity. There are three respectable ways to get one — and you pick based on how much real data you've got to work with.
 
 | Method | How it works | Accuracy | Use when |
 |---|---|---|---|
@@ -138,22 +142,22 @@ You need a number of days for each activity. There are three respectable ways to
 
 ### Three-point and the PERT formula
 
-Instead of one guess, you gather three: **Optimistic (O)**, **Most Likely (M)**, **Pessimistic (P)**. The **PERT** (beta) estimate weights the most likely outcome four times:
+Instead of one brave little guess, you gather three: **Optimistic (O)**, **Most Likely (M)**, **Pessimistic (P)**. The **PERT** (beta) estimate weights the most likely outcome four times — because reality usually lands near "most likely," not at either extreme:
 
 **`Estimate = (O + 4M + P) / 6`**
 
 Example: a tricky integration. O = 4 days, M = 6 days, P = 14 days.
 `(4 + (4 × 6) + 14) / 6 = (4 + 24 + 14) / 6 = 42 / 6 = 7 days.`
 
-Notice the answer (7) sits above the most likely (6) because the long tail of bad days drags it up — that's the point. A plain average of the three would be (4 + 6 + 14) / 3 = 8 days; PERT's 4× weight on the most likely value keeps the estimate grounded nearer reality at 7.
+Notice the answer (7) sits *above* the most likely (6), because that long tail of bad days drags it up — and that's exactly the point. A plain average of the three would be (4 + 6 + 14) / 3 = 8 days; PERT's 4× weight on the most likely value keeps the estimate grounded nearer reality at 7. It respects your pessimism without letting it run the show.
 
-> Quick aside: PERT can also estimate spread via **standard deviation = (P − O) / 6**. Here that's (14 − 4) / 6 ≈ 1.7 days, telling you how confident to be. You don't need this for every task, but it's handy for high-stakes ones.
+> Quick aside: PERT can also estimate the spread via **standard deviation = (P − O) / 6**. Here that's (14 − 4) / 6 ≈ 1.7 days, which tells you how confident to be. You don't need this for every task — but for the high-stakes ones, it's a lovely little reality check.
 
 ## 5) Gantt charts and milestones
 
-A **Gantt chart** is a bar chart against a calendar: each activity is a horizontal bar whose length is its duration and whose position is its start date. It's the single most common way to *communicate* a schedule because anyone can read it at a glance — no CPM training required.
+A **Gantt chart** is a bar chart laid against a calendar: each activity is a horizontal bar whose length is its duration and whose position is its start date. It's the single most common way to *communicate* a schedule, because anyone can read it at a glance — no CPM training, no decoder ring required. This is the version you show people.
 
-A **milestone** is a significant point in time with **zero duration** — "Design approved," "Beta launched," "Go-live." Milestones are how executives track you, so choose them to mark real, verifiable events.
+A **milestone** is a significant point in time with **zero duration** — "Design approved," "Beta launched," "Go-live." Milestones are how executives track you, so choose them to mark real, verifiable events, not vibes.
 
 ```mermaid
 gantt
@@ -170,13 +174,13 @@ gantt
     Test                   :a5, after a4, 3d
     Go-live                :milestone, m2, after a5, 0d
 ```
-*A Gantt view of the same project. Bars show duration on the calendar; diamonds (milestones) mark zero-duration events like approvals and go-live.*
+*A Gantt view of the very same project. Bars show duration on the calendar; the diamonds (milestones) mark zero-duration events like approvals and go-live.*
 
-The Gantt and the network diagram describe the *same* schedule — the network shows the *logic*, the Gantt shows the *calendar*. Build with the network; present with the Gantt.
+The Gantt and the network diagram describe the *same* schedule — the network shows the *logic*, the Gantt shows the *calendar*. So build with the network, then present with the Gantt. One's your workshop, the other's your front window.
 
 ## 6) Schedule compression: when the date moves up
 
-Your sponsor says "we need this two weeks sooner." You have exactly two honest levers. Both only matter when applied to the **critical path** — compressing anything else is wasted effort.
+Your sponsor leans in and says "we need this two weeks sooner." Deep breath. You have exactly two honest levers, and both only matter when you apply them to the **critical path** — compressing anything else is effort poured straight down the drain.
 
 | Technique | What you do | The cost | Best when |
 |---|---|---|---|
@@ -191,27 +195,27 @@ flowchart TD
     D -->|"Yes"| E["Fast-track<br/>parallelize, adds risk"]
     D -->|"No"| F["Renegotiate scope or date"]
 ```
-*Choosing a compression technique. Money buys crashing; tolerance for risk buys fast-tracking; neither means a scope/date conversation.*
+*Choosing a compression technique: money buys crashing, tolerance for risk buys fast-tracking, and neither one means it's time for a grown-up scope/date conversation.*
 
-Rule of thumb: **crashing trades money for time; fast-tracking trades risk for time.** There's no free compression — if someone promises one, you're about to inherit hidden cost or hidden risk.
+The line to tattoo on your brain: **crashing trades money for time; fast-tracking trades risk for time.** There is no such thing as free compression. If someone promises you free compression, smile politely — because you're about to inherit hidden cost or hidden risk, and it's better to know which.
 
 ## 7) Resource leveling and smoothing (briefly)
 
-Two ways to deal with people who are over-allocated:
+Two ways to handle people who are over-allocated — that is, asked to be in two places at once:
 
-- **Resource leveling** — you adjust start/finish dates to fit limited resources (e.g., one developer can't do two activities at once, so one slides). This **can change the critical path and may extend the end date**. It respects the resource limit above all.
-- **Resource smoothing** — you adjust work *within the available float only*, so the end date and critical path **don't change**. It's gentler; it just flattens the peaks and valleys of demand.
+- **Resource leveling** — you adjust start/finish dates to fit limited resources (one developer can't do two activities at the same time, so one slides). This **can change the critical path and may extend the end date.** It respects the resource limit above all else, even if that costs you days.
+- **Resource smoothing** — you adjust work *within the available float only*, so the end date and critical path **don't change.** It's the gentler cousin; it just flattens the peaks and valleys of demand without moving the finish line.
 
-Memory hook: **Leveling** can *lengthen* the project; **smoothing** stays inside the slack you already have.
+Memory hook: **Leveling** can *lengthen* the project; **smoothing** stays snug inside the slack you already have.
 
 ## ⏸️ Pause & reflect
 
-This is a perfectly safe place to stop, stretch, and come back later — the CPM mechanics above are the densest part of the module, and they reward a fresh head.
+This is a perfectly good place to set the book down, stretch, and come back later — the CPM mechanics above are the densest stretch of the module, and they genuinely read better with a fresh head and a refilled cup.
 
 Before you move on, sit with these:
 
-1. Think of a past quarter. What was *your* critical path — the two or three deals that, if they slipped, the whole number missed?
-2. Where in your old workflow did you naturally **fast-track** (overlap steps) versus **crash** (throw your own overtime at it)? Which one bit you with rework later?
+1. Picture a past quarter. What was *your* critical path — the two or three deals that, if they slipped, the whole number missed?
+2. Where in your old workflow did you naturally **fast-track** (overlap steps) versus **crash** (throw your own overtime at it)? And be honest — which one came back to bite you with rework later?
 3. Which estimating method matches how you used to forecast a deal's close date — analogous ("deals like this usually take 3 weeks") or three-point ("best case Friday, worst case end of month")?
 
 ## 🧠 Check yourself
@@ -248,15 +252,15 @@ A **Finish-to-Start (FS)** dependency with a **1-day lag**. The lag is imposed w
 
 ## 🧰 Try it
 
-Take a small real goal — say, "Prepare and deliver a client demo." Do this on one page:
+Grab a small, real goal — say, "Prepare and deliver a client demo." Do this whole thing on one page:
 
 1. List **5–7 activities** (verbs): e.g., gather requirements, build demo data, script the walkthrough, dry-run, deliver.
 2. Mark the **dependencies** — which can't start until another finishes (FS), and any you could overlap (SS).
 3. Put a **duration** on each. For the riskiest one, use PERT: write your O, M, P and compute (O + 4M + P) / 6.
 4. Sketch the **network** (boxes and arrows) and trace the **longest path** — that's your critical path.
-5. Now pretend the demo got moved up two days. Decide: **crash** (who/what would you add?) or **fast-track** (which two activities would you overlap, and what could go wrong?).
+5. Now the plot twist: pretend the demo just got moved up two days. Decide — **crash** (who or what would you add?) or **fast-track** (which two activities would you overlap, and what could go wrong)?
 
-If you can do this for a 6-activity project, you can do it for a 60-activity one — it's the same moves at bigger scale.
+If you can do this for a 6-activity project, you can do it for a 60-activity one. Same moves, bigger stage.
 
 ## 🔑 Key terms
 

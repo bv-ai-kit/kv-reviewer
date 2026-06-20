@@ -2,6 +2,8 @@
 
 > **Estimated study time:** ~35 min · **Level:** Beginner · **Prerequisites:** [Module 00](00-welcome-and-how-to-use.md) · Part of the **Sales -> Project Management Reviewer**.
 
+*The first chapter, where you discover the heroine has been doing this all along — she just never knew its name.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Explain what makes something a **project** versus ongoing **operations**, with your own examples.
@@ -13,23 +15,25 @@
 
 ## 👋 From your mentor
 
-Hey — first real module. Take a breath. You already manage projects; you just call them "closing the quarter" or "landing the enterprise account." This module gives proper names to instincts you already trust.
+Hey, you. First real module. Pour the coffee, get comfy — this one's gentler than it looks.
 
-I want you to leave here able to walk into a room of PMs and not feel like an impostor. The vocabulary is learnable in an afternoon. The judgment behind it — knowing what to trade off when everything's on fire — that you've been practicing for years on the sales floor. Let's connect the two.
+Here's the secret I want to spill before we even start: you already manage projects. You just call them "closing the quarter" or "landing the enterprise account." Everything in this module is about giving proper names to instincts you've trusted for years. It's less *learning a new language* and more *finding out the thing you do has subtitles*.
+
+By the end, I want you to be able to walk into a room of PMs and not feel like the new girl who wandered in by mistake. The vocabulary is honestly learnable in an afternoon. The hard part — the judgment to know what to trade off when everything's on fire — you've been rehearsing on the sales floor this whole time. Let's connect the two.
 
 ---
 
 ## What is a project, really?
 
-A **project** is *a temporary endeavor undertaken to create a unique product, service, or result* (that's PMI's definition, and it's worth memorizing). Three words in there do all the heavy lifting:
+A **project** is *a temporary endeavor undertaken to create a unique product, service, or result* (that's PMI's definition, and yes, it's worth memorizing word-for-word). Three little words in there do all the heavy lifting:
 
-- **Temporary** — it has a defined start and a defined end. When the goal is met (or the project is killed), it's over. This is *not* "quick"; a project can run for years. It just isn't *forever*.
-- **Unique** — the deliverable hasn't existed in exactly this form before. Building *this* client's onboarding portal is unique even if you've built portals before.
-- **Progressive elaboration** — you don't know everything on day one, and that's normal. The plan sharpens as you learn more. You start fuzzy ("we need a new CRM") and get sharp ("migrate 12,000 contacts to HubSpot by March 31, keeping these 4 custom fields"). Detail emerges in layers, like a photo developing.
+- **Temporary** — it has a defined start and a defined end. When the goal is met (or the project gets called off), it's over. Note: "temporary" does *not* mean "quick." A project can run for years. It just isn't *forever*.
+- **Unique** — the deliverable hasn't existed in exactly this form before. Building *this* client's onboarding portal is unique even if you've built a dozen portals already. Like every wedding has a cake, but never quite *this* cake.
+- **Progressive elaboration** — you don't know everything on day one, and that's completely normal. The plan sharpens as you learn. You start fuzzy ("we need a new CRM") and end sharp ("migrate 12,000 contacts to HubSpot by March 31, keeping these 4 custom fields"). Detail arrives in layers, like a photo slowly developing.
 
 ### Projects vs. operations
 
-**Operations** are the opposite of temporary and unique: ongoing, repetitive work that keeps the business running. Payroll every two weeks. Restocking shelves. Answering support tickets. There's no "end date" — you do it again next cycle.
+**Operations** are the polar opposite of temporary and unique: ongoing, repetitive work that keeps the lights on. Payroll every two weeks. Restocking shelves. Answering support tickets. There's no "end date" — you just do it again next cycle.
 
 Here's the clean contrast:
 
@@ -41,19 +45,19 @@ Here's the clean contrast:
 | Planning | Progressively elaborated | Stable, optimized over time |
 | Example | Launch a new product line | Process daily customer orders |
 
-**Concrete examples to lock it in:**
+**A few concrete examples to lock it in:**
 
 - *Project:* Open a new regional office. *Operations:* Run that office once it's open.
 - *Project:* Build a company website. *Operations:* Publish a blog post on it every Tuesday.
 - *Project:* Roll out a new CRM to the sales team. *Operations:* Log calls in that CRM every day (this one's personal for you 👇).
 
-> 🔁 **Sales → PM bridge:** Think about closing your quarterly quota. It has a **hard end date** (quarter-end), a **unique target** (this quarter's number, this pipeline), and you **elaborate progressively** — your forecast gets sharper as deals advance through stages. That is textbook *project* behavior. Meanwhile, the daily grind of logging activities in the CRM and updating pipeline stages? That's *operations*. You've been living on both sides of this line for years.
+> 🔁 **Sales → PM bridge:** Think about closing your quarterly quota. It has a **hard end date** (quarter-end), a **unique target** (this quarter's number, this pipeline), and you **elaborate progressively** — your forecast gets sharper as deals advance through the stages. That, my friend, is textbook *project* behavior. Meanwhile, the daily grind of logging activities and nudging pipeline stages along? That's *operations*. You've been living on both sides of this line for years — you just never had the chart.
 
 ---
 
 ## The hierarchy: portfolio > program > project
 
-Big organizations don't run one project at a time — they run dozens, and they need a way to organize them so the work actually serves strategy. That's the **portfolio > program > project** hierarchy.
+Big organizations don't run one tidy project at a time — they run dozens, all at once, and they need a way to keep them organized so the work actually serves the strategy instead of wandering off. That's the **portfolio > program > project** hierarchy.
 
 ```mermaid
 flowchart TD
@@ -83,20 +87,22 @@ The distinctions, plainly:
 | **Program** | A group of *related* projects coordinated together because managing them as a set gets you benefits you couldn't get separately | **Outcomes** — the combined benefit |
 | **Portfolio** | The whole collection of projects, programs, and operations an organization runs to hit strategic goals | **Strategic alignment** — are we investing in the right things? |
 
-**Example:** "Open EU office" and "Localize the product into French and German" are two separate projects. Bundle them under a **Market Expansion program** and you can share staff, sequence them sensibly, and track one combined benefit (revenue from Europe). The **portfolio** is where leadership decides Market Expansion deserves funding *at all* versus, say, the Customer Experience program.
+**Example:** "Open EU office" and "Localize the product into French and German" are two separate projects. Bundle them under a **Market Expansion program** and suddenly you can share staff, sequence them sensibly, and track one combined benefit (revenue from Europe). The **portfolio** is the room where leadership decides whether Market Expansion deserves funding *at all* — versus, say, the Customer Experience program.
 
-You'll spend most of this reviewer working at the **project** level. Just know the ladder exists so you understand where your work fits — and so "the PMO is reprioritizing the portfolio" doesn't sound like a foreign language.
+Think of it like planning a big trip with friends: each booking (flights, hotel, the wine tour) is a *project*; "the Italy leg" that ties a few of them together is a *program*; and "what are we even spending this year's vacation budget on" is the *portfolio*.
+
+You'll spend most of this reviewer working at the **project** level. Just know the whole ladder exists, so you know where your rung sits — and so "the PMO is reprioritizing the portfolio" doesn't sound like overheard gossip in a language you never studied.
 
 ---
 
 ## What a project manager actually does all day
 
-Let's kill a myth right now: **the PM is not the boss who does all the work.** If you're the PM and you're personally building the deliverable, something has gone wrong. Your job is to make *everyone else's* work possible, coordinated, and unblocked.
+Let's kill a myth right now, because it'll save you a lot of grief: **the PM is not the boss who does all the work.** If you're the PM and you're personally building the deliverable at 11pm, something has gone sideways. Your job is to make *everyone else's* work possible, coordinated, and unblocked.
 
 Two roles capture this:
 
-- **Integrator** — you're the one person who sees the whole picture. Engineering, design, finance, the client, legal — they each see their slice. You connect the slices so the thing actually ships. You spend your day moving information across boundaries.
-- **Servant-leader** — a term PMI and Agile both embrace. You lead by *removing obstacles and serving the team*, not by command. You ask "what's in your way?" more than you say "do this." (We'll go deep on servant-leadership in [Module 02](02-from-sales-to-pm.md) and the people modules.)
+- **Integrator** — you're the one person who can see the whole picture. Engineering, design, finance, the client, legal — each of them sees only their slice. You connect the slices so the thing actually ships. Most of your day is spent moving information across boundaries (think of yourself as the friend who keeps the group chat from falling apart).
+- **Servant-leader** — a term PMI and Agile both embrace. You lead by *removing obstacles and serving the team*, not by barking orders. You ask "what's in your way?" far more than you say "do this." (We go deep on servant-leadership in [Module 02](02-from-sales-to-pm.md) and the people modules.)
 
 A realistic morning:
 
@@ -119,18 +125,18 @@ sequenceDiagram
 
 What that actually breaks down into:
 
-- **Communicating** — studies and PMI both put this at roughly *80–90% of a PM's time*. Status, expectations, bad news delivered early.
-- **Planning & re-planning** — turning fuzzy goals into a sequence of work, then adjusting as reality intrudes.
-- **Managing risk** — spotting what could go wrong before it does, and having a plan.
-- **Managing stakeholders** — keeping the people who care about (or can sink) the project informed and aligned.
-- **Removing blockers** — the unglamorous, high-value work of clearing the path.
-- **Tracking & reporting** — knowing where you really are versus the plan, honestly.
+- **Communicating** — studies and PMI both put this at roughly *80–90% of a PM's time*. Status, expectations, and bad news delivered early (always early).
+- **Planning & re-planning** — turning fuzzy goals into a sequence of work, then adjusting when reality crashes the party.
+- **Managing risk** — spotting what could go wrong *before* it does, and having a plan ready.
+- **Managing stakeholders** — keeping the people who care about (or could sink) the project informed and aligned.
+- **Removing blockers** — the unglamorous, high-value work of quietly clearing the path.
+- **Tracking & reporting** — knowing where you *really* are versus the plan, and saying so honestly.
 
 ---
 
 ## The Iron Triangle (triple constraint)
 
-This is the single most useful mental model in project management, and you'll use it weekly. The classic **triple constraint** — also called the **Iron Triangle** — says every project is bound by three competing forces, with **quality** sitting at the center as the thing they all affect:
+If you remember one mental model from this whole reviewer, make it this one — you'll reach for it weekly. The classic **triple constraint** — also called the **Iron Triangle** — says every project is held in tension by three competing forces, with **quality** sitting right at the center as the thing they all affect:
 
 ```mermaid
 flowchart TD
@@ -147,19 +153,19 @@ flowchart TD
 ```
 *The triple constraint: move one side and the others must flex. Quality lives in the middle.*
 
-The rule that makes it powerful: **you cannot fix all three independently.** Change one and at least one other must give.
+Here's the rule that makes it powerful: **you cannot fix all three independently.** Tug on one and at least one other has to give.
 
 - Want it **faster** (shorter schedule)? Either cut **scope** or add **cost** (more people/overtime).
 - Want **more scope**? It'll take longer or cost more.
 - Want it **cheaper**? Expect less scope or a longer timeline.
 
-A working example: A client says, *"Add three more features, keep the same deadline, don't increase the budget."* The Iron Triangle tells you instantly that something has to break — and your job is to make that visible and force a real trade-off conversation instead of quietly burning out the team (which silently sacrifices the hidden fourth variable: **quality**).
+A working example: a client says, *"Add three more features, keep the same deadline, and don't touch the budget."* The Iron Triangle tells you instantly that something has to break — and your job is to make that visible and start a real trade-off conversation, instead of quietly burning out the team (which silently sacrifices the hidden fourth variable: **quality**). Saying yes to all three is the project-management version of promising you'll be "five minutes away" when you haven't even left the house.
 
-> 🔁 **Sales → PM bridge:** You already negotiate the triangle. A prospect wants a lower price (**cost**), the full feature set (**scope**), and onboarding by Monday (**schedule**). You don't just say yes — you trade: "I can hit that price if we start with the core package and add modules next quarter." That instinct to *protect value while flexing the constraints* is exactly what PMs do. You're not learning a new skill, you're relabeling one.
+> 🔁 **Sales → PM bridge:** You already negotiate this triangle in your sleep. A prospect wants a lower price (**cost**), the full feature set (**scope**), and onboarding by Monday (**schedule**). You don't just smile and say yes — you trade: "I can hit that price if we start with the core package and add modules next quarter." That instinct to *protect value while flexing the constraints* is exactly what PMs do. You're not learning a new skill here. You're relabeling one you've already mastered.
 
 ### The extended / competing constraints (PMBOK 7)
 
-Modern PM recognizes the triangle was always a simplification. There are really **six** competing constraints you balance:
+Modern PM admits the triangle was always a bit of a simplification. There are really **six** competing constraints you're balancing:
 
 | Constraint | The question it asks |
 |---|---|
@@ -170,28 +176,28 @@ Modern PM recognizes the triangle was always a simplification. There are really 
 | **Resources** | What people, tools, materials do we have? |
 | **Risk** | What uncertainty are we accepting? |
 
-And hovering above all of them: **benefits / value** — the actual reason the project exists. A project delivered on time and on budget that produces no value is still a *failure*. Hold that thought; it's the heart of PMBOK 7.
+And hovering above all six, like the real reason anyone showed up: **benefits / value** — the actual point of the project. A project delivered on time and on budget that produces no value is still a *failure*. Hold that thought tight; it's the beating heart of PMBOK 7.
 
 ---
 
 ## ⏸️ Pause & reflect
 
-This is a genuinely good place to stop, stretch, and let the Iron Triangle settle. **It's completely safe to bookmark here and come back later** — the next section shifts gears into PMI's framework, and you'll absorb it better fresh.
+This is a genuinely lovely place to stop, stretch, and let the Iron Triangle settle into your bones. **It's completely safe to bookmark here and come back later** — the next section shifts gears into PMI's framework, and you'll absorb it better with fresh eyes.
 
-Before you go (or before you continue), sit with these:
+Before you go (or before you carry on), sit with these:
 
-1. Think of one "project" from your sales career (a big push, a launch, a quota sprint). Which constraint did you protect, and which did you let flex?
-2. In your current or last job, name one thing that's clearly **operations** and one thing that's clearly a **project**. Was anyone treating the project like operations (or vice versa)?
+1. Think of one "project" from your sales career — a big push, a launch, a quota sprint. Which constraint did you protect, and which did you let flex?
+2. In your current or last job, name one thing that's clearly **operations** and one thing that's clearly a **project**. Was anyone treating the project like operations (or the other way around)?
 
-No need to write essays — just answer them honestly in your head or a notebook.
+No essays required — just answer them honestly, in your head or a notebook.
 
 ---
 
 ## Value delivery: how PMBOK 7 thinks
 
-Earlier editions of the **PMBOK Guide** were process-heavy — 49 processes, lots of inputs and outputs. The **7th edition (2021)** made a deliberate pivot: away from rigid processes and toward **principles** and **outcomes**, because projects deliver in wildly different ways (predictive/waterfall, agile, hybrid). The new north star is **value delivery** — projects exist to create value, not just to produce deliverables.
+Earlier editions of the **PMBOK Guide** were process-heavy — 49 processes, a forest of inputs and outputs. The **7th edition (2021)** made a deliberate pivot: away from rigid processes and toward **principles** and **outcomes**, because projects deliver in wildly different ways now (predictive/waterfall, agile, hybrid). The new north star is **value delivery** — projects exist to create value, not just to crank out deliverables.
 
-It's built on two lists. **You do not need to memorize these now** — just recognize them so they're not scary later.
+It's built on two lists. **You do not need to memorize these now** — just recognize them so they're old friends, not strangers, when they show up later.
 
 ### The 12 Principles (the "how to behave")
 
@@ -225,7 +231,7 @@ These are the areas of activity critical to delivering outcomes:
 | 7 | **Measurement** | Track performance; know if you're on track |
 | 8 | **Uncertainty** | Handle risk, ambiguity, and complexity |
 
-Tying it together: PMBOK 7 also names the **value delivery system** — the idea that portfolios, programs, projects, *and* operations all work together to deliver value to the organization. Notice the principles and domains overlap (stakeholders, value, risk, team appear in both). That's intentional — they reinforce each other.
+Tying it together: PMBOK 7 also names the **value delivery system** — the idea that portfolios, programs, projects, *and* operations all work together to deliver value to the organization. Notice the principles and domains overlap (stakeholders, value, risk, team show up in both lists). That's on purpose — they reinforce each other.
 
 ```mermaid
 flowchart LR
@@ -265,13 +271,13 @@ flowchart LR
 
 ## What does "project success" actually mean?
 
-The old answer was the Iron Triangle: **on time, on budget, in scope.** That's necessary but no longer sufficient. Modern PM (and PMBOK 7 especially) defines success more completely:
+The old answer was the Iron Triangle: **on time, on budget, in scope.** Necessary — but, plot twist, no longer sufficient. Modern PM (and PMBOK 7 especially) defines success more completely:
 
 - **On time / on budget / in scope** — you delivered what you said, when you said, for what you said. Table stakes.
-- **Stakeholder satisfaction** — the people who care about the outcome are actually happy with it. A "successful" project nobody wanted isn't a success.
-- **Benefits realized / value delivered** — the project produced the outcome it was funded to produce. Did the new CRM actually shorten the sales cycle? Did revenue from Europe materialize?
+- **Stakeholder satisfaction** — the people who care about the outcome are *actually* happy with it. A "successful" project nobody wanted isn't a success.
+- **Benefits realized / value delivered** — the project produced the outcome it was funded to produce. Did the new CRM actually shorten the sales cycle? Did the revenue from Europe materialize?
 
-The cautionary tale: a project can land perfectly inside the triangle and still **fail** if it delivers something useless, or if stakeholders feel steamrolled, or if the expected benefit never shows up. Conversely, a project that ran a little over budget but transformed how the company sells might be a roaring success. **Value is the final judge.**
+Here's the cautionary tale — and it's the kind of twist that should make you sit up. A project can land *perfectly* inside the triangle and still **fail** if it delivers something useless, or if stakeholders feel steamrolled, or if the expected benefit never shows. Flip it around: a project that ran a little over budget but transformed how the whole company sells might be a roaring success. **Value is the final judge.**
 
 > A blunt way to remember it: *"On time and on budget" is how you deliver. "Did it create value?" is whether you succeeded.*
 
@@ -279,7 +285,7 @@ The cautionary tale: a project can land perfectly inside the triangle and still 
 
 ## The PMO in one section
 
-A **Project Management Office (PMO)** is an organizational structure that standardizes project governance and shares resources, methods, tools, and techniques. Not every company has one, but many do — and they come in three flavors based on how much control they exert:
+A **Project Management Office (PMO)** is an organizational structure that standardizes project governance and shares resources, methods, tools, and techniques. Not every company has one, but plenty do — and they come in three flavors, sorted by how much control they like to wield:
 
 | PMO type | Degree of control | What it does |
 |---|---|---|
@@ -287,13 +293,13 @@ A **Project Management Office (PMO)** is an organizational structure that standa
 | **Controlling** | **Moderate** | Requires compliance — you must use specific frameworks, tools, or templates. Audits for conformance. |
 | **Directive** | **High** | Takes over and *directly manages* the projects; the PMs report into the PMO. |
 
-If you join a company with a **directive** PMO, expect a lot of standardization and oversight. A **supportive** PMO is more of a helpful library you can lean on. Knowing which kind you're dealing with tells you how much freedom you'll have to tailor your approach (remember principle #7 — *tailoring*).
+If you join a company with a **directive** PMO, expect a lot of standardization and a watchful eye over your shoulder. A **supportive** PMO is more like a helpful, well-stocked library you can lean on whenever you want. Knowing which kind you're dealing with tells you, on day one, how much freedom you'll have to tailor your approach (remember principle #7 — *tailoring*).
 
 ---
 
 ## 🧠 Check yourself
 
-Try to answer before peeking. No grade, just calibration.
+Try to answer before you peek. No grade, no red pen — just calibration.
 
 **1. What three words define a project, per PMI?**
 <details><summary>Show answer</summary>
@@ -337,7 +343,7 @@ Something has to give. You can't add scope while holding schedule and cost fixed
 
 **Reframe a sales win as a project (15 minutes).**
 
-Pick one significant achievement from your sales career — a major account you closed, a territory you launched, a quota sprint you won. Now write it up as a *project* using the language from this module:
+Pick one achievement you're genuinely proud of from your sales career — a major account you closed, a territory you launched, a quota sprint you won. Now write it up as a *project*, using the language from this module:
 
 1. **The deliverable** — what unique result did you produce? (e.g., "Signed enterprise contract with Acme worth $240k ARR.")
 2. **Temporary boundaries** — when did it start and end?
@@ -345,7 +351,7 @@ Pick one significant achievement from your sales career — a major account you 
 4. **The Iron Triangle** — which constraint did you protect (scope/schedule/cost) and which did you flex? What was your "quality at the center" worry?
 5. **Success beyond the triangle** — did it deliver real *value/benefit* and leave stakeholders satisfied? How do you know?
 
-Keep it to half a page. This is exactly the kind of story you'll retell in PM interviews — and doing it now proves to yourself that you've been running projects all along. You'll build on this directly in [Module 02](02-from-sales-to-pm.md).
+Keep it to half a page. This is exactly the kind of story you'll retell in PM interviews — and writing it now is your own little proof that you've been running projects all along. You'll build on this directly in [Module 02](02-from-sales-to-pm.md).
 
 ---
 

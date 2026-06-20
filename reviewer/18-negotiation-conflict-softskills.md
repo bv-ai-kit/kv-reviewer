@@ -2,6 +2,8 @@
 
 > **Estimated study time:** ~40 min · **Level:** Intermediate · **Prerequisites:** [Module 10](10-resources-teams-leadership.md) · Part of the **Sales -> Project Management Reviewer**.
 
+*The module where you find out the "soft" skills were the real plot twist all along — and you've secretly been the lead character this whole time.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Name the five Thomas-Kilmann conflict modes and pick the right one for a given moment.
@@ -12,13 +14,13 @@
 
 ## 👋 From your mentor
 
-Here's the secret nobody tells career-changers: the "soft skills" in project management are the hardest, most valuable skills on the job — and you already have most of them. You've spent years reading the room, handling objections, and getting a "yes" out of someone who started at "no." That's negotiation. That's conflict resolution. That's influence.
+Okay, real talk: here's the secret nobody hands you on day one. The "soft skills" in project management are actually the hardest, most valuable skills on the job — and you already have most of them. You've spent years reading the room, handling objections, and coaxing a "yes" out of someone who opened with a flat "no." That's negotiation. That's conflict resolution. That's influence. You've been doing this; we're just renaming it.
 
-The only thing that changes when you move into PM is the *goal*. In sales you aimed all that skill at **closing**. As a PM you aim it at **alignment** — getting a roomful of people who answer to different bosses to row in the same direction. Same muscles, new target. Let's tune them.
+The only thing that changes when you move into PM is the *goal*. In sales you aimed all that skill at **closing**. As a PM you aim it at **alignment** — getting a roomful of people who answer to different bosses to row in the same direction. Same muscles, new target. Pour the coffee; let's tune them.
 
 ## Conflict is normal — and often healthy
 
-First, breathe. Conflict on a project is not a sign something has gone wrong. It's a sign that real people with real stakes are paying attention. A team that never disagrees is usually a team that's disengaged, or one where the quiet person is sitting on the risk that sinks you in month four.
+First, breathe. Conflict on a project is not a sign something has gone wrong. It's a sign that real people with real stakes are paying attention. A team that never disagrees is usually a team that's checked out — or worse, the one where the quiet person is quietly sitting on the very risk that sinks you in month four. (Every thriller has that character. Don't let them keep their secret.)
 
 There are two flavors worth separating:
 
@@ -27,9 +29,9 @@ There are two flavors worth separating:
 | **Task / cognitive conflict** | Disagreeing about the *work* — scope, approach, priorities, design | Usually yes — it pressure-tests ideas |
 | **Relationship / affective conflict** | Disagreeing about the *person* — personality clashes, blame, tone | Rarely — it drains the team |
 
-Your job as PM isn't to eliminate conflict. It's to **keep conflict on the task and off the person**. When two engineers argue hard about an architecture choice and shake hands after — that's a win. When they stop talking to each other — that's the fire to put out.
+Your job as PM isn't to eliminate conflict. It's to **keep conflict on the task and off the person**. When two engineers argue hard about an architecture choice and shake hands after — that's a win. When they stop talking to each other entirely — *that's* the fire, and you grab the extinguisher.
 
-> 🔁 **Sales → PM bridge:** An objection on a sales call was never a rejection — it was information about what the buyer actually cared about. Conflict on a project is the same signal. "We can't hit that date" isn't your team being difficult; it's data about a constraint you didn't see. Lean into it the way you leaned into "it's too expensive."
+> 🔁 **Sales → PM bridge:** An objection on a sales call was never a rejection — it was information about what the buyer actually cared about. Conflict on a project is the same signal. "We can't hit that date" isn't your team being difficult; it's data about a constraint you didn't see. Lean into it the way you used to lean into "it's too expensive."
 
 ## The Thomas-Kilmann conflict modes
 
@@ -38,7 +40,7 @@ The **Thomas-Kilmann Instrument (TKI)** maps how people handle conflict along tw
 - **Assertiveness** — how hard you push for *your own* concerns.
 - **Cooperativeness** — how much you work for the *other person's* concerns.
 
-Cross those two axes and you get five modes. None is "always right" — the skill is matching the mode to the moment.
+Cross those two axes and you get five modes. None is "always right" — the whole skill is matching the mode to the moment, like choosing the right outfit for the occasion instead of wearing the same one to a funeral and a beach party.
 
 ```mermaid
 quadrantChart
@@ -51,7 +53,7 @@ quadrantChart
     quadrant-4 Accommodating
     Compromising: [0.5, 0.5]
 ```
-*Assertiveness rises up the vertical axis; cooperativeness rises across — compromising sits dead center.*
+*Assertiveness rises up the vertical axis; cooperativeness rises across — compromising sits dead center, the diplomatic meet-in-the-middle.*
 
 Here's when each one actually fits:
 
@@ -65,17 +67,17 @@ Here's when each one actually fits:
 
 **The default-to-best mode is collaborating (problem-solving).** It's the only mode where both people can walk away with *more* than they came in with, because you invent options instead of dividing a fixed pie. PMI and most modern PM thinking treat collaborate/problem-solve as the go-to for anything that matters. The other four are tools you reach for deliberately, not habits you fall into.
 
-The mistake new PMs make is having *one* default mode (usually avoiding or accommodating, because they're afraid to rock the boat) and using it for everything. You came from sales — you already know how to be assertive *and* warm at the same time. That's the collaborating quadrant. You live there.
+The classic rookie mistake is having *one* default mode (usually avoiding or accommodating, because rocking the boat feels scary) and using it for everything. But you came from sales — you already know how to be assertive *and* warm in the same breath. That's the collaborating quadrant. You basically have a lease there.
 
 ## Negotiation fundamentals
 
-Every negotiation — a deadline, a budget, who owns a deliverable — runs on three ideas. Learn these and you'll never walk in blind.
+Every negotiation — a deadline, a budget, who owns a deliverable — runs on three ideas. Learn these and you'll never walk in blind, the way you'd never walk into a big first date with zero homework on who you're meeting.
 
 ### BATNA — your walk-away power
 
 **BATNA = Best Alternative To a Negotiated Agreement.** It's what you'll do if this deal falls through. Your BATNA is your real source of power, because it sets the point below which you should walk away.
 
-Example: You're negotiating with a vendor for a 3-week integration. If you can build it in-house in 4 weeks instead, *that's* your BATNA. Any vendor offer worse than "4 weeks in-house" is a deal you should refuse. Knowing that, you negotiate from calm instead of fear.
+Example: You're negotiating with a vendor for a 3-week integration. If you can build it in-house in 4 weeks instead, *that's* your BATNA. Any vendor offer worse than "4 weeks in-house" is a deal you should refuse. Knowing that, you negotiate from calm instead of fear — and calm is magnetic at a negotiating table.
 
 The two rules of BATNA:
 1. **Know yours before you start.** Never negotiate without an answer to "what do I do if this is a no?"
@@ -98,9 +100,9 @@ flowchart TD
     H -->|Yes| I["Agree and confirm in writing"]
     H -->|No| J["Walk away to your BATNA"]
 ```
-*A negotiation is just checking whether a ZOPA exists, then trading inside it until the offer beats your BATNA.*
+*A negotiation is really just checking whether a ZOPA exists, then trading inside it until the offer beats your BATNA.*
 
-A quick worked example. You want a feature delivered by **June 1**; you'd grudgingly accept **June 15**. The vendor can't go earlier than **June 10** but would happily take **July 1**. Your acceptable range (June 1–15) overlaps theirs (June 10 onward) between **June 10 and June 15** — *that's* the ZOPA. The deal lives there.
+A quick worked example. You want a feature delivered by **June 1**; you'd grudgingly accept **June 15**. The vendor can't go earlier than **June 10** but would happily take **July 1**. Your acceptable range (June 1–15) overlaps theirs (June 10 onward) between **June 10 and June 15** — *that's* the ZOPA. The deal lives there. Everything outside it is wishful thinking.
 
 ### Principled negotiation
 
@@ -111,11 +113,11 @@ This is the framework from *Getting to Yes* (Fisher & Ury). Four moves:
 3. **Invent options for mutual gain.** Brainstorm several ways forward before deciding. Phase the delivery, swap scope, add a contractor — expand the pie before you cut it.
 4. **Insist on objective criteria.** Anchor on something neutral — market rates, the velocity data, the contract — so it's not your will against theirs.
 
-> 🔁 **Sales → PM bridge:** "Focus on interests, not positions" is *discovery*. You never sold to the surface request ("I want the cheaper plan"); you dug for the real driver ("my CFO is watching this quarter's spend"). Same move here — the stakeholder yelling about the date usually cares about something underneath it. Find that and the fight dissolves.
+> 🔁 **Sales → PM bridge:** "Focus on interests, not positions" is just *discovery* wearing a new name tag. You never sold to the surface request ("I want the cheaper plan"); you dug for the real driver ("my CFO is watching this quarter's spend"). Same move here — the stakeholder yelling about the date usually cares about something underneath it. Find that, and the fight quietly dissolves.
 
 ## Influence without authority
 
-Here's the jolt for every new PM: **you're accountable for the outcome but you usually have no direct power over the people delivering it.** The developers report to an engineering manager. The designer reports to a design lead. You can't fire anyone, promote anyone, or order anyone. Welcome to PM — you lead by influence, not authority.
+Here's the jolt that ambushes every new PM: **you're accountable for the outcome but you usually have no direct power over the people delivering it.** The developers report to an engineering manager. The designer reports to a design lead. You can't fire anyone, promote anyone, or order anyone. Welcome to PM — you lead by influence, not authority.
 
 Three reliable levers:
 
@@ -137,19 +139,19 @@ flowchart LR
 ```
 *With no org-chart power, a PM earns yes through credibility, reciprocity, and shared goals.*
 
-Credibility is the slow one and the most important. You build it by being boringly reliable — your status reports are accurate, your meetings start on time, your "I'll find out and get back to you by 3" lands at 2:55. Every kept promise is a deposit. When you eventually need a big favor, you make a withdrawal.
+Credibility is the slow burn — and the most important one. You build it by being almost boringly reliable: your status reports are accurate, your meetings start on time, your "I'll find out and get back to you by 3" lands at 2:55. Every kept promise is a tiny deposit. Then, when you eventually need a big favor, you make a withdrawal from an account that's actually full. (Slow burns always pay off in the last act.)
 
-> 🔁 **Sales → PM bridge:** You never had authority over your buyers either — you couldn't make anyone purchase. You closed by building trust, trading value, and tying the product to *their* goal. Influencing a cross-functional team is the exact same game with a longer relationship and no commission check.
+> 🔁 **Sales → PM bridge:** You never had authority over your buyers either — you couldn't *make* anyone purchase. You closed by building trust, trading value, and tying the product to *their* goal. Influencing a cross-functional team is the exact same game, just with a longer relationship and no commission check at the end.
 
 ## Difficult conversations & feedback: the SBI model
 
-Sooner or later you'll have to tell someone their work missed, their tone is hurting the team, or they dropped a ball. Avoid it and the problem grows; botch it and you make an enemy. The fix is a tiny, sturdy structure: **SBI — Situation, Behavior, Impact.**
+Sooner or later you'll have to tell someone their work missed, their tone is hurting the team, or they dropped a ball. Avoid it and the problem grows; botch it and you make an enemy in the next cubicle. The fix is a tiny, sturdy structure: **SBI — Situation, Behavior, Impact.**
 
 - **Situation** — anchor it in a specific time and place. ("In yesterday's client demo…")
 - **Behavior** — describe the observable action, no judgment, no labels. ("…the API errored twice and we didn't have a fallback ready…")
 - **Impact** — state the concrete effect on you, the team, or the goal. ("…the client lost confidence and asked to push the contract review.")
 
-Then **stop and listen.** SBI opens a conversation; it isn't a verdict.
+Then **stop and listen.** SBI opens a conversation; it isn't a verdict read from the bench.
 
 ```mermaid
 sequenceDiagram
@@ -162,18 +164,18 @@ sequenceDiagram
     TM-->>PM: Their context and perspective
     PM->>TM: Agree on a path forward together
 ```
-*SBI keeps feedback factual and specific, then hands the floor back so it stays a dialogue.*
+*SBI keeps feedback factual and specific, then hands the floor back so it stays a dialogue, not a monologue.*
 
-Why it works: it strips out the two things that make feedback explode — **vague generalizations** ("you're always sloppy") and **mind-reading** ("you clearly didn't care"). You can argue with a label; you can't argue with "the API errored twice in the demo." SBI keeps you on observable facts, so the other person can hear you instead of defending themselves.
+Why it works: it strips out the two things that make feedback explode — **vague generalizations** ("you're always sloppy") and **mind-reading** ("you clearly didn't care"). You can argue with a label; you can't argue with "the API errored twice in the demo." SBI keeps you on observable facts, so the other person can actually *hear* you instead of bracing to defend themselves.
 
 A few rules of the road:
-- **Praise in public, correct in private.** SBI works for positive feedback too — and public praise builds the reciprocity bank.
-- **Feedback fast, while it's fresh.** A clean SBI the same afternoon beats a saved-up grievance a month later.
-- **One issue at a time.** Don't ambush someone with a list. Pick the one that matters.
+- **Praise in public, correct in private.** SBI works for positive feedback too — and public praise quietly fills the reciprocity bank.
+- **Feedback fast, while it's fresh.** A clean SBI the same afternoon beats a saved-up grievance delivered a month later.
+- **One issue at a time.** Don't ambush someone with a whole list. Pick the one that matters most.
 
 ## Emotional intelligence: the through-line
 
-Everything above runs on one underlying skill: **emotional intelligence (EQ)** — the ability to read and manage emotions, yours and other people's. It's the thread connecting conflict modes, negotiation, influence, and feedback. Daniel Goleman's classic breakdown gives you four pillars; these three carry most of the load for a PM:
+Everything above runs on one underlying skill: **emotional intelligence (EQ)** — the ability to read and manage emotions, yours and other people's. It's the thread quietly stitching together conflict modes, negotiation, influence, and feedback. Daniel Goleman's classic breakdown gives you four pillars; these three carry most of the load for a PM:
 
 | Pillar | What it is | PM moment |
 |---|---|---|
@@ -181,11 +183,11 @@ Everything above runs on one underlying skill: **emotional intelligence (EQ)** �
 | **Self-regulation** | Managing your reaction instead of being run by it | Pausing 24 hours before responding to a hostile message |
 | **Empathy** | Sensing what others feel and why | Reading that the "difficult" stakeholder is actually scared about their budget |
 
-(The fourth pillar, **social skill / relationship management**, is what you *do* with the other three — and it's basically your entire sales background.)
+(The fourth pillar, **social skill / relationship management**, is what you *do* with the other three — and it's basically your entire sales background, already on your résumé.)
 
-The highest-leverage habit is the **pause**. When something lands wrong — a snippy Slack message, a meeting that ambushes you — the move is to notice the spike (self-awareness) and *not* react from it (self-regulation). "Let me think on that and come back to you" is a complete, professional sentence. It buys you the few seconds that separate a calm PM from a reactive one.
+The highest-leverage habit is the **pause**. When something lands wrong — a snippy Slack message, a meeting that ambushes you out of nowhere — the move is to notice the spike (self-awareness) and *not* react from it (self-regulation). "Let me think on that and come back to you" is a complete, professional sentence. It buys you the few seconds that separate a calm PM from a reactive one — and in a tense moment, those seconds are the whole ballgame.
 
-Empathy is your unfair advantage. You spent years reading micro-signals on calls — the hesitation that meant "I'm not sold," the tone that meant "I'm not the real decision-maker." Point that radar at your team and stakeholders and you'll spot a brewing problem long before it shows up in a status report.
+Empathy is your unfair advantage. You spent years reading micro-signals on calls — the hesitation that meant "I'm not sold," the tone that meant "I'm not actually the decision-maker." Point that same radar at your team and stakeholders and you'll spot a brewing problem long before it ever surfaces in a status report.
 
 ## ⏸️ Pause & reflect
 
@@ -195,7 +197,7 @@ This is a perfectly safe place to stop, stretch, and come back later — none of
 - When you negotiated something lately, did you know your BATNA going in? How would walking in *knowing* it have changed how you felt?
 - Which EQ pillar is your strongest from sales, and which one will you have to consciously practice as a PM?
 
-Jot a sentence on each. You'll get far more from the rest of this reviewer if you connect it to your own experience as you go.
+Jot a sentence on each. You'll get far more from the rest of this reviewer if you tie it to your own experience as you go.
 
 ## 🧠 Check yourself
 
@@ -240,7 +242,7 @@ Any two of: **reciprocity** (help people before you ask for help), **credibility
 5. **One collaborative option** that could give *both* of us more than a simple split.
 6. **My SBI** (if feedback is involved): Situation / Behavior / Impact, in one clean sentence.
 
-Have the conversation. Afterward, note which conflict mode you used and whether your BATNA prep changed how calm you felt. Do this five times and negotiation prep becomes a reflex — exactly like your pre-call discovery routine used to be.
+Have the conversation. Afterward, note which conflict mode you used and whether your BATNA prep changed how calm you felt. Do this five times and negotiation prep becomes a reflex — exactly like your pre-call discovery routine used to be, back when *that* felt impossible too.
 
 ## 🔑 Key terms
 
@@ -254,6 +256,8 @@ Have the conversation. Afterward, note which conflict mode you used and whether 
 - **Influence without authority** — leading via reciprocity, credibility, and shared goals when you have no formal power.
 - **SBI** — Situation-Behavior-Impact; a structure for clean, factual feedback.
 - **Emotional intelligence (EQ)** — self-awareness, self-regulation, empathy, and social skill; the through-line under every soft skill here.
+
+Take a breath — you just learned the part of PM that most people fake for years. Next, we trade the people skills for a credential to prove them: time to map out the certifications that turn all this into a line on your résumé recruiters can't skim past.
 
 ---
 ⬅️ **Previous:** [Module 17 — Metrics, KPIs & Reporting](17-metrics-and-reporting.md) · 🏠 **[Reviewer Home](../README.md)** · ➡️ **Next:** [Module 19 — Certifications Roadmap](19-certifications-roadmap.md)

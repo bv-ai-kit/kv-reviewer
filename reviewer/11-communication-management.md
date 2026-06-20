@@ -2,6 +2,8 @@
 
 > ⏱️ **Estimated study time:** ~40 min · 🎚️ **Level:** Intermediate · 📋 **Prerequisites:** Module 10 · Part of the **Sales -> Project Management Reviewer**.
 
+*This is the module where you find out the job you've secretly been doing for years finally has a name.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Explain why communication is most of the PM job — and why your sales background gives you a head start.
@@ -13,25 +15,25 @@
 
 ## 👋 From your mentor
 
-Here's a secret that took me years to believe: the best PMs I know aren't the best at Gantt charts. They're the best at getting the right information to the right person at the right moment so nobody is surprised. Studies and PMI both put it at roughly **80–90% of your day spent communicating** — talking, writing, listening, clarifying.
+Okay, real talk — here's the secret that took me embarrassingly long to believe: the best PMs I know are not the maestros of the Gantt chart. They're the ones who get the right information to the right person at the right moment so that nobody — *nobody* — gets blindsided. PMI and just about every study agree: you'll spend roughly **80–90% of your day communicating** — talking, writing, listening, clarifying, re-clarifying.
 
-And you? You've already spent years doing the hardest version of this. Every discovery call where you read between the lines, every proposal you tailored to a skeptical buyer, every "let me make sure I understand what you need" — that *is* project communication. This module just gives the muscle you already have a project manager's vocabulary. Let's go.
+And you? You've already been doing the hardest version of this for years. Every discovery call where you read between the lines, every proposal you tailored to a buyer who showed up with their arms crossed, every "let me make sure I understand what you actually need" — that *is* project communication. This module isn't teaching you a new skill. It's handing the muscle you already have a project manager's vocabulary. Come on.
 
-## 🧭 Why communication is the job (and your superpower)
+## 🧭 Why communication is the job (and your secret edge)
 
-In sales, communication *was* the product. You didn't ship code or pour concrete — you moved information and trust between people until a deal closed. Project management is the same shape, just with more stakeholders and a longer timeline.
+In sales, communication *was* the product. You didn't ship code or pour concrete — you moved information and trust between people until a deal closed. Project management is the exact same shape, just with more people in the room and a longer story arc.
 
-When a project fails, the post-mortem almost never says "the math was wrong." It says things like: *"Engineering didn't know the deadline moved."* *"The sponsor thought we were on track."* *"Nobody told the client the scope changed."* Those are all communication failures, not technical ones.
+Here's the part that should make you sit up straighter: when a project fails, the post-mortem almost never reads like a math error. It reads like a breakup. *"Engineering didn't know the deadline moved."* *"The sponsor thought we were on track."* *"Nobody told the client the scope changed."* Every one of those is a communication failure wearing a technical costume.
 
-So when you feel anxious about not having a formal PM background — remember that the skill that breaks or saves most projects is the one you've been sharpening for years.
+So the next time that little voice whispers *you don't have a real PM background* — remind it that the one skill that makes or breaks most projects is the one you've been sharpening since your first cold call.
 
-> 🔁 **Sales → PM bridge:** A blown deal because "I thought you said next quarter" is the exact same failure as a blown sprint because "I thought the API was your team's job." You already know that ambiguity costs money. PM just makes managing that ambiguity an explicit, planned activity.
+> 🔁 **Sales → PM bridge:** A dead deal because "I thought you said next quarter" is the *exact same failure* as a blown sprint because "I thought the API was your team's job." You already know in your bones that ambiguity costs money. PM just promotes managing that ambiguity from a gut instinct to a planned, on-the-calendar activity.
 
 ## 📋 The communications management plan
 
-The **communications management plan** is a component of the overall project management plan. It is your answer, written down in advance, to a deceptively simple question: *who needs what information, in what format, how often, and through which channel?*
+The **communications management plan** is a component of the overall project management plan. It's your written-down-in-advance answer to a question that sounds simple and absolutely is not: *who needs what information, in what format, how often, and through which channel?*
 
-Think of it as the **account plan** you'd build for a big enterprise deal — except instead of mapping the buying committee, you're mapping everyone who touches the project. You build it on top of your **stakeholder register** (the list of people with an interest in the project; covered more in stakeholder content), because you can't plan communication until you know who you're communicating with.
+Think of it as the **account plan** you'd build for a big enterprise deal — except instead of mapping the buying committee, you're mapping every single person who touches the project. You build it on top of your **stakeholder register** (the list of people with an interest in the project; covered more in stakeholder content), because you can't plan how to talk to people until you know who they are.
 
 A practical plan answers these columns:
 
@@ -43,7 +45,7 @@ A practical plan answers these columns:
 | Functional managers | Resource needs, schedule shifts | Short note | As needed | Chat / email | PM |
 | Regulators / legal | Compliance evidence | Formal report | Per regulation | Written, signed | PMO |
 
-Notice how the **format and frequency change with the audience**. Your sponsor wants one page once a week — drown them in detail and they'll stop reading. Your dev team wants the opposite: granular, frequent, and conversational. Matching the message to the receiver is the whole game.
+Notice how the **format and frequency shift with the audience** — like knowing your sponsor is a "give me the headline" texter and your dev team is a "send me the whole group chat" texter. Drown your sponsor in detail and they'll quietly stop reading. Your dev team wants the opposite: granular, frequent, conversational. Matching the message to the receiver is the whole game.
 
 A good plan also captures:
 
@@ -78,13 +80,13 @@ flowchart TD
 
 ## 🔢 The communication channels formula
 
-Here's a formula PMI loves and the PMP exam loves more. The number of potential **communication channels** in a team is:
+Here's a formula PMI loves and the PMP exam loves even more. The number of potential **communication channels** in a team is:
 
 > **n(n − 1) / 2**, where **n** is the number of people.
 
-A "channel" is just a possible line of communication between two people. The point of the formula isn't the arithmetic — it's the shape of the curve. Channels grow **quadratically**, not linearly. Add a few people and coordination cost explodes.
+A "channel" is just a possible line of communication between two people. The point of the formula isn't the arithmetic — it's the *shape of the curve*, and the curve is a little bit terrifying. Channels grow **quadratically**, not linearly. Add a few people and coordination cost doesn't tiptoe up. It detonates.
 
-Worked example: your team grows over time.
+Worked example: picture your team growing over time, the way a tiny dinner party quietly becomes a wedding.
 
 | People (n) | Channels n(n−1)/2 | What it feels like |
 |---|---|---|
@@ -96,9 +98,9 @@ Worked example: your team grows over time.
 | 15 | 105 | Chaos without structure |
 | 20 | 190 | Subteams or it collapses |
 
-Watch the jump: going from **5 people to 6** adds one person but **five new channels** (10 → 15). Going from 10 to 20 doesn't double the channels — it more than *quadruples* them (45 → 190).
+Watch the jump that always surprises people: going from **5 to 6** adds one human but **five new channels** (10 → 15). Going from 10 to 20 doesn't double the channels — it more than *quadruples* them (45 → 190). Inviting "just one more person" is never just one more person.
 
-This is exactly why growing projects need a **communications plan, defined roles, and a single source of truth**. The formula is the mathematical proof that "we'll just keep everyone in the loop informally" stops working fast.
+This is exactly why growing projects need a **communications plan, defined roles, and a single source of truth**. The formula is the mathematical receipt proving that "eh, we'll just keep everyone in the loop informally" stops working alarmingly fast.
 
 ```mermaid
 flowchart LR
@@ -114,7 +116,7 @@ flowchart LR
 
 ## 📡 Communication methods, registers & channels
 
-PMI groups communication methods into three buckets. Knowing which to reach for is half of communicating well.
+PMI sorts communication methods into three buckets. Knowing which one to reach for is half of communicating well.
 
 | Method | What it is | Best for | Sales analogy |
 |---|---|---|---|
@@ -122,12 +124,12 @@ PMI groups communication methods into three buckets. Knowing which to reach for 
 | **Push** | Sent *to* specific people, no guarantee they read or act | Email, memos, status reports, voicemail | A follow-up email after the demo |
 | **Pull** | Recipients access it themselves on demand | Wikis, shared dashboards, intranet, knowledge base | A self-serve pricing page or portal |
 
-The trap beginners fall into: treating **push as if it were interactive**. Sending an email does *not* mean the message landed. **Interactive** is the only method that confirms understanding in the moment — so use it for anything sensitive, ambiguous, or contested.
+The trap beginners fall straight into: treating **push as if it were interactive**. Firing off an email is the communication equivalent of texting "we need to talk" and assuming the conversation is now handled. It is not. **Interactive** is the only method that confirms understanding in the moment — so save it for anything sensitive, ambiguous, or contested.
 
 Two more dimensions matter:
 
-- **Formal vs. informal.** Formal = reports, presentations, contracts, the signed change request. Informal = the hallway chat, the quick Slack ping, the coffee catch-up. *Both* are essential. Formal creates the record; informal builds the relationships that make the formal stuff go smoothly. (Sound familiar? It's golf-course relationship-building plus the signed contract.)
-- **Verbal vs. written.** Verbal is fast and rich with tone; written is precise and durable. Rule of thumb: **discuss verbally, decide in writing.** A decision that isn't written down didn't happen.
+- **Formal vs. informal.** Formal = reports, presentations, contracts, the signed change request. Informal = the hallway chat, the quick Slack ping, the coffee catch-up. *Both* are essential. Formal creates the record; informal builds the relationships that make the formal stuff go down easy. (Sound familiar? It's the relationship-building dinner *plus* the signed contract — and you've always known you need both.)
+- **Verbal vs. written.** Verbal is fast and rich with tone; written is precise and durable. The rule that will save you a hundred times: **discuss verbally, decide in writing.** A decision that isn't written down didn't happen — it's a "we sort of agreed at the party" that nobody remembers the same way.
 
 | | Verbal | Written |
 |---|---|---|
@@ -136,21 +138,21 @@ Two more dimensions matter:
 
 ## 🗣️ Running meetings that don't waste time
 
-Meetings are your most expensive communication method — multiply everyone's hourly cost by the duration and you'll never call a pointless one again. Make every meeting earn its seat.
+Meetings are your single most expensive communication method. Multiply everyone's hourly cost by the duration sometime — you'll never call a pointless one again without flinching. Make every meeting earn its seat at the table.
 
-A meeting that doesn't waste time has five parts:
+A meeting that doesn't waste your life has five parts:
 
-1. **A purpose & agenda sent in advance.** No agenda, no meeting. The agenda tells people what to prepare and lets them decline if they're not needed.
-2. **The right people only.** Every extra attendee is another channel (remember the formula). Invite deciders and contributors; send notes to the rest.
-3. **A timebox.** Start on time, end on time. Assign rough minutes per agenda item and protect them.
-4. **Decisions captured.** What did we *decide*? Write it down live so there's no "wait, what did we agree?" later.
-5. **Action items with an owner and a due date.** "Someone should look into that" is not an action item. *"Maria sends the revised estimate by Thursday"* is.
+1. **A purpose & agenda sent in advance.** No agenda, no meeting. The agenda tells people what to prepare — and quietly lets the ones who aren't needed off the hook.
+2. **The right people only.** Every extra attendee is another channel (yes, *that* formula, haunting you already). Invite the deciders and the contributors; send everyone else the notes.
+3. **A timebox.** Start on time, end on time. Assign rough minutes per agenda item and guard them like a reservation you waited two months for.
+4. **Decisions captured.** What did we actually *decide*? Write it down live so there's no "wait — what did we agree to?" three days later.
+5. **Action items with an owner and a due date.** "Someone should look into that" is a wish, not an action item. *"Maria sends the revised estimate by Thursday"* is the real thing.
 
-After the meeting, send **minutes** that lead with **Decisions** and **Action Items** (owner + date), then supporting detail. Most readers only need the top.
+After the meeting, send **minutes** that lead with **Decisions** and **Action Items** (owner + date), then the supporting detail. Most people only ever read the top — write for them.
 
 ### Effective status reporting
 
-Status reports are **push** communication, so make them skimmable. A reliable structure:
+Status reports are **push** communication, so make them skimmable — assume your reader is reading on their phone, half-distracted, between two other things. A reliable structure:
 
 - **RAG status** — Red / Amber / Green, the universal at-a-glance health signal.
 - **Progress** — what got done since last report (against plan).
@@ -158,7 +160,7 @@ Status reports are **push** communication, so make them skimmable. A reliable st
 - **Risks & issues** — top items, with owners.
 - **Asks** — decisions or help you need from the reader.
 
-Tailor depth to the audience: the sponsor gets the one-pager, the team gets the detail. And never let a report be the *first* time someone hears bad news — escalate red items in real time, then confirm in the report. **No surprises** is the reputation you want.
+Tailor depth to the audience: the sponsor gets the one-pager, the team gets the detail. And here's the non-negotiable — never let a report be the *first* time someone hears bad news. That's the plot twist nobody forgives. Escalate red items in real time, then confirm them in the report. **No surprises** is the reputation you want trailing you down the hallway.
 
 ```mermaid
 sequenceDiagram
@@ -178,12 +180,12 @@ sequenceDiagram
 
 ## 👂 The sender–receiver model, noise & barriers
 
-Communication theory gives us a simple, powerful model. The **sender** has an idea, **encodes** it (into words, a chart, a tone), transmits it through a **medium**, and the **receiver** **decodes** it back into meaning — then sends **feedback** to confirm. The loop only closes when feedback tells the sender the message landed as intended.
+Communication theory hands us a simple, powerful little map. The **sender** has an idea, **encodes** it (into words, a chart, a tone), transmits it through a **medium**, and the **receiver** **decodes** it back into meaning — then sends **feedback** to confirm. The loop only closes when feedback tells the sender the message landed the way they meant it. No feedback, no closure — just you, refreshing your sent folder, wondering.
 
-What wrecks the loop is **noise** — anything that distorts the message between sender and receiver:
+What wrecks the loop is **noise** — anything that distorts the message in transit between sender and receiver:
 
-- **Physical noise:** a bad connection, a noisy room, a cluttered email.
-- **Semantic noise:** jargon, acronyms, ambiguous words ("soon," "done," "MVP").
+- **Physical noise:** a bad connection, a loud room, a cluttered email.
+- **Semantic noise:** jargon, acronyms, slippery words ("soon," "done," "MVP").
 - **Psychological noise:** stress, mistrust, defensiveness, distraction.
 - **Cultural / language barriers:** time zones, idioms, different norms.
 
@@ -198,31 +200,31 @@ flowchart LR
 
 *The sender–receiver model: meaning only transfers when feedback confirms it survived the noise.*
 
-The PM's job is to **reduce noise and force the feedback loop**. Confirm understanding ("so to play it back, you need X by Friday — right?"), avoid unexplained jargon, pick a quiet enough channel, and never assume "sent" equals "understood."
+The PM's whole job here is to **reduce the noise and force the feedback loop**. Play it back ("so to make sure I've got it — you need X by Friday, right?"), drop the unexplained jargon, pick a channel quiet enough to hear in, and never, ever assume that "sent" means "understood."
 
 ### Active listening
 
-Active listening is feedback you give *to* the sender so they know they've been heard. It's the single highest-leverage communication skill, and it's the same thing that made you good at discovery calls.
+Active listening is the feedback you give *to* the sender so they know they've actually been heard. It's the single highest-leverage communication skill there is — and it's the exact thing that made you dangerous on a discovery call.
 
-- **Pay attention** — put the phone down, face the speaker.
+- **Pay attention** — phone face-down, body turned toward the speaker.
 - **Show you're listening** — nod, brief verbal cues, eye contact.
-- **Paraphrase / play back** — "What I'm hearing is…" — this *closes the feedback loop*.
-- **Defer judgment** — don't interrupt to argue; let them finish.
-- **Ask clarifying questions** — surface the real need behind the stated one.
+- **Paraphrase / play back** — "What I'm hearing is…" — this is the move that *closes the feedback loop*.
+- **Defer judgment** — don't interrupt to argue; let them finish the thought.
+- **Ask clarifying questions** — surface the real need hiding behind the stated one.
 
 ### Giving and receiving feedback
 
-Good feedback is specific, timely, and about behavior — not character. A clean structure: **Situation → Behavior → Impact** ("In yesterday's client call *(situation)*, when the budget question came up you deferred it *(behavior)*, and the client left unsure if we can deliver *(impact)*"). When *receiving* feedback, do the same thing you did in tough sales conversations: listen fully, thank them, ask questions, and resist the urge to defend.
+Good feedback is specific, timely, and about behavior — never about character. A clean structure: **Situation → Behavior → Impact** ("In yesterday's client call *(situation)*, when the budget question came up you deferred it *(behavior)*, and the client left unsure whether we can deliver *(impact)*"). And when you're on the *receiving* end, do exactly what you did in the tough sales conversations: listen all the way through, thank them, ask questions, and sit on the urge to defend yourself.
 
-> 🔁 **Sales → PM bridge:** Tailoring your pitch to each buyer persona — speaking ROI to the CFO, ease-of-use to the end user, risk-reduction to the IT lead — *is* stakeholder-tailored communication planning. The communications management plan is just that instinct written down: same project, different message, different channel, different cadence per audience. You've been building comms plans in your head for years.
+> 🔁 **Sales → PM bridge:** Tailoring your pitch to each buyer — ROI for the CFO, ease-of-use for the end user, risk-reduction for the IT lead — *is* stakeholder-tailored communication planning. The communications management plan is simply that instinct written down: same project, different message, different channel, different cadence per audience. You've been quietly building comms plans in your head for years; we're just giving them a name and a column header.
 
 ## ⏸️ Pause & reflect
 
-This is a great place to take a breath and come back later if you need to — the next sections will be waiting, and nothing here expires.
+This is a lovely place to set the book down and come back later if you need to — the next sections aren't going anywhere, and nothing here expires.
 
-- Think of the worst miscommunication from your sales career. Which **noise** type caused it — physical, semantic, or psychological — and what feedback loop would have caught it?
-- For a project (or even a household plan) you care about right now, who are your top **3 stakeholders**, and does each one need a different format, frequency, or channel?
-- Recall a meeting that wasted your time. Which of the **five meeting ingredients** was missing?
+- Think of the worst miscommunication of your sales career. Which **noise** type caused it — physical, semantic, or psychological — and what feedback loop would have caught it before it cost you?
+- For a project (or even a household plan) you care about right now, who are your top **3 stakeholders**, and does each one really need a different format, frequency, or channel?
+- Recall a meeting that stole an hour you'll never get back. Which of the **five meeting ingredients** was missing?
 
 ## 🧠 Check yourself
 
@@ -287,9 +289,9 @@ Pick any real effort — a side project, a move, organizing an event, or a work 
    |---|---|---|---|---|---|
 
 3. Circle the rows where you wrote "**email**" or "**push**" for something **sensitive or ambiguous** — and rewrite at least one to be **interactive** instead.
-4. Count your stakeholders, add yourself, and compute the **channels** with `n(n−1)/2`. Were you underestimating how much coordination this takes?
+4. Count your stakeholders, add yourself, and compute the **channels** with `n(n−1)/2`. Be honest — were you underestimating how much coordination this quietly takes?
 
-Keep the table — it's the seed of a real artifact you'll produce on day one of a PM role.
+Keep the table — it's the seed of a real artifact you'll be producing on day one of a PM role.
 
 ## 🔑 Key terms
 

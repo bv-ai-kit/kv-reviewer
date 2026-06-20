@@ -2,6 +2,8 @@
 
 > **Estimated study time:** ~30 min · **Level:** Beginner · **Prerequisites:** Module 01 · Part of the **Sales -> Project Management Reviewer**.
 
+*The slow-burn romance where you slowly realize the love interest — project management — has been into you this whole time.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Explain, with concrete examples, why your sales experience is a genuine head start in project management.
@@ -13,27 +15,29 @@
 
 ## 👋 From your mentor
 
-Here's the thing nobody told you when you started worrying about this switch: most of the hard part of project management isn't the templates — it's the *people*, the *pressure*, and the *follow-through*. You've been living in all three for years.
+Okay, real talk: you know that 2 a.m. feeling where you stare at the ceiling and whisper *"who am I to do this?"* Let's deal with that right up front, over coffee, before it gets any bigger.
 
-A surprising number of strong PMs come from sales, customer success, and account management precisely because they already know how to hold a relationship steady while a deal (or a project) wobbles. You're not starting from zero. You're starting from "I already do 70% of this; I just call it different things." This module is about naming that 70%, being honest about the other 30%, and walking into your first PM conversation like you belong there. Because you do.
+Here's the thing nobody told you when you started fretting about this switch. Most of the hard part of project management isn't the templates — it's the *people*, the *pressure*, and the *follow-through*. And you, my friend, have been living in all three for years. That's not nothing. That's the whole plot.
+
+A surprising number of strong PMs come from sales, customer success, and account management precisely because they already know how to hold a relationship steady while a deal (or a project) wobbles. You're not starting from zero. You're starting from "I already do 70% of this; I just call it different things." This module is about naming that 70%, being honest about the other 30%, and walking into your first PM conversation like you own the room. Because — plot twist that isn't really a twist — you kind of do.
 
 ## Why sales is genuinely strong preparation for PM
 
-Let's be specific, because vague encouragement won't calm career-change nerves — evidence will. Four parts of the job that sink new PMs are four parts you've already been doing under quota pressure.
+Let's get specific, because vague encouragement won't calm career-change nerves — evidence will. Four parts of the job that quietly sink new PMs are four parts you've already been doing with a quota breathing down your neck.
 
-**Relationships are the work, not a distraction from it.** New PMs often treat stakeholders as obstacles between them and "the real work." You already know the relationship *is* the real work. A skeptical engineering lead is just a tough buyer who hasn't been given a reason to trust you yet.
+**Relationships are the work, not a distraction from it.** New PMs often treat stakeholders as obstacles standing between them and "the real work." You already know the relationship *is* the real work. That skeptical engineering lead? He's just a tough buyer who hasn't been given a reason to trust you yet. You've met him before. You've won him before.
 
-**You communicate to move people, not just to inform.** Sales taught you to read a room, adjust your message to the audience, and follow up until you get a decision. PM status reports and steering meetings are exactly this — clarity that drives action, not documents that gather dust.
+**You communicate to move people, not just to inform.** Sales taught you to read a room, adjust your message to the audience, and follow up until you get a decision. PM status reports and steering meetings are exactly this — clarity that drives action, not documents that go to a folder to die.
 
-**You're resilient by training.** You've heard "no," lost deals you were sure of, and shown up the next morning anyway. Projects slip, scope changes, and sponsors go quiet. The person who can absorb a setback without spiraling is worth a lot in a delivery room.
+**You're resilient by training.** You've heard "no," lost deals you were *sure* of, and shown up the next morning with your lipstick on anyway. Projects slip, scope changes, sponsors go quiet. The person who can absorb a setback without spiraling is worth her weight in gold in a delivery room.
 
-**You drive outcomes under pressure.** A quarter-end with a gap to close is not so different from a release date with open risks. You already know how to stay calm, prioritize ruthlessly, and ask "what's the one thing that moves this forward today?"
+**You drive outcomes under pressure.** A quarter-end with a gap to close is not so different from a release date with open risks. You already know how to stay calm, prioritize ruthlessly, and ask the only question that matters that day: "what's the one thing that moves this forward?"
 
-> 🔁 **Sales → PM bridge:** Every quarter you took a number you didn't control directly and made it happen through other people — buyers, sales engineers, legal, finance. That *is* project management. A PM takes an outcome they can't personally produce and orchestrates the people who can. You've been doing the core motion all along; only the deliverable changes.
+> 🔁 **Sales → PM bridge:** Every quarter you took a number you didn't control directly and made it happen *through other people* — buyers, sales engineers, legal, finance. That *is* project management. A PM takes an outcome they can't personally produce and orchestrates the people who can. You've been doing the core motion all along; only the deliverable changes.
 
 ## The skills-mapping table
 
-This is the heart of the module. Read it slowly. For each row, picture an actual moment from your own job — the table becomes real when you do.
+This is the heart of the module — the part where the two characters finally see each other clearly. Read it slowly. For each row, picture an actual moment from your own job. The table only comes alive when you do that.
 
 | What you do in sales | The PM equivalent | What carries over |
 |---|---|---|
@@ -47,11 +51,11 @@ This is the heart of the module. Read it slowly. For each row, picture an actual
 | **Account management** (growing and retaining accounts) | **Stakeholder engagement** | Keeping busy, powerful people informed and bought-in over a long relationship, not a single transaction |
 | **Negotiation** (price, terms, concessions) | **Procurement & conflict resolution** | Finding the trade that both sides can live with; managing vendors and contracts; defusing tension |
 
-A few of these deserve a second look:
+A few of these deserve a second, lingering look:
 
-- **Discovery → requirements** is your single biggest advantage. The number-one cause of failed projects is building the wrong thing because nobody dug past the surface ask. You dig past the surface ask *for a living*.
-- **Forecasting → estimation** transfers more than people expect. You already know forecasts are ranges, not promises, and that "sandbagging" and "happy ears" both burn you. Estimation has the same psychology.
-- **Closing → sign-off** matters because new PMs are weirdly shy about asking for a clear "yes." You are not shy about asking for the close. Use that.
+- **Discovery → requirements** is your single biggest advantage — the secret weapon you've been carrying without knowing it. The number-one cause of failed projects is building the wrong thing because nobody dug past the surface ask. You dig past the surface ask *for a living*.
+- **Forecasting → estimation** transfers more than people expect. You already know forecasts are ranges, not promises, and that "sandbagging" and "happy ears" both come back to bite you. Estimation runs on the exact same psychology.
+- **Closing → sign-off** matters because new PMs are weirdly shy about asking for a clear "yes." You are not shy about asking for the close. Use that shamelessly.
 
 ```mermaid
 flowchart LR
@@ -87,27 +91,27 @@ flowchart LR
     S8 --> P8
     S9 --> P9
 ```
-*Your existing toolkit on the left maps almost one-to-one onto the PM toolkit on the right.*
+*Your existing toolkit on the left maps almost one-to-one onto the PM toolkit on the right — like two people who finish each other's sentences.*
 
 ## The mindset shifts to make
 
-The skills carry over. The *posture* needs adjusting. These are the four shifts that separate "salesperson doing PM tasks" from "project manager." None of them mean abandoning who you are — they mean redirecting the same energy.
+The skills carry over beautifully. The *posture* needs a little adjusting. These are the four shifts that separate "salesperson doing PM tasks" from "project manager." None of them asks you to abandon who you are — they just point the same energy somewhere new.
 
 ### 1. From individual quota to team outcomes
 
-In sales, the number on your back was yours. You could be a lone wolf and still be a hero. In PM, you succeed only when the *team* delivers — and often the most valuable thing you do is make someone else look good. Your scoreboard changes from "what did I close" to "did the team ship the right thing." That can feel like a loss of control at first. It's actually a promotion in scope.
+In sales, the number on your back was *yours*. You could be a lone wolf and still be the hero of the story. In PM, you succeed only when the *team* delivers — and often the most valuable thing you do all week is make someone else look good. Your scoreboard changes from "what did I close" to "did the team ship the right thing." That can feel like a loss of control at first. It's actually a promotion in scope.
 
 ### 2. From persuading to facilitating
 
-Selling pushes toward a predetermined outcome: the purchase. Facilitating pulls the best answer *out of the group*, even when it's not the answer you walked in with. A PM in a planning meeting isn't there to win the room; they're there to help the room decide and commit. Same charisma, opposite vector — instead of "let me convince you," it's "let me help us figure this out together."
+Selling pushes toward a predetermined ending: the purchase. Facilitating pulls the best answer *out of the group*, even when it's not the answer you walked in rooting for. A PM in a planning meeting isn't there to win the room; she's there to help the room decide and commit. Same charisma, opposite vector — instead of "let me convince you," it's "let me help us figure this out together."
 
 ### 3. From short deal cycles to longer delivery cycles
 
-A sales cycle might be days or weeks; the dopamine of the close is frequent. Projects can run months. The reward is delayed and diffuse. You'll need to manufacture your own sense of progress — celebrate milestones, demos, and small wins — because the big "close" is far away and shared. Build the habit of marking progress, or the long middle will feel like a slog.
+A sales cycle might be days or weeks; the little thrill of the close comes often. Projects can run months. The reward is delayed and shared out across a whole team. You'll need to manufacture your own sense of progress — celebrate milestones, demos, and small wins — because the big "close" is far off and belongs to everyone. Think of it like a long trip you're planning instead of a quick weekend away: you mark the legs, or the long middle starts to feel like a slog.
 
 ### 4. From "always be closing" to "always be enabling"
 
-ABC was about converting. Your new motto is closer to **always be enabling**: removing blockers, clarifying decisions, getting the team what they need so *they* can produce. Your highest-value moments are often invisible — the dependency you unstuck, the ambiguity you killed before it cost a week.
+ABC was about converting. Your new motto is closer to **always be enabling**: removing blockers, clarifying decisions, getting the team what they need so *they* can produce. Your highest-value moments are often invisible — the dependency you quietly unstuck, the ambiguity you killed before it cost a week. Nobody throws a parade for those. Do them anyway; they're how the whole thing lands.
 
 ```mermaid
 mindmap
@@ -133,11 +137,11 @@ mindmap
       Listening past the surface
       Uncovering real needs
 ```
-*The strengths sales already built in you, grouped the way a PM would use them.*
+*The strengths sales already built into you, grouped the way a PM would actually use them.*
 
 ## The honest gaps to close
 
-Encouragement without honesty is just flattery, and you'd see through it anyway. Here's the real 30% you need to build. The good news: every one of these is *learnable*, and most are covered in later modules.
+Encouragement without honesty is just flattery, and you'd see straight through it anyway. So here's the real 30% you need to build. The good news — and it's genuinely good news — is that every one of these is *learnable*, and most get their own module later.
 
 | Gap | What it actually means | Where it's covered |
 |---|---|---|
@@ -146,26 +150,26 @@ Encouragement without honesty is just flattery, and you'd see through it anyway.
 | **Tooling** | Hands-on with Jira/Asana/MS Project the way you knew Salesforce cold | Tools module |
 | **Disciplined documentation** | Decision logs, status reports, change records, RAID logs — writing things down so they survive memory and turnover | Communications & documentation modules |
 
-Two honest notes:
+Two honest notes, friend to friend:
 
-- **Documentation is the one that bites ex-salespeople hardest.** Sales rewards verbal agility and improvisation; you could carry a lot in your head. PM rewards the written record. When a sponsor "remembers" the scope differently three months in, the documented decision is what saves you. Treat documentation as your insurance policy, not paperwork.
+- **Documentation is the one that bites ex-salespeople hardest.** Sales rewards verbal agility and improvisation; you could carry a lot in your head and charm your way through the rest. PM rewards the written record. When a sponsor "remembers" the scope differently three months in — and someone always does — the documented decision is what saves you. Treat documentation as your insurance policy, not paperwork. (Think of it as the receipts you keep for the friend who *swears* she paid you back.)
 - **You don't need to master all four before applying.** You need enough fluency to be conversant and a credible plan to grow. A PMI **CAPM** certification or a **PSM I** (Scrum.org) can structure your learning and signal seriousness on a résumé while you build the hands-on reps.
 
-> 🔁 **Sales → PM bridge:** You already trust your CRM as the single source of truth — you'd never run a pipeline review off memory. PM documentation is the same instinct applied to projects. The RAID log and decision record are just your "clean pipeline data" for delivery. You're not learning a new discipline; you're pointing an old one at a new object.
+> 🔁 **Sales → PM bridge:** You already trust your CRM as the single source of truth — you'd never run a pipeline review off memory and a hopeful smile. PM documentation is that same instinct, just pointed at projects. The RAID log and decision record are simply your "clean pipeline data" for delivery. You're not learning a new discipline; you're aiming an old one at a new target.
 
 ## ⏸️ Pause & reflect
 
-This is a safe place to stop. Close the file, get a coffee, come back later — your progress holds. Before you do, sit with one or two of these:
+This is a safe place to set the book down. Close the file, refill the coffee, come back tomorrow — your progress holds, nobody's timing you. But before you go, sit with one or two of these:
 
-- Which row in the skills-mapping table felt most *obviously* true for you? Write down the specific memory it brought up — that's your strongest interview story.
-- Which of the four mindset shifts feels hardest to imagine making? Naming the discomfort now makes it smaller later.
-- If a friend in sales asked "could I do PM?", what would you tell them — and does that answer apply to you?
+- Which row in the skills-mapping table felt most *obviously, undeniably* true for you? Write down the specific memory it stirred up — that's your strongest interview story, hiding in plain sight.
+- Which of the four mindset shifts feels hardest to picture yourself making? Naming the discomfort now makes it smaller later. It always does.
+- If a friend in sales asked you, "could *I* do PM?", what would you tell her — and be honest, does that answer apply to you too?
 
-No rush. The rest of the module will be here when you're ready.
+No rush at all. The rest of the module will be right here when you're ready for it.
 
 ## The sales → PM vocabulary translator
 
-Half of impostor syndrome is just not knowing the words yet. You're not less capable; you're translating in real time. Here's the phrasebook so you can speak PM in the room and on your résumé.
+Half of impostor syndrome is just not knowing the words yet. You're not less capable than the people around the table; you're translating in real time, like ordering confidently in a country where you've only had three lessons. Here's the phrasebook so you can speak fluent PM in the room and on your résumé.
 
 | You say (sales) | They say (PM) | Quick gloss |
 |---|---|---|
@@ -183,18 +187,18 @@ Half of impostor syndrome is just not knowing the words yet. You're not less cap
 | Pushback | Constraint / dependency | Something limiting your options |
 | Renewal / upsell | Benefits realization | Making sure the value actually lands after delivery |
 
-Keep this handy for your first few weeks. Within a month the translation becomes automatic and you'll stop noticing you ever needed it.
+Keep this handy for your first few weeks. Within a month the translation becomes automatic and you'll forget you ever needed the cheat sheet.
 
 ## A word about impostor syndrome
 
-Let's name it plainly, because pretending you don't feel it doesn't help. You're going to sit in a meeting where someone casually says "let's check the critical path against the baseline" and your stomach will drop. That feeling is *not* evidence you don't belong. It's evidence you're learning new vocabulary for things you already understand. A critical path is just "the sequence of things that, if any slips, the whole deal slips" — you've tracked that on big sales pursuits your whole career.
+Let's name it plainly, because pretending you don't feel it has never once helped anyone. You're going to sit in a meeting where someone casually says "let's check the critical path against the baseline," and your stomach will drop like the floor just disappeared. Here's the secret: that feeling is *not* evidence you don't belong. It's evidence you're learning new vocabulary for things you already understand cold. A critical path is just "the sequence of things where, if any one slips, the whole deal slips" — and you've been tracking *that* on big pursuits your entire career. New name, old skill.
 
-Here's how to talk about the transition with confidence, whether to a hiring manager or to yourself:
+Here's how to talk about the transition with confidence — to a hiring manager, sure, but mostly to that voice in your own head:
 
-- **Don't apologize for your background — lead with it.** "I come from sales" is not a confession. It's "I bring relationship management, stakeholder communication, and outcome ownership that most PMs have to learn the hard way."
-- **Use bridge language.** Tie every PM requirement back to a sales reality: "Requirements gathering is discovery — it's been my core skill for years." This shows you understand the concept *and* that you can do it now.
-- **Be honest about gaps, and pair each with a plan.** "I'm building my scheduling and WBS skills — I'm working toward CAPM and have been hands-on in [tool]." Honesty plus a plan reads as maturity, not weakness.
-- **Remember the failure data.** Projects fail far more often on people, communication, and unclear requirements than on Gantt-chart mechanics. You are strong exactly where projects are weakest.
+- **Don't apologize for your background — lead with it.** "I come from sales" is not a confession whispered at the end. It's "I bring relationship management, stakeholder communication, and outcome ownership that most PMs have to learn the hard way."
+- **Use bridge language.** Tie every PM requirement back to a sales reality: "Requirements gathering is discovery — it's been my core skill for years." This shows you understand the concept *and* that you can already do it.
+- **Be honest about gaps, and pair each one with a plan.** "I'm building my scheduling and WBS skills — I'm working toward CAPM and have been hands-on in [tool]." Honesty plus a plan reads as maturity, not weakness. Every time.
+- **Remember the failure data.** Projects fail far more often on people, communication, and unclear requirements than on Gantt-chart mechanics. You are strongest exactly where projects are weakest. Sit with that for a second — it's your whole case in one sentence.
 
 ```mermaid
 quadrantChart
@@ -215,7 +219,7 @@ quadrantChart
     "Disciplined documentation": [0.3, 0.7]
     "Estimation": [0.5, 0.72]
 ```
-*Top-left is where to invest now; the right side is the foundation you already stand on.*
+*Top-left is where to invest your energy now; the right side is the solid ground you already stand on.*
 
 ## 🧠 Check yourself
 
@@ -251,15 +255,15 @@ The leading cause of failed projects is building the wrong thing because nobody 
 
 ## 🧰 Try it
 
-Build your personal **Sales → PM Bridge Sheet**. It doubles as interview prep.
+Build your personal **Sales → PM Bridge Sheet**. Bonus: it doubles as interview prep, so this is two birds, one cozy afternoon.
 
 1. Open a blank doc or spreadsheet. Make three columns: **Sales experience**, **PM equivalent**, **My specific story**.
-2. Pick your five strongest sales moments from the last two years — a hard close, a deal you saved, a discovery call that uncovered something nobody expected, a tense negotiation, a tough account you retained.
+2. Pick your five strongest sales moments from the last two years — a hard close, a deal you rescued from the brink, a discovery call that uncovered something nobody saw coming, a tense negotiation, a tough account you somehow kept.
 3. For each, fill in the PM equivalent using this module's tables.
 4. In the third column, write two or three sentences of the *actual story* — names removed, outcome included. ("Buyer's team was split; I ran a working session to surface each person's real concern, then framed a path everyone could commit to.")
-5. Read your five stories out loud. Notice that they're already PM stories. Those are the exact answers you'll give when asked "tell me about a time you managed competing stakeholders."
+5. Read your five stories out loud. Notice they're already PM stories — they were the whole time. Those are the exact answers you'll give when an interviewer leans in and asks, "tell me about a time you managed competing stakeholders."
 
-Keep the sheet. You'll add to it as the next modules give you sharper vocabulary.
+Keep the sheet. You'll add to it as the next modules hand you sharper vocabulary.
 
 ## 🔑 Key terms
 
@@ -274,4 +278,7 @@ Keep the sheet. You'll add to it as the next modules give you sharper vocabulary
 - **CAPM / PSM I** — Entry-level certifications (PMI's Certified Associate in Project Management; Scrum.org's Professional Scrum Master I) useful for structuring early learning.
 
 ---
+
+Next up, we stop talking about *you* and start walking through how a project actually moves from "someone had an idea" to "it's done and signed off." Every project breathes in the same rhythm — and once you can see the phases, you'll never sit in a chaotic meeting feeling lost again. Turn the page.
+
 ⬅️ **Previous:** [Module 01 — What Project Management Really Is](01-what-is-project-management.md) · 🏠 **[Reviewer Home](../README.md)** · ➡️ **Next:** [Module 03 — The Project Life Cycle & Process Groups](03-lifecycle-and-process-groups.md)

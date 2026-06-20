@@ -2,6 +2,8 @@
 
 > ⏱️ Estimated study time: ~45 min · 📈 Level: Intermediate · 📚 Prerequisites: Module 05 · Part of the **Sales -> Project Management Reviewer**.
 
+*The will-they-won't-they of every project: you said yes to *this*, so why does it keep trying to become *that*?*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Run a requirements-gathering session and capture what you hear in a **requirements traceability matrix**.
@@ -12,17 +14,17 @@
 
 ## 👋 From your mentor
 
-Here's the good news: you already manage scope every day. Every time a prospect says "can you also throw in onboarding and a custom report?", you're making a scope decision — what's in the deal, what costs extra, what you politely defer. Project Management just gives that instinct a vocabulary and a paper trail.
+Okay, real talk: you already manage scope every day. Every time a prospect leans in and says "ooh, can you also throw in onboarding *and* a custom report?", you make a split-second scope decision — what's in the deal, what costs extra, what you smile and gently defer to "phase two." Project management didn't invent that instinct. It just handed it a vocabulary and a paper trail.
 
-Scope is where projects quietly succeed or fail. Get the boundaries clear up front and the schedule and budget have something solid to stand on. Leave them fuzzy and you'll deliver something nobody asked for, late. This module is about drawing the line — and defending it.
+Here's the thing nobody tells you up front: scope is where projects quietly fall in love or quietly fall apart. Draw the boundaries clearly and your schedule and budget have solid ground to stand on. Leave them fuzzy and you'll deliver something nobody actually asked for, three weeks late, while everyone insists *they* never agreed to that. This whole module is about drawing the line — and, just as importantly, defending it like it owes you money.
 
 ---
 
 ## 📋 Collecting requirements
 
-You can't manage scope until you know what people actually want. In sales you call this **discovery**; in PM we call it **Collect Requirements**. Same muscle: ask good questions, listen hard, write it down, confirm.
+You can't manage scope until you know what people actually want — and "want" is a slippery little word, because people are *terrible* at saying it out loud. In sales you call this **discovery**. In PM we call it **Collect Requirements**. Same muscle, same coffee: ask good questions, listen harder than you talk, write it down, confirm.
 
-A **requirement** is a documented need or condition the project must satisfy. The building blocks fall into a few buckets you'll see referenced constantly:
+A **requirement** is a documented need or condition the project must satisfy. They fall into a few buckets you'll see referenced everywhere — think of them as the cast of characters:
 
 | Requirement type | What it captures | Example |
 |---|---|---|
@@ -36,7 +38,7 @@ A **requirement** is a documented need or condition the project must satisfy. Th
 
 ### Elicitation techniques
 
-"Elicitation" is just a fancy word for *drawing requirements out of people*. Pick the technique to fit the situation — you already do this when you decide between a quick call, a full demo, or sending a sample.
+"Elicitation" is just a fancy word for *coaxing the truth out of people* — and you, my friend, are already a pro. Pick the technique to fit the moment, the same way you instinctively choose between a quick call, a full demo, or quietly mailing a sample and waiting.
 
 | Technique | What it is | When you'd reach for it |
 |---|---|---|
@@ -48,11 +50,11 @@ A **requirement** is a documented need or condition the project must satisfy. Th
 | **Brainstorming** | Generating many ideas without judgment | Early, divergent, "what could this be?" thinking |
 | **Document analysis** | Mining existing docs, contracts, tickets | A system already exists and is partly documented |
 
-> 🔁 **Sales → PM bridge:** A prototype is your *demo*. When a prospect can't articulate what they need, you stop talking and show them a screen — and their reaction tells you more than any spec. Same move here: a rough prototype turns vague opinions into concrete, actionable requirements.
+> 🔁 **Sales → PM bridge:** A prototype is your *demo*. When a prospect can't put their need into words, you stop explaining and show them a screen — and the look on their face tells you more than any spec ever could. Same exact move here: a rough prototype turns vague opinions into concrete, actionable requirements before anyone's wasted a sprint building the wrong thing.
 
 ### The Requirements Traceability Matrix (RTM)
 
-Once you've gathered requirements, you need to keep them honest. The **Requirements Traceability Matrix** is a table that links each requirement back to its origin and forward to the deliverable, test, and business objective that satisfies it. Nothing gets built that nobody asked for; nothing requested gets quietly dropped.
+So you've gathered all these requirements. Lovely. Now you have to keep them honest — because requirements are like a group chat at 2am: things get added, things get forgotten, and nobody remembers who suggested what. The **Requirements Traceability Matrix** is the table that links each requirement back to its origin *and* forward to the deliverable, test, and business objective that satisfies it. Nothing gets built that nobody asked for; nothing requested gets quietly ghosted.
 
 | Req ID | Requirement | Source | Priority | WBS deliverable | Test / acceptance | Status |
 |---|---|---|---|---|---|---|
@@ -60,22 +62,22 @@ Once you've gathered requirements, you need to keep them honest. The **Requireme
 | R-02 | Email confirmation at checkout | Customer | Must | 1.3 Checkout svc | Receive email < 1 min | Done |
 | R-03 | Dark mode | Survey | Could | 1.4 UI theme | Toggle persists | Deferred |
 
-Think of the RTM as the CRM of your requirements — every "opportunity" (requirement) has a stage, an owner, and a next step.
+Think of the RTM as the CRM of your requirements — every "opportunity" (requirement) has a stage, an owner, and a next step. You already live in a pipeline; this is just yours.
 
 ---
 
 ## 🎯 Product scope vs project scope
 
-Two words that sound identical and trip people up constantly:
+Two phrases that sound like twins and trip up almost everyone at the worst possible moment:
 
 - **Product scope** = the *features and functions* that characterize the thing you're delivering. Measured against **requirements**. ("The app has login, quotes, and offline mode.")
 - **Project scope** = the *work* required to deliver that product. Measured against the **project management plan**. ("Design, build, test, train, deploy, document.")
 
-Product scope is the *what*; project scope is the *work to get there*. A simple gut check: if you describe a button, that's product scope. If you describe writing the test plan for that button, that's project scope.
+Product scope is the *what*; project scope is the *work to get there*. Quick gut check: if you're describing a button, that's product scope. If you're describing writing the test plan for that button, that's project scope. (One is the wedding; the other is the eleven months of planning it.)
 
 ### Writing a clear scope statement
 
-The **Project Scope Statement** is the document that nails down the boundaries. A good one always has an explicit **out-of-scope** list — because what you *won't* do prevents more arguments than what you will.
+The **Project Scope Statement** is the document that nails the boundaries to the floor. And here's the secret a good one always knows: it has an explicit **out-of-scope** list — because what you *won't* do prevents more fights than what you will.
 
 A solid scope statement includes:
 
@@ -87,22 +89,22 @@ A solid scope statement includes:
 - **Constraints** — fixed limits (budget, deadline, fixed tech).
 - **Assumptions** — things taken as true that, if wrong, create risk.
 
-**Example — the out-of-scope list is your friend:**
+**Example — the out-of-scope list is your best friend at the party:**
 
 > *In scope:* Mobile quote viewing for iOS and Android.
 > *Out of scope:* Quote *editing* on mobile; tablet-optimized layout; integration with the legacy ERP. These may be considered in a future phase.
 
-That one out-of-scope line saves you a dozen "but I assumed…" conversations later — the same way a clear statement of work protects you from a client who "thought training was included."
+That one humble out-of-scope line quietly saves you a dozen "but I *assumed*…" conversations down the road — the same way a crisp statement of work protects you from the client who was *certain* training was bundled in.
 
 ---
 
 ## 🧱 The Work Breakdown Structure (WBS)
 
-The **WBS** is a hierarchical decomposition of the *total scope of work* into smaller, manageable pieces. It is **deliverable-oriented** — you break down *nouns* (things produced), not a to-do list of verbs. It is, genuinely, the backbone of planning: your schedule, cost estimates, resource plan, and risk register all hang off it.
+The **WBS** is a hierarchical decomposition of the *total scope of work* into smaller, manageable pieces. It is **deliverable-oriented** — you break down *nouns* (things produced), not a to-do list of verbs. And it is, genuinely, the backbone of everything: your schedule, cost estimates, resource plan, and risk register all hang off it. Get this right and the rest of planning has something to lean on.
 
 ### Decomposition and work packages
 
-You break the project down level by level until you reach **work packages** — the lowest level of the WBS, small enough to estimate cost and duration reliably and to assign to one owner. (Work packages later get decomposed further into *activities* for scheduling — that's Module 07's job.)
+You break the project down level by level until you reach **work packages** — the lowest level of the WBS, small enough to estimate cost and duration reliably and to hand to one owner. (Work packages later get broken down further into *activities* for scheduling — but that's Module 07's storyline, not ours.)
 
 ```mermaid
 flowchart TD
@@ -123,17 +125,17 @@ flowchart TD
     E --> E2["1.5.2 Go-live"]
 ```
 
-*A WBS tree: the project decomposes into deliverables, then into work packages at the lowest level.*
+*A WBS tree: the project branches into deliverables, then into work packages at the lowest level.*
 
 ### The 100% rule
 
-The single most important rule of the WBS: the **100% rule**. The WBS must capture **100% of the work** defined by the scope — no more, no less. Every level of decomposition must add up to exactly its parent. If it's not in the WBS, it's not in the project. And if it *is* in the WBS but not in the scope, you've got gold plating sneaking in.
+The single most important rule of the WBS, and the one examiners love: the **100% rule**. The WBS must capture **100% of the work** defined by the scope — no more, no less. Every level of decomposition must add up to exactly its parent. If it's not in the WBS, it's not in the project. And if it *is* in the WBS but not in the scope, congratulations, you've got gold plating sneaking in the back door.
 
-A practical consequence: children must fully account for their parent. The three boxes under "1.3 Build" should, together, equal *all* the building — not 90%, not 110%.
+A practical consequence: children must fully account for their parent. The three boxes under "1.3 Build" should, together, equal *all* the building — not 90%, not 110%. No more, no less.
 
 ### The WBS dictionary
 
-The boxes in the WBS are short labels. The **WBS dictionary** is the companion document that gives the detail behind each work package: a description, the responsible owner, acceptance criteria, estimated effort, dependencies, and the requirement IDs it satisfies. The WBS shows the *structure*; the dictionary holds the *substance*.
+The boxes in the WBS are short little labels — name tags at a networking event. The **WBS dictionary** is the companion document that gives the real detail behind each work package: a description, the responsible owner, acceptance criteria, estimated effort, dependencies, and the requirement IDs it satisfies. The WBS shows the *structure*; the dictionary holds the *substance*.
 
 | WBS ID | Work package | Owner | Acceptance criteria | Linked req |
 |---|---|---|---|---|
@@ -144,7 +146,7 @@ The boxes in the WBS are short labels. The **WBS dictionary** is the companion d
 
 ## 📌 The scope baseline
 
-Once your scope is approved, you lock it in as the **scope baseline** — the approved version you measure performance against. It's not one document but **three together**:
+Once your scope is approved, you lock it in as the **scope baseline** — the official version you measure performance against. It's not one document but **three together**, a little trio:
 
 1. The approved **Project Scope Statement**
 2. The **WBS**
@@ -160,24 +162,24 @@ flowchart LR
 
 *The scope baseline is the approved trio you defend; changes to it go through formal change control.*
 
-The key word is **approved**. Once baselined, scope only changes through **integrated change control** — you don't quietly edit it. That formality is exactly what stops the slow bleed of scope creep.
+The load-bearing word here is **approved**. Once it's baselined, scope only changes through **integrated change control** — you don't quietly slip in an edit at midnight and hope nobody notices. That little bit of formality is exactly what stops the slow, silent bleed of scope creep.
 
 ---
 
 ## 🐍 Scope creep and gold plating
 
-Two ways scope grows without permission. Knowing the difference matters:
+Two ways scope grows without your blessing — and they have very different culprits, so it's worth learning to read the clues:
 
-- **Scope creep** — uncontrolled changes or *continuous additions* to scope **without** adjusting time, cost, and resources. Usually comes from outside (a stakeholder keeps asking for "just one more thing").
-- **Gold plating** — the *team* adds extra work or polish nobody asked for, thinking they're being generous. Comes from inside. It still burns budget and risk for zero approved value.
+- **Scope creep** — uncontrolled changes or *continuous additions* to scope **without** adjusting time, cost, and resources. Usually comes from *outside* (a stakeholder who keeps murmuring "just one more tiny thing").
+- **Gold plating** — the *team* adds extra work or polish nobody asked for, convinced they're being generous. Comes from *inside*. It still burns budget and risk for exactly zero approved value.
 
-Both are dangerous because they consume budget and schedule against requirements nobody signed off on. The cure for both is the same: **change control**.
+Both are dangerous because they spend your budget and schedule on requirements nobody signed off on. The cure for both is the same plot device: **change control**.
 
-> 🔁 **Sales → PM bridge:** That customer who keeps saying "oh, and can you also add…" right before signing? That's scope creep, and you already manage it. You either re-price the deal or write it into a future phase — you don't just absorb it for free. In PM you do the exact same thing through a **change request**: every addition gets evaluated for impact on cost, schedule, and risk before anyone says yes.
+> 🔁 **Sales → PM bridge:** That customer who keeps adding "oh, and can you also…" right as the pen hovers over the contract? That's scope creep, and you already handle it in your sleep. You either re-price the deal or write it into a future phase — you don't just absorb it for free and eat the margin. In PM you do the *exact* same thing through a **change request**: every addition gets evaluated for its impact on cost, schedule, and risk before anyone says yes.
 
 ### Integrated change control protects you
 
-When a change is requested, it doesn't go straight into the work. It goes through a defined path — typically reviewed by a **Change Control Board (CCB)** — that weighs the impact before approving or rejecting.
+When a change gets requested, it doesn't just stroll into the work like it owns the place. It follows a defined path — typically reviewed by a **Change Control Board (CCB)** — that weighs the impact before approving or rejecting it.
 
 ```mermaid
 flowchart TD
@@ -192,15 +194,15 @@ flowchart TD
     G --> H
 ```
 
-*Integrated change control: nothing changes the baseline until impact is assessed and a decision is recorded.*
+*Integrated change control: nothing touches the baseline until impact is assessed and a decision is on the record.*
 
-The magic isn't the bureaucracy — it's that **every "yes" now comes with a visible cost**. Stakeholders ask for far less when they can see the schedule slip attached to their request.
+And here's the quiet magic — it was never really about the bureaucracy. It's that **every "yes" now comes with a visible price tag**. Funny how the requests dry up the moment someone can see the schedule slip stapled to their bright idea.
 
 ---
 
 ## ✅ Prioritization with MoSCoW
 
-Not every requirement is equal. **MoSCoW** is a fast, shared way to rank them so that when time runs short, everyone already agreed what gets cut.
+Not every requirement is created equal, and pretending otherwise is how you end up out of time with the wrong things finished. **MoSCoW** is a fast, shared way to rank them — so that when the clock starts ticking down, everyone already agreed, *in advance*, what gets cut.
 
 | Category | Meaning | Rule of thumb |
 |---|---|---|
@@ -220,28 +222,28 @@ flowchart TD
     Q3 -->|No| W["Won't have this time: documented exclusion"]
 ```
 
-*A MoSCoW decision flow: each requirement falls into exactly one bucket. The high-value blockers become Must-haves; the explicit "Won't have" bucket keeps deferred work from creeping back in.*
+*A MoSCoW decision flow: each requirement lands in exactly one bucket. The high-value blockers become Must-haves; the explicit "Won't have" bucket keeps deferred work from sneaking back in.*
 
-The "**Won't have**" column is the underrated one. Writing down what you're *not* doing is how you keep it from creeping back in — it's the prioritization twin of your out-of-scope list.
+The "**Won't have**" column is the unsung hero of the four. Writing down what you're *not* doing is how you keep it from creeping back in under cover of darkness — it's the prioritization twin of your out-of-scope list. Same energy, same quiet power.
 
 ---
 
 ## ⏸️ Pause & reflect
 
-This is a natural place to stop, stretch, and come back later — the next part (validation vs control) is a distinct idea and will land better with fresh eyes.
+This is a perfectly good place to stop, stretch, refill the coffee, and come back later — the next part (validation vs control) is a genuinely distinct idea and it'll land cleaner with fresh eyes.
 
-Before you go, sit with these:
+Before you wander off, sit with these for a sec:
 
-- Think of a deal where the customer kept adding asks. What was the *one* thing that, if missing, would have killed it (your "Must")? What did you happily defer (your "Could")?
-- If you had to write a three-line scope statement for your *current* job change into PM, what would your **out-of-scope** list say?
+- Think of a deal where the customer kept piling on asks. What was the *one* thing that, if it had been missing, would have killed the whole thing (your "Must")? What did you happily wave off to later (your "Could")?
+- If you had to write a three-line scope statement for your *current* plot twist — moving into PM — what would your **out-of-scope** list say? (What are you deliberately *not* taking on right now?)
 
-No need to write essays — just notice that you already think this way.
+No essays required. Just notice, with a little satisfaction, that you already think exactly this way.
 
 ---
 
 ## 🤝 Validate Scope vs Control Scope
 
-These two get confused constantly, so let's make them stick. Both happen during execution, but they answer different questions.
+These two get mixed up constantly, so let's make them stick for good. Both happen during execution, but they're answering completely different questions:
 
 | | **Validate Scope** | **Control Scope** |
 |---|---|---|
@@ -251,7 +253,7 @@ These two get confused constantly, so let's make them stick. Both happen during 
 | **Key output** | **Accepted deliverables** | **Change requests**, work performance info |
 | **About** | Formal, documented sign-off | Preventing/managing creep & gold plating |
 
-A clean way to remember it: **Validate Scope is the handshake** (the customer formally accepts the work — like getting the signature on the deal, not just a verbal "looks good"). **Control Scope is the guardrail** (you constantly compare reality to the baseline and route any change through change control).
+Here's the memory trick that makes it click: **Validate Scope is the handshake** — the customer *formally accepts* the work, like getting the actual signature on the deal, not just a breezy verbal "yeah, looks good" in the hallway. **Control Scope is the guardrail** — you're constantly comparing reality to the baseline and routing every would-be change through change control.
 
 ```mermaid
 flowchart LR
@@ -263,9 +265,9 @@ flowchart LR
     CR --> CC["Control Scope -> Integrated Change Control"]
 ```
 
-*Note the order: a deliverable is verified for quality first, then validated for acceptance by the customer.*
+*Note the order: a deliverable gets verified for quality first, then validated for acceptance by the customer.*
 
-> One nuance worth remembering: **Control Quality** (an internal check that the deliverable is *correct*) usually happens *before* **Validate Scope** (an external check that the customer *accepts* it). Correct first, accepted second.
+> One nuance worth pocketing: **Control Quality** (an internal check that the deliverable is *correct*) usually happens *before* **Validate Scope** (an external check that the customer *accepts* it). Correct first, accepted second. Don't bring it to the table until you'd be proud to.
 
 ---
 
@@ -317,14 +319,14 @@ It explicitly documents what is **excluded this time**, so it isn't forgotten *a
 
 ## 🧰 Try it
 
-Pick a small, real project you could actually run — say, "launch a personal portfolio site to land PM interviews." In 20 minutes:
+Pick a small, real project you could actually run — say, "launch a personal portfolio site to land PM interviews." Give it 20 minutes:
 
-1. **Write a 5-line scope statement** with an explicit **in-scope** and **out-of-scope** list. Force yourself to put at least three things in *out-of-scope*.
+1. **Write a 5-line scope statement** with an explicit **in-scope** and **out-of-scope** list. Force yourself to put at least three things in *out-of-scope* (this is the hard part, and the point).
 2. **Sketch a WBS** with 3-5 top-level deliverables and decompose one of them into 2-3 work packages. Check it against the 100% rule.
 3. **MoSCoW-tag** five features. Make sure exactly one is a "Won't have."
-4. **Pick one likely scope-creep request** ("add a blog!") and write the one-sentence change-request response you'd give — naming the impact on time.
+4. **Pick one likely scope-creep request** ("ooh, add a blog!") and write the one-sentence change-request response you'd give — naming the impact on time.
 
-If you can do this, you've just performed the core of scope management. Keep the file — Module 07 will hang a schedule off that WBS.
+Do all four and you've just performed the core of scope management with your own hands. Keep the file — Module 07 is going to hang a whole schedule off that WBS.
 
 ---
 

@@ -2,6 +2,8 @@
 
 > **Estimated study time:** Reference · **Level:** Reference · **Prerequisites:** Use anytime · Part of the **Sales -> Project Management Reviewer.**
 
+*Every great heroine has a trusted confidant she can call at 2 a.m. — this module is yours.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Look up any PM term used across this reviewer in seconds.
@@ -12,15 +14,15 @@
 
 ## 👋 From your mentor
 
-This module isn't a story — it's your pit stop. Keep it open in a browser tab while you work the rest of the reviewer, the way you used to keep your product price sheet and objection-handling cheat card next to the phone. You don't memorize a cheat sheet; you reach for it until the reaching stops being necessary.
+Okay, real talk: this module isn't a story with a slow burn and a satisfying ending. It's the friend who sits in the passenger seat with the map open so you never have to pull over. Keep it parked in a browser tab while you work the rest of the reviewer — the same way you used to keep your price sheet and objection-handling card within arm's reach of the phone. You don't *memorize* a cheat sheet. You reach for it until the reaching quietly stops being necessary.
 
-Bookmark this one. When an interviewer asks "what's CPI?" or "explain float," you want the answer to feel as automatic as quoting your close rate. Everything here is short on purpose.
+So bookmark this one. When an interviewer leans in and asks "what's CPI?" or "explain float," you want the answer to roll out as smoothly as quoting your close rate — no flop sweat, no scrambling. Everything here is short on purpose. Let's go.
 
 ---
 
 ## 📖 Glossary
 
-Alphabetical. Terms link conceptually to the modules where they're taught in depth.
+Alphabetical, like a guest list. Terms link conceptually to the modules where they're taught in depth.
 
 | Term | Definition |
 |---|---|
@@ -70,11 +72,13 @@ Alphabetical. Terms link conceptually to the modules where they're taught in dep
 | **WBS** | Work Breakdown Structure — a hierarchical decomposition of the total scope into manageable work packages. |
 | **Work package** | The lowest level of the WBS; small enough to estimate and assign. |
 
-> 🔁 **Sales → PM bridge:** A **risk register** is your deal-risk tracker with a new coat of paint. In sales you already note "champion might leave," "budget not confirmed," "competitor in the account" — and you assign yourself next steps. A risk register just formalizes that instinct: list the threat, rate probability and impact, name an owner, and decide the response *before* it bites you.
+> 🔁 **Sales → PM bridge:** A **risk register** is your deal-risk tracker wearing a nicer outfit. In sales you already mutter "champion might leave," "budget not confirmed," "competitor's circling the account" — and you quietly assign yourself the next move. A risk register just makes that instinct official: list the threat, rate probability and impact, name an owner, and decide the response *before* it sneaks up behind you in the third act.
 
 ---
 
 ## 🔤 Acronyms quick list
+
+The alphabet soup everyone ladles out in meetings, finally translated.
 
 | Acronym | Expansion |
 |---|---|
@@ -114,11 +118,11 @@ Alphabetical. Terms link conceptually to the modules where they're taught in dep
 
 ## 🧮 Formula cheat sheet
 
-Memorize these five clusters and you can answer most quantitative PM questions.
+Memorize these five clusters and you can answer most quantitative PM questions in your sleep. No calculus, I promise — just tidy arithmetic with good manners.
 
 ### Earned Value Management (EVM)
 
-The three inputs are **PV** (planned value — what you *planned* to have done), **EV** (earned value — what you *actually* completed, valued at budget), and **AC** (actual cost — what you *spent*).
+The three inputs are **PV** (planned value — what you *planned* to have done), **EV** (earned value — what you *actually* completed, valued at budget), and **AC** (actual cost — what you *spent*). Picture them as three friends comparing notes on a shared trip.
 
 | Metric | Formula | Reading |
 |---|---|---|
@@ -132,11 +136,11 @@ The three inputs are **PV** (planned value — what you *planned* to have done),
 | To-Complete Perf. Index | **TCPI = (BAC − EV) / (BAC − AC)** | Efficiency needed to hit BAC |
 
 **Worked example:** BAC = \$100,000. You planned to be 50% done (PV = \$50,000) but you've only finished 40% (EV = \$40,000), and you've spent \$50,000 (AC = \$50,000).
-CV = 40,000 − 50,000 = **−\$10,000 (over budget)**. CPI = 40,000 / 50,000 = **0.8**. SV = 40,000 − 50,000 = **−\$10,000 (behind)**. EAC = 100,000 / 0.8 = **\$125,000**. Translation: at this pace you'll blow the budget by \$25,000. Now you have a number to bring to the sponsor, not a feeling.
+CV = 40,000 − 50,000 = **−\$10,000 (over budget)**. CPI = 40,000 / 50,000 = **0.8**. SV = 40,000 − 50,000 = **−\$10,000 (behind)**. EAC = 100,000 / 0.8 = **\$125,000**. Here's what that actually means for you: at this pace you'll overshoot the budget by \$25,000. And now you have a *number* to bring to the sponsor — a hard fact, not an anxious hunch. That's the difference between sounding worried and sounding in control.
 
 ### PERT three-point estimate
 
-For a single activity with optimistic (**O**), most likely (**M**), and pessimistic (**P**) estimates:
+For a single activity with optimistic (**O**), most likely (**M**), and pessimistic (**P**) estimates — basically asking "best case, realistic case, what-if-everything-goes-sideways case":
 
 - **PERT (Beta) estimate = (O + 4M + P) / 6**
 - **Standard deviation = (P − O) / 6**
@@ -145,23 +149,23 @@ For a single activity with optimistic (**O**), most likely (**M**), and pessimis
 
 ### Communication channels
 
-Add one stakeholder and the lines of communication explode. That's why big teams need structure.
+Add one more person and the lines of communication don't just grow — they multiply, like a group chat that suddenly has opinions. That's exactly why big teams need structure.
 
 - **Channels = n(n − 1) / 2**, where *n* = number of people.
 
-*Example:* 5 people → 5 × 4 / 2 = **10 channels**. 10 people → **45**. Double the people, quadruple the chaos.
+*Example:* 5 people → 5 × 4 / 2 = **10 channels**. 10 people → **45**. Double the guest list, quadruple the chaos.
 
 ### Float (schedule slack)
 
 - **Total Float = LS − ES = LF − EF** (Late Start − Early Start, or Late Finish − Early Finish)
-- **Free Float = ES(next) − EF(current) − 1** (for finish-to-start)
+- **Free Float = ES(next) − EF(current)** (for finish-to-start)
 - Activities on the **critical path** have **Total Float = 0**.
 
 ---
 
 ## 🗺️ Orientation grid: Process Groups × Knowledge Areas
 
-The classic PMBOK *Guide* (6th ed.) lens still tested on the PMP framework questions. Read it as: each **Knowledge Area** (row) shows up across one or more **Process Groups** (columns).
+The classic PMBOK *Guide* (6th ed.) lens still tested on the PMP framework questions. Read it like a seating chart: each **Knowledge Area** (row) shows up across one or more **Process Groups** (columns).
 
 | Knowledge Area ↓ \ Process Group → | Initiating | Planning | Executing | Monitoring & Controlling | Closing |
 |---|:---:|:---:|:---:|:---:|:---:|
@@ -182,7 +186,7 @@ The classic PMBOK *Guide* (6th ed.) lens still tested on the PMP framework quest
 
 ## ⚖️ Methodology comparison
 
-One table to keep predictive, Scrum, and Kanban straight.
+One table to keep predictive, Scrum, and Kanban straight — the three suitors, and what each one is actually like to date.
 
 | Dimension | Predictive (Waterfall) | Scrum | Kanban |
 |---|---|---|---|
@@ -194,7 +198,7 @@ One table to keep predictive, Scrum, and Kanban straight.
 | **Key metric** | Variance vs baseline (CPI/SPI) | Velocity, burndown | Cycle time, throughput, WIP limits |
 | **Owning body** | PMI / Axelos (PRINCE2) | Scrum.org / Scrum Alliance | Lean/Kanban community |
 
-> 🔁 **Sales → PM bridge:** Choosing a methodology is like choosing a sales motion. A long enterprise deal with a signed MSA and fixed SOW is **predictive** — locked scope, milestones, change orders. A product-led, "ship-iterate-learn" motion is **Scrum**. A high-volume inbound queue you work by priority is **Kanban**. You already match approach to deal; now you match it to project.
+> 🔁 **Sales → PM bridge:** Choosing a methodology is just like choosing a sales motion. A long enterprise deal with a signed MSA and fixed SOW is **predictive** — locked scope, milestones, change orders, everything formal. A product-led, "ship-iterate-learn" motion is **Scrum**. A high-volume inbound queue you work by priority is **Kanban**. You already read the room and match your approach to the deal; now you do the same thing for projects.
 
 ---
 
@@ -240,7 +244,7 @@ flowchart TD
     PEOPLE --> PPL3["Communication channels"]
 ```
 
-*A bird's-eye cluster of the concept areas this reviewer covers — use it to spot what you still need to firm up.*
+*The whole reviewer at a glance — use it to spot which branches still feel a little shaky and deserve a second date.*
 
 ```mermaid
 flowchart TD
@@ -262,19 +266,19 @@ flowchart TD
     BAC --> VAC
 ```
 
-*How the EVM inputs flow into variances, indexes, and forecasts — trace any line back to PV, EV, AC, or BAC.*
+*How the EVM inputs flow into variances, indexes, and forecasts — follow any line backward like a detective and it lands on PV, EV, AC, or BAC.*
 
 ---
 
 ## ⏸️ Pause & reflect
 
-This is a safe place to stop and come back later — reference modules aren't meant to be read end-to-end in one sitting.
+This is a safe place to set the book down and come back later — reference modules aren't meant to be read cover-to-cover in one breathless sitting.
 
-- Which three terms in the glossary still feel fuzzy? Flag them and revisit the module that teaches them.
-- Cover the formula table and try writing CPI, SPI, and the PERT estimate from memory. How'd you do?
-- Can you say, in one sentence each, when you'd pick predictive vs Scrum vs Kanban?
+- Which three terms in the glossary still feel a little fuzzy? Flag them and revisit the module that teaches them.
+- Cover the formula table with your hand and try writing CPI, SPI, and the PERT estimate from memory. How'd you do — be honest.
+- Can you say, in one clean sentence each, when you'd pick predictive vs Scrum vs Kanban?
 
-Close the tab with a clear conscience. The cheat sheet will be here when you need it.
+Close the tab with a clear conscience. The cheat sheet isn't going anywhere — it'll be right here when you need it.
 
 ---
 
@@ -314,13 +318,13 @@ The **Product Owner**. The Scrum Master upholds the process; the Developers do t
 
 ## 🧰 Try it
 
-Build your own one-page **personal cheat card**. On a single index card (or one screen), write:
+Build your own one-page **personal cheat card** — your secret weapon, slipped into your back pocket. On a single index card (or one screen), write:
 
-1. The four EVM core formulas (CV, SV, CPI, SPI) — from memory, then check against this module.
+1. The four EVM core formulas (CV, SV, CPI, SPI) — from memory first, *then* check against this module. No peeking until you've tried.
 2. Your three "still fuzzy" glossary terms with a one-line definition in *your own words*.
 3. One sentence picking a methodology for a real project you can imagine running.
 
-Keep that card next to your keyboard for a week. Just like your old objection-handling card, the goal is to use it until you don't need it anymore.
+Keep that card next to your keyboard for a week. Just like your old objection-handling card, the goal is to use it until the day you reach for it and realize — happily — you didn't need it.
 
 ---
 
@@ -334,6 +338,8 @@ Keep that card next to your keyboard for a week. Just like your old objection-ha
 - **RACI** — responsibility chart: Responsible, Accountable, Consulted, Informed (one A per row).
 - **Velocity** — average story points a team completes per sprint; a planning input, not a goal.
 - **WBS** — hierarchical breakdown of total scope into work packages.
+
+You've got the whole reviewer in your pocket now — the vocabulary, the formulas, the maps. One module left, and it's the one that ties everything together: your personal study plan, plus an honest mirror to check how ready you really are. Turn the page.
 
 ---
 ⬅️ **Previous:** [Module 20 — Landing the PM Job](20-landing-the-pm-job.md) · 🏠 **[Reviewer Home](../README.md)** · ➡️ **Next:** [Module 22 — Your Study Plan & Self-Assessment](22-study-plan-and-self-assessment.md)

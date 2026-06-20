@@ -3,6 +3,8 @@
 > ⏱️ **Estimated study time:** ~20 min · 🎚️ **Level:** Orientation · 📋 **Prerequisites:** None — start here.
 > Part of the **Sales -> Project Management Reviewer**.
 
+*Every great story has a "before." This is yours — the chapter where the heroine decides to change everything.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Explain who this reviewer is for and what you'll be able to do by the end of it.
@@ -13,15 +15,15 @@
 
 ## 👋 From your mentor
 
-Hey — I'm really glad you're here. You've spent years reading people, managing a pipeline, and getting deals over the line under pressure. That is not a blank slate; that is a *huge* head start. Project management is, at its heart, the discipline of getting a group of people to deliver something on time, on budget, and at the quality everyone agreed to — and you already do a version of that every quarter.
+Okay, real talk — pull up a chair, grab the coffee, I'm so glad you're here. You've spent years reading a room before you said a word, nursing a pipeline like it was a houseplant, and dragging deals across the line while the clock screamed at you. That is not a blank page. That, my friend, is one heck of a backstory. Project management is, at its heart, the discipline of getting a group of people to deliver something on time, on budget, and at the quality everyone agreed to — and you already do a version of that every single quarter.
 
-This reviewer is your runway. We'll translate what you already know into the language and frameworks hiring managers want to hear, and we'll fill the genuine gaps with concrete, mentor-style explanations. No jargon for its own sake. If you feel a flicker of "can I really do this?" — good, that means you're taking it seriously. Let's go.
+So think of this reviewer as the slow-burn part of the story: the stretch where the unlikely-but-perfect match finally clicks into place. We'll translate what you already know into the language and frameworks hiring managers swoon over, and we'll fill the genuine gaps with concrete, mentor-style explanations. No jargon for its own sake, ever. And if you feel a little flicker of *"wait, can I actually do this?"* — good. That flutter means you care. Stick with me. Let's go.
 
 ## 📖 What a "reviewer" is (and how to actually use it)
 
-In a lot of countries, a **"reviewer"** is a focused self-study guide — denser than a textbook, lighter than a course, built to get you *exam-and-interview ready* without wasting your time. That's exactly what this is: a sequence of short modules you can study in order, each one building on the last.
+In a lot of countries, a **"reviewer"** is a focused self-study guide — denser than a textbook, lighter than a course, built to get you *exam-and-interview ready* without wasting a minute of your time. That's exactly what this is: a sequence of short modules you can study in order, each one building on the last, like chapters that earn the ending.
 
-But here's the thing most people get wrong: they read a reviewer like a novel — eyes gliding over the page, nodding along — and remember almost nothing a week later. Passive reading feels productive and isn't. So let's study smarter from day one.
+But here's the plot twist nobody warns you about: most people read a reviewer like a beach novel — eyes gliding, head nodding, blissfully absorbing nothing. A week later? Gone. Vanished. Passive reading *feels* productive and absolutely isn't. So let's outsmart that from page one.
 
 ### The three techniques that make this stick
 
@@ -31,17 +33,19 @@ But here's the thing most people get wrong: they read a reviewer like a novel �
 | **Spaced repetition** | Reviewing material at growing intervals (1 day, 3 days, a week) right as you're about to forget it. | Don't cram. Revisit a finished module's quiz a day or two later before moving on. |
 | **Teaching it back** | Explaining a concept simply, as if to a friend, to expose what you don't really understand. | After each module, explain its big idea in 2–3 plain sentences to a person, a pet, or your phone's voice memo. |
 
-> 🔁 **Sales → PM bridge:** You already know that re-reading a product spec the night before a demo doesn't make you *good* at the demo — running mock pitches and getting peppered with objections does. Active recall and teaching-it-back are the same muscle. Study the way you prep to sell, not the way you skim email.
+Here's what that actually means for you: you don't study by *re-reading*, you study by *retrieving*. Make your brain reach.
+
+> 🔁 **Sales → PM bridge:** You already know that re-reading a product spec the night before a demo doesn't make you *good* at the demo — running mock pitches and getting peppered with objections does. Active recall and teaching-it-back are the exact same muscle. Study the way you prep to *sell*, not the way you skim a Monday-morning inbox.
 
 ### Why you must pause between modules
 
-Your brain consolidates learning during the *gaps* — the walk, the sleep, the coffee — not during the marathon study session. Cramming six modules in one sitting feels heroic and produces mush. One or two modules, then a real break, beats a binge every time.
+Your brain consolidates learning during the *gaps* — the walk, the sleep, the second cup of coffee — not during the white-knuckle marathon session. Cramming six modules in one sitting feels heroic and produces mush. One or two modules, then a genuine break, beats a binge every time.
 
-That's why most modules include a **⏸️ Pause & reflect** checkpoint. When you hit one, it's genuinely OK — encouraged, even — to close the laptop and come back tomorrow. Momentum comes from finishing rested, not from finishing exhausted.
+That's why most modules include a **⏸️ Pause & reflect** checkpoint. When you hit one, it's truly fine — encouraged, even — to close the laptop and come back tomorrow. Momentum comes from finishing *rested*, not from finishing wrecked.
 
 ## 🧭 How every module is structured
 
-Once you learn the rhythm of one module, you know them all. Every module follows the same shape, marked with the same icons:
+Learn the rhythm of one module and you've got them all — same beats, every chapter. Each one follows the same shape, marked with the same icons:
 
 | Icon | Section | What it's for |
 |---|---|---|
@@ -55,11 +59,11 @@ Once you learn the rhythm of one module, you know them all. Every module follows
 | 🔑 | **Key terms** | A short glossary of the module's vocabulary. |
 | ⬅️ ➡️ | **Navigation** | Links to the previous and next module, plus Reviewer Home. |
 
-Don't skip the 🧠 and 🧰 sections to "save time." They *are* the time well spent — the reading is just the setup.
+Don't skip the 🧠 and 🧰 sections to "save time." Those *are* the time well spent — the reading is just the setup, the flirty banter before the real chemistry.
 
 ## 🗺️ The full curriculum at a glance
 
-Here's everything ahead, grouped into six parts. You don't need to memorize this — just get the lay of the land so you know where you're headed.
+Here's everything ahead, grouped into six parts. No need to memorize it — this is just the table of contents, so you can see where the story's headed.
 
 ```mermaid
 flowchart LR
@@ -111,7 +115,7 @@ flowchart LR
 
 ## 🛤️ Two suggested paths
 
-You've got a timeline and a goal. Pick the path that matches.
+You've got a timeline and a goal. Pick the path that matches the life you're actually living.
 
 | | 🏃 **Fast track to interviews** | 🧗 **Deeper mastery** |
 |---|---|---|
@@ -122,7 +126,7 @@ You've got a timeline and a goal. Pick the path that matches.
 | **Quizzes** | Do them once, out loud. | Do them, then re-do them spaced 2–3 days later. |
 | **Risk to manage** | Going too shallow — keep the Key Terms sheet handy in interviews. | Losing momentum — protect a fixed weekly study slot. |
 
-A reasonable hybrid: run the **fast track first** to get interview-ready, then loop back through the **mastery path** to deepen what you skimmed. Nothing says you can only read this once.
+A perfectly reasonable hybrid: run the **fast track first** to get interview-ready, then loop back through the **mastery path** to deepen what you skimmed. Nobody said you only get to read this once — the best books reward a second pass.
 
 ```mermaid
 flowchart TD
@@ -141,7 +145,7 @@ flowchart TD
 
 ## ✅ How to track progress
 
-Keep it stupid-simple. Copy this checklist somewhere you'll see it — a notes app, a sticky note, the top of a doc — and tick a box each time you finish a module's reading **and** its quiz.
+Keep it gloriously, stubbornly simple. Copy this checklist somewhere you'll actually see it — a notes app, a sticky note, the top of a doc — and tick a box each time you finish a module's reading **and** its quiz.
 
 ```text
 [ ] 00 — Welcome & How to Use This Reviewer   ← you're nearly done!
@@ -151,32 +155,32 @@ Keep it stupid-simple. Copy this checklist somewhere you'll see it — a notes a
    ...continue for every module in the curriculum...
 ```
 
-> 🔁 **Sales → PM bridge:** Think of this checklist as your **pipeline for the deal of getting hired** — each module is a stage moved from "open" to "closed-won." You wouldn't run a quota without a board to track it; don't run your career switch blind either.
+> 🔁 **Sales → PM bridge:** Think of this checklist as your **pipeline for the deal of getting hired** — each module is a stage moved from "open" to "closed-won." You'd never run a quota without a board to track it; don't run your career switch blind either.
 
-A small streak beats a big plan. Two modules a day for a week will get you further than promising yourself a perfect 8-week schedule you abandon on day three.
+A small streak beats a big plan. Two modules a day for one week will carry you further than a flawless 8-week schedule you ghost on day three.
 
 ## 🌱 A word on mindset (read this on the hard days)
 
-You will hit a module where the vocabulary feels foreign and a quiet voice says *"everyone else already knows this."* That voice is **impostor syndrome**, and it's loudest precisely when you're growing. It is not evidence that you don't belong.
+At some point you'll hit a module where the vocabulary feels like a foreign menu with no pictures, and a quiet little voice will whisper *"everyone else already knows this."* That voice has a name — **impostor syndrome** — and it gets *loudest* exactly when you're growing. It is not evidence that you don't belong. It's the antagonist in your story, and antagonists lie.
 
 Two anchors to hold onto:
 
-- **Growth mindset.** Skills are built, not born. "I can't do this *yet*" is the whole game. Every PM you'll interview with was once exactly where you are.
+- **Growth mindset.** Skills are built, not born. "I can't do this *yet*" is the whole game. Every PM you'll interview with was once sitting precisely where you're sitting.
 - **You're not starting from zero.** Negotiation, managing expectations, handling difficult people, hitting a number under a deadline — you've been doing project-management-adjacent work for years. We're relabeling and sharpening it, not implanting it.
 
-Be as patient with yourself as you'd be with a new rep you were mentoring. Progress, not perfection.
+Be as patient with yourself as you'd be with a nervous new rep you were mentoring. Progress, not perfection.
 
 ## ⏸️ Pause & reflect
 
-This is a safe place to stop. Take a breath before you dive into Module 01 — and if today's been long, genuinely come back to this tomorrow.
+This is a safe place to stop — bookmark it. Take a breath before you dive into Module 01, and if today's been long, genuinely come back to this tomorrow.
 
 - Which study technique — active recall, spaced repetition, or teaching-it-back — do you most often *skip*? How will you build it in this time?
 - Which path are you choosing: fast track or mastery? Write down the realistic time slot you'll protect for studying.
-- Name one project-management-adjacent thing you already did well in sales. Keep it in your pocket for the impostor-syndrome days.
+- Name one project-management-adjacent thing you already did well in sales. Tuck it in your pocket for the impostor-syndrome days.
 
 ## 🧠 Check yourself
 
-Cover the answers. Say yours out loud first — that struggle is the point.
+Cover the answers. Say yours out loud first — that little struggle *is* the point.
 
 **1. Why is re-reading a module a poor way to study, and what should you do instead?**
 <details><summary>Show answer</summary>
@@ -205,11 +209,11 @@ They're a normal sign of growth, not proof you don't belong. Lean on a **growth 
 
 ## 🧰 Try it
 
-A five-minute setup that pays off all the way through:
+A five-minute setup that quietly pays off all the way through:
 
 1. Open a notes app or doc and paste the progress checklist from the section above.
 2. Decide your path — **fast track** or **mastery** — and write your protected study slot next to it (e.g. *"30 min after dinner, Mon–Fri"*).
-3. Out loud, in 2–3 sentences, explain to an imaginary friend what this reviewer is and how you plan to study it. (Yes, actually say it — that's your first teaching-it-back rep.)
+3. Out loud, in 2–3 sentences, explain to an imaginary friend what this reviewer is and how you plan to study it. (Yes, actually say it — out loud — that's your first teaching-it-back rep.)
 4. Tick the box for Module 00. You just closed your first stage. 🎉
 
 ## 🔑 Key terms
@@ -221,6 +225,8 @@ A five-minute setup that pays off all the way through:
 - **Consolidation** — the brain's process of stabilizing new memories, which happens during rest and sleep.
 - **Growth mindset** — the belief that ability is developed through effort and practice rather than fixed at birth.
 - **Impostor syndrome** — the persistent feeling of being a fraud despite real competence, common during career transitions.
+
+Close this one feeling steady — because next, we stop circling the question and finally answer it: what *is* project management, really, once you strip away the buzzwords? Turn the page.
 
 ---
 ⬅️ **Previous:** [Start here](../README.md) · 🏠 **[Reviewer Home](../README.md)** · ➡️ **Next:** [Module 01 — What Project Management Really Is](01-what-is-project-management.md)

@@ -2,6 +2,8 @@
 
 > **Estimated study time:** ~35 min · **Level:** Intermediate · **Prerequisites:** [Module 08](08-cost-and-budget.md) · Part of the **Sales -> Project Management Reviewer.**
 
+*Every contract is a love letter with a clause for when things go wrong — let's learn to read between the lines.*
+
 ## 🎯 What you'll be able to do
 
 - [ ] Run a **make-or-buy analysis** and decide when to bring in a vendor.
@@ -13,17 +15,17 @@
 
 ## 👋 From your mentor
 
-Here's a secret that should make you smile: you already know procurement. You've just been standing on the *other side of the table*. Every RFP you sweated over, every SOW you parsed for hidden scope, every "best and final" you negotiated — that was procurement, viewed from the seller's chair.
+Okay, real talk: you already know procurement by heart. You've just been sitting on the *other side of the table* this whole time. Every RFP you sweated over, every SOW you read three times hunting for hidden scope, every "best and final" you talked someone off the ledge of — that was procurement, viewed from the seller's chair. You've already lived the whole story; you just kept getting cast as the love interest instead of the lead.
 
-Now you're the buyer. The same negotiation muscles still work; you're just pointing them in a new direction. In this module you'll learn how a PM decides whether to hire help at all, how contracts quietly shift risk between the two parties, and how to keep a vendor honest and motivated once the ink is dry. Procurement is where money, scope, and risk all collide — get it right and a vendor becomes an extension of your team instead of a fire to fight.
+Now you're the buyer, and the same negotiation muscles still work — you're just pointing them in a new direction. In this module you'll learn how a PM decides whether to hire help at all, how contracts quietly shift risk between two parties (it's always hiding in the fine print, like the twist in a thriller you should've seen coming), and how to keep a vendor honest *and* happy once the ink is dry. Procurement is where money, scope, and risk all collide in one room — get it right and a vendor becomes an extension of your team instead of the 11 p.m. fire you're putting out in your pajamas.
 
 ---
 
 ## Make-or-buy analysis: should this even be a contract?
 
-Before you draft a single document, answer one question: **do we build this ourselves, or do we buy it from someone else?** That's the **make-or-buy analysis**, and it's the gateway to all procurement.
+Before you draft a single document, answer one question: **do we build this ourselves, or do we buy it from someone else?** That's the **make-or-buy analysis**, and it's the gateway to all procurement. Think of it as the moment before the first date — should you even be here, or is this a swipe-left?
 
-You're weighing more than price. You're weighing capability, capacity, risk, speed, and what your organization wants to *own* long-term.
+You're weighing more than price. You're weighing capability, capacity, risk, speed, and what your organization actually wants to *own* long-term.
 
 | Factor | Leans toward **MAKE** (in-house) | Leans toward **BUY** (vendor) |
 |---|---|---|
@@ -35,13 +37,13 @@ You're weighing more than price. You're weighing capability, capacity, risk, spe
 | **Risk** | You can absorb the risk | You want to transfer risk to a vendor |
 | **Confidentiality** | Sensitive IP you don't want to expose | Non-sensitive, commodity work |
 
-A quick numeric example. Suppose buying a tool costs **$12,000 up front plus $300/month** to run. Building it in-house costs **$6,000 up front plus $700/month** in maintenance. When do the two break even?
+Now, a quick numeric example — because gut feelings are lovely but the math doesn't lie. Suppose buying a tool costs **$12,000 up front plus $300/month** to run. Building it in-house costs **$6,000 up front plus $700/month** in maintenance. When do the two break even?
 
 - Difference in up-front cost: $12,000 − $6,000 = **$6,000** (buy is more expensive up front)
 - Difference in monthly cost: $700 − $300 = **$400/month** (make is more expensive monthly)
 - Break-even: $6,000 ÷ $400 = **15 months**
 
-So if you'll use it **longer than 15 months, make is cheaper**; shorter than that, **buy wins**. Don't let "we can build it!" pride override the math.
+So if you'll use it **longer than 15 months, make is cheaper**; shorter than that, **buy wins**. Don't let "but we *could* build it!" pride override the math — that's how every "I can fix him" subplot ends in tears.
 
 ```mermaid
 flowchart TD
@@ -57,15 +59,15 @@ flowchart TD
     BUY --> F["Start Plan Procurement"]
     MAKE --> G["Staff it internally"]
 ```
-*A make-vs-buy decision flow — capability and capacity gate the choice before cost does.*
+*A make-vs-buy decision flow — capability and capacity gate the choice before cost even gets a word in.*
 
-> 🔁 **Sales → PM bridge:** Make-or-buy is just **qualifying a lead in reverse**. In sales you asked "is this prospect worth my time, or should I disqualify?" Here you ask "is this work worth a vendor, or do we keep it?" Same disciplined filter — you're protecting time and money instead of chasing every shiny option.
+> 🔁 **Sales → PM bridge:** Make-or-buy is just **qualifying a lead in reverse**. In sales you asked "is this prospect worth my time, or do I disqualify?" Here you ask "is this work worth a vendor, or do we keep it?" Same disciplined filter — you're protecting your time and money instead of chasing every shiny thing that winks at you.
 
 ---
 
 ## Contract types: where the risk lives
 
-Every contract is a **risk-allocation device**. The contract type decides who eats the cost if things go sideways. There are three big families. Memorize the headline for each:
+Here's the thing nobody tells you up front: every contract is a **risk-allocation device** wearing a business-casual disguise. The contract type decides who eats the cost if things go sideways — and *something* always goes a little sideways. There are three big families. Memorize the headline for each and you're already ahead of most people in the room:
 
 - **Fixed Price** — the **seller** carries the cost risk.
 - **Cost-Reimbursable** — the **buyer** carries the cost risk.
@@ -73,7 +75,7 @@ Every contract is a **risk-allocation device**. The contract type decides who ea
 
 ### Fixed Price (FP)
 
-You agree on a price; the seller delivers for that price no matter what it actually costs them. If the seller is inefficient, *they* lose money — not you. That's why fixed price puts the cost risk on the **seller**. Best when scope is well-defined.
+You agree on a price; the seller delivers for that price no matter what it actually costs them. If the seller is inefficient, *they* lose money — not you. That's why fixed price puts the cost risk on the **seller**. Best when scope is well-defined (you know exactly what you want, no surprises).
 
 | Subtype | Full name | How it works | Best when |
 |---|---|---|---|
@@ -83,7 +85,7 @@ You agree on a price; the seller delivers for that price no matter what it actua
 
 ### Cost-Reimbursable (CR)
 
-You reimburse the seller for their **actual costs**, plus a fee. Because you're paying whatever it really costs, the cost risk sits with the **buyer**. Best when scope is fuzzy or evolving (R&D, early-stage work).
+You reimburse the seller for their **actual costs**, plus a fee. Because you're paying whatever it really costs, the cost risk sits with the **buyer**. Best when scope is fuzzy or still evolving (R&D, early-stage work) — the will-they-won't-they phase where nobody can promise where this is going yet.
 
 | Subtype | Full name | How the fee works | Notes |
 |---|---|---|---|
@@ -91,11 +93,11 @@ You reimburse the seller for their **actual costs**, plus a fee. Because you're 
 | **CPIF** | Cost Plus Incentive Fee | Costs + fee adjusted by a **share ratio** for beating/missing targets | Buyer and seller split savings/overruns |
 | **CPAF** | Cost Plus Award Fee | Costs + an **award** fee based on subjective buyer judgment | Buyer rates the seller's performance |
 
-> **CPIF share ratio in one line:** an 80/20 ratio means for every dollar **under** the target cost, the **buyer keeps 80¢** and the **seller earns 20¢** as bonus. Overruns split the same way. It aligns incentives so both sides want to control cost.
+> **CPIF share ratio in one line:** an 80/20 ratio means for every dollar **under** the target cost, the **buyer keeps 80¢** and the **seller earns 20¢** as bonus. Overruns split the same way. It aligns incentives so both sides actually *want* to control cost — a rare moment of you two being on the same team.
 
 ### Time & Materials (T&M)
 
-A hybrid. You pay an agreed **rate** (e.g., $150/hour) plus materials, with no fixed total. Great for staff augmentation and small or undefined jobs — but watch the meter, because an open-ended T&M deal can run away from you. Smart buyers add a **not-to-exceed (NTE) ceiling** and a time limit to cap their exposure.
+A hybrid — the situationship of contracts. You pay an agreed **rate** (e.g., $150/hour) plus materials, with no fixed total. Great for staff augmentation and small or undefined jobs — but watch the meter, because an open-ended T&M deal can quietly run away from you while you're not looking. Smart buyers add a **not-to-exceed (NTE) ceiling** and a time limit to cap their exposure, so the meter can't keep ticking forever.
 
 ### The risk spectrum
 
@@ -112,13 +114,13 @@ flowchart LR
 ```
 *Cost risk slides from the buyer (cost-reimbursable, left) to the seller (firm fixed price, right). The clearer your scope, the further right you can safely sit.*
 
-**Rule of thumb:** the **better defined the scope, the more fixed (right) you should go**. Vague scope + fixed price = a vendor who cuts corners or fights every change. Vague scope is exactly where cost-reimbursable earns its keep.
+**Rule of thumb:** the **better defined the scope, the more fixed (right) you should go**. Vague scope + fixed price = a vendor who cuts corners or fights you on every change like it's a custody battle. Vague scope is exactly where cost-reimbursable earns its keep.
 
 ---
 
 ## The procurement process
 
-PMI frames procurement as three processes that span the life of the deal. Think of them as **Plan → Conduct → Control**.
+PMI frames procurement as three processes that span the whole life of the deal — beginning, middle, and ending, like any good story. Think of them as **Plan → Conduct → Control**.
 
 ```mermaid
 flowchart LR
@@ -137,21 +139,21 @@ You decide **what** to procure, **how**, and **when**. This is where make-or-buy
 - **Bid/solicitation documents** — RFI, RFQ, or RFP (see below).
 - **Statement of Work (SOW)** for each item you're buying.
 - **Source selection criteria** — how you'll score bidders.
-- **Independent cost estimates** — your own number, so you can sniff out bids that are too high or suspiciously low.
+- **Independent cost estimates** — your own number, so you can sniff out bids that are too high or suspiciously low (the deal that's too good to be true usually is).
 
 ### 2. Conduct Procurements (solicitation)
 
-You go to market, collect responses, and pick a seller. Steps:
+You go to market, collect responses, and pick a seller. This is the speed-dating round. Steps:
 
 1. Send out solicitation documents to qualified sellers.
-2. Hold a **bidder conference** (a.k.a. pre-bid or contractor conference) so all bidders get the **same** information at the same time — fairness matters.
+2. Hold a **bidder conference** (a.k.a. pre-bid or contractor conference) so all bidders get the **same** information at the same time — fairness matters, no whispering answers to a favorite.
 3. Receive proposals or bids.
 4. Evaluate against your selection criteria.
-5. **Negotiate** and **award** the contract. The signed contract is the headline output.
+5. **Negotiate** and **award** the contract. The signed contract is the headline output — the "yes."
 
 ### 3. Control Procurements (administration & closeout)
 
-The contract is live. Now you **manage performance, process changes, pay invoices, and inspect deliverables**. At the end you formally **close** the procurement — confirm everything was delivered, settle final payments, capture lessons learned, and archive records.
+The contract is live. Now you **manage performance, process changes, pay invoices, and inspect deliverables**. At the end you formally **close** the procurement — confirm everything was delivered, settle final payments, capture lessons learned, and archive records. The graceful goodbye, not the ghosting.
 
 ```mermaid
 sequenceDiagram
@@ -166,13 +168,13 @@ sequenceDiagram
     B->>S: Approve any contract changes
     B->>S: Formal closeout and final payment
 ```
-*The buyer–seller handshake across the full lifecycle, from solicitation to closeout.*
+*The buyer–seller handshake across the full lifecycle, from first hello to clean closeout.*
 
 ---
 
 ## Solicitation documents: RFI, RFQ, RFP
 
-These three get mixed up constantly. The trick is to ask **what answer do I actually want back?**
+These three get mixed up constantly — they're the cousins everyone confuses at the family reunion. The trick is to ask **what answer do I actually want back?**
 
 | Document | You're asking for… | Use it when… |
 |---|---|---|
@@ -184,7 +186,7 @@ These three get mixed up constantly. The trick is to ask **what answer do I actu
 
 ### The Statement of Work (SOW)
 
-The **SOW** describes the work to be done in enough detail that a seller can price it and deliver it. A vague SOW is the single biggest cause of procurement pain — it's where scope creep and disputes are born. A good SOW spells out:
+The **SOW** describes the work to be done in enough detail that a seller can price it and deliver it. A vague SOW is the single biggest cause of procurement pain — it's the loose thread the whole disaster unravels from, where scope creep and disputes are quietly born. A good SOW spells out:
 
 - **Scope** — what's included and, crucially, what's **excluded**.
 - **Deliverables** — concrete outputs with acceptance criteria.
@@ -196,7 +198,7 @@ The **SOW** describes the work to be done in enough detail that a seller can pri
 
 ### Vendor selection criteria
 
-Don't pick on price alone — that's how you end up with the cheapest vendor and the most expensive cleanup. Build a weighted scorecard. Common criteria:
+Don't pick on price alone — that's how you end up with the cheapest vendor and the most expensive cleanup. (We've all dated the bargain; it cost more in the end.) Build a weighted scorecard. Common criteria:
 
 | Criterion | What you're checking |
 |---|---|
@@ -208,11 +210,11 @@ Don't pick on price alone — that's how you end up with the cheapest vendor and
 | **Approach / methodology** | Does their plan make sense? |
 | **Cultural / management fit** | Will they be easy to work with? |
 
-Score each bidder, multiply by your weights, and let the numbers start the conversation. Then apply judgment — the highest score isn't always the right partner.
+Score each bidder, multiply by your weights, and let the numbers start the conversation. Then apply judgment — the highest score isn't always the right partner, and you already know that better than anyone.
 
 ### Service Level Agreements (SLAs)
 
-An **SLA** is the part of the contract that defines **measurable performance promises** — and what happens when they're missed. It turns "good service" into something you can enforce.
+An **SLA** is the part of the contract that defines **measurable performance promises** — and exactly what happens when they're missed. It turns vague "good service" vibes into something you can actually enforce. Promises without consequences are just sweet nothings.
 
 A solid SLA names:
 
@@ -221,7 +223,7 @@ A solid SLA names:
 - **Penalties / service credits** — what the vendor owes you when they miss (often a % credit on the invoice).
 - **Exclusions** — scheduled maintenance, force majeure, etc.
 
-> 🔁 **Sales → PM bridge:** An SLA is your old **quota and comp plan, flipped**. As a seller you lived under metrics and accelerators that defined "performance." Now *you* write those metrics for the vendor. You already know exactly how a target changes behavior — use that instinct to set SLA numbers that are firm but achievable, so the vendor stays motivated instead of gaming the system.
+> 🔁 **Sales → PM bridge:** An SLA is your old **quota and comp plan, flipped**. As a seller you lived *under* metrics and accelerators that defined "performance." Now *you* write those metrics for the vendor. You already know exactly how a target reshapes behavior — use that instinct to set SLA numbers that are firm but achievable, so the vendor stays motivated instead of quietly gaming the system.
 
 ---
 
@@ -229,7 +231,7 @@ A solid SLA names:
 
 This is a natural place to stop, stretch, and let it settle — come back later with fresh eyes if you need to. Nothing here is going anywhere.
 
-- Think of a time a customer pushed you onto a fixed price when the scope was still fuzzy. How did that feel as the *seller*? That discomfort is exactly the risk you're now learning to manage as the buyer.
+- Think of a time a customer pushed you onto a fixed price when the scope was still fuzzy. How did that feel as the *seller*? That exact discomfort is the risk you're now learning to manage from the other side.
 - If you had to buy a service for your current job tomorrow, would you reach for an RFI, RFQ, or RFP — and why?
 - Which contract type would you *default* to, and what would have to be true about the scope to make you change your mind?
 
@@ -237,18 +239,18 @@ This is a natural place to stop, stretch, and let it settle — come back later 
 
 ## Managing the vendor relationship & contract changes
 
-Signing the contract is the **start** of the relationship, not the finish line. Most procurement value — or pain — happens during execution.
+Signing the contract is the **start** of the relationship, not the happily-ever-after. Most procurement value — or pain — happens *during* execution, after the honeymoon, when you find out who they really are.
 
 **Keep the partnership healthy:**
 
-- **Hold regular check-ins** and review SLA dashboards together. Surprises are the enemy.
-- **Communicate early.** If your priorities shift, tell them before it becomes a crisis.
+- **Hold regular check-ins** and review SLA dashboards together. Surprises are the enemy of every good relationship.
+- **Communicate early.** If your priorities shift, tell them before it becomes a crisis — nobody likes finding out third-hand.
 - **Pay on time.** Nothing erodes goodwill — and your leverage — faster than late payments.
-- **Document everything.** In a dispute, the contract and the written record are all that matter.
+- **Document everything.** In a dispute, the contract and the written record are all that matter. "But we *talked* about it" never won an argument.
 
-**Handle changes through a controlled process.** Scope *will* change. When it does, route it through the contract's **change control** mechanism so both sides agree in writing on the new scope, cost, and schedule. Two key ideas:
+**Handle changes through a controlled process.** Scope *will* change — that's not a maybe, it's a when. When it does, route it through the contract's **change control** mechanism so both sides agree in writing on the new scope, cost, and schedule. Two key ideas:
 
-- A **change order / contract change** is a formal, mutually signed modification. No signature, no change.
+- A **change order / contract change** is a formal, mutually signed modification. No signature, no change. Full stop.
 - A **claim** (or dispute) arises when the parties **disagree** about whether a change is owed — often resolved through negotiation, and if that fails, **Alternative Dispute Resolution (ADR)** like mediation or arbitration before anyone goes to court.
 
 ```mermaid
@@ -264,7 +266,7 @@ stateDiagram-v2
 ```
 *A contract's life: changes loop back into the active state once signed; unresolved disagreements detour through dispute resolution.*
 
-**Closing out cleanly** matters as much as starting well. Verify all deliverables meet acceptance criteria, release any retainage or final payment, get a signed acceptance, capture lessons learned, and archive the records. An un-closed contract is a liability that lingers.
+**Closing out cleanly** matters as much as starting well — a graceful exit is its own kind of class. Verify all deliverables meet acceptance criteria, release any retainage or final payment, get a signed acceptance, capture lessons learned, and archive the records. An un-closed contract is a loose end that lingers — and loose ends have a way of coming back in the sequel.
 
 ---
 
@@ -316,7 +318,7 @@ Route it through **contract change control**. It becomes official only as a **si
 
 ## 🧰 Try it
 
-**Draft a one-page mini-procurement package.** Pick something real you could outsource — a logo, a market-research report, a small app feature, office cleaning, whatever.
+**Draft a one-page mini-procurement package.** Pick something real you could outsource — a logo, a market-research report, a small app feature, office cleaning, whatever's been nagging at your to-do list.
 
 1. **Make-or-buy:** Write 2–3 sentences on why buying beats building this. Include one rough number.
 2. **Contract type:** Choose FFP, T&M, or CPFF and justify it in one sentence based on how clear the scope is.
@@ -325,7 +327,7 @@ Route it through **contract change control**. It becomes official only as a **si
 5. **Selection criteria:** Name your top 3 criteria and assign each a weight that totals 100%.
 6. **One SLA line:** Write a single measurable performance metric with a penalty if missed.
 
-If you can fill that page out coherently, you can run a real procurement. Keep it — you'll reuse the structure on the job.
+If you can fill that page out coherently, you can run a real procurement. Keep it — you'll reuse the structure on the job, and future-you will be thrilled past-you bothered.
 
 ---
 
